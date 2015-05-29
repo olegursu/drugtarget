@@ -5,8 +5,8 @@ Drug efficacy targets and indications
 
 ###Drug target table
 
-**Field**   |**Description**
-____________|_____________________________________________________
+**Field**   | **Description**
+------------|----------------------------------------------------
 DRUG_ID     |unique identifier assigned to each active ingredient
 CHEMBL_ID   |ChEMBL database assigned identifier
 DRUG_NAME   |WHO INN name assigned to active ingredient, where available
@@ -19,7 +19,7 @@ REFERENCE   |reference for source, *EXPERT CURATOR* do not have any reference as
 ###Drug indication table
 
 **Field**      |**Description**
-_______________|_____________________________________________________
+---------------|----------------------------------------------------
 DRUG_ID        |unique identifier assigned to each active ingredient
 DRUG_NAME      |WHO INN name assigned to active ingredient, where available
 INDICATION_FDB |drug indication extracted from OMOP v4
