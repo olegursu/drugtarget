@@ -12205,3 +12205,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 5001	eluxadoline	Diarrhea Predominant Irritable Bowel Syndrome	C0348898	197125005	
 5002	insulin lispro	Type 1 Diabetes Mellitus	C0011854	46635009	DOID:9744
 5002	insulin lispro	Type 2 Diabetes Mellitus	C0011860	44054006	DOID:9352
+2446	sirolimus	Pulmonary lymphangioleiomyomatosis	C0349649	277844007	DOID:3319
+4903	nintedanib	Non-Small Cell Lung Cancer	C0007131	254637007	DOID:3908
+5003	insulin human	Type 1 Diabetes Mellitus	C0011854	46635009	DOID:9744
+5003	insulin human	Type 2 Diabetes Mellitus	C0011860	44054006	DOID:9352

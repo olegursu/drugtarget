@@ -16,6 +16,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 5001		eluxadoline	Mu-type opioid receptor	P35372	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206940s000lbl.pdf
 5001		eluxadoline	Delta-type opioid receptor	P41143	ANTAGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206940s000lbl.pdf
 5002		insulin lispro	Insulin receptor	P06213	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020563s124lbl.pdf
+5003		insulin human	Insulin receptor	P06213	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/018780s150lbl.pdf
 2063	CHEMBL1206690	parecoxib	Prostaglandin G/H synthase 2	P35354	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/10794682
 4189	CHEMBL1062	hydroxyprogesterone	Progesterone receptor	P06401	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021945s005lbl.pdf
 4986		pegfilgrastim	Granulocyte colony-stimulating factor receptor	Q99062	ACTIVATOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/125031s082lbl.pdf
@@ -104,7 +105,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4888		topiroxostat	Xanthine dehydrogenase/oxidase	P47989		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/19783139
 4890		ipragliflozin	Sodium/glucose cotransporter 2	P31639	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22139434
 4891		luseogliflozin	Sodium/glucose cotransporter 2	P31639	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20302302
-4892	CHEMBL2110731	tofogliflozin	Sodium/glucose cotransporter 2	P31639		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22889351
+4892	CHEMBL2110731	tofogliflozin	Sodium/glucose cotransporter 2	P31639	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22889351
 4893	CHEMBL235668	tipiracil	Thymidine phosphorylase	P19971		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/12519058
 4895	CHEMBL2147777	teneligliptin	Dipeptidyl peptidase 4	P27487	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22959556
 4896	CHEMBL1929396	anagliptin	Dipeptidyl peptidase 4	P27487	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22019046
@@ -2508,3 +2509,4 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4983		obinutuzumab	B-lymphocyte antigen CD20	P11836	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125486_s008lbl.pdf
 4984		ibritumomab tiuxetan	B-lymphocyte antigen CD20	P11836	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/125019s210s213lbl.pdf
 4985		insulin detemir	Insulin receptor	P06213	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021536s031s051lbl.pdf
+5000		evolocumab	Proprotein convertase subtilisin/kexin type 9	Q8NBP7	ANTIBODY BINDING	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23083772
