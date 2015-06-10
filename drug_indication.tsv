@@ -451,7 +451,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 499	carbinoxamine	Cough	C0010200	49727002	
 492	carbenicillin	E. Coli Prostatitis			
 537	cefixime	Streptococcus Acute Otitis Media	C0271429	3110003	
-537	cefixime	Chronic Bronchitis with Bacterial Exacerbation			
+537	cefixime	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 537	cefixime	Upper Respiratory Infection	C0041912	54150009	DOID:10459
 530	cefazolin	Infectious Disorder of Joint	C0157749	363162000	DOID:381
 527	cefamandole	Enterobacter Peritonitis			
@@ -849,7 +849,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1187	fluconazole	Oropharyngeal Candidiasis			
 1164	fentanyl	Administration of General Anesthesia			
 1205	fluocinonide	Seborrheic Dermatitis	C0036508	50563003	DOID:8741
-1280	gatifloxacin	Chronic Bronchitis with Bacterial Exacerbation			
+1280	gatifloxacin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 1300	glimepiride	Type 2 Diabetes Mellitus	C0011860	44054006	DOID:9352
 1379	homatropine	Cough	C0010200	49727002	
 1349	ulobetasol	Granuloma Annulare	C0085074	65508009	DOID:3777
@@ -2295,7 +2295,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 770	cytarabine	Meningeal Leukemia			
 768	mercaptamine	Cystinosis	C2931187	190681003	DOID:1064
 759	cycloserine	E. Coli Urinary Tract Infection	C0577708	301011002	
-1854	moxifloxacin	Chronic Bronchitis with Bacterial Exacerbation			
+1854	moxifloxacin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 1981	ofloxacin	Haemophilus Parainfluenzae Bronchitis			
 1967	norfloxacin	Legionella Pneumophila Pneumonia			
 1967	norfloxacin	Haemophilus Influenzae Chronic Bronchitis			
@@ -2468,7 +2468,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 192	amoxicillin	Genitourinary Tract Infections			
 183	amlodipine	Hypertension	C0020538	38341003	DOID:10763
 183	amlodipine	Angina Pectoris Prevention			
-198	ampicillin	Chronic Bronchitis with Bacterial Exacerbation			
+198	ampicillin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 255	atenolol	Chronic Angina Pectoris			
 260	atropine	Constipation	C0009806	14760008	DOID:2089
 279	aztreonam	Klebsiella Pneumoniae Septicemia			
@@ -2660,7 +2660,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4456	hydrocortisone succinate	Gouty Arthritis	C0003868	48440001	DOID:13189
 4441	calcium phosphate	Osteoporosis	C0029456	64859006	DOID:11476
 559	ceftazidime	Klebsiella Pneumonia	C0343402	186435004	
-556	cefprozil	Chronic Bronchitis with Bacterial Exacerbation			
+556	cefprozil	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 547	cefotetan	Female Genital Tract Infection	C1263758	125585007	
 550	cefoxitin	Peptococcus Endometritis			
 564	ceftriaxone	Infectious Disorder of Joint	C0157749	363162000	DOID:381
@@ -3852,7 +3852,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4265	gentamicin	Bacterial Septicemia	C0684256	10001005	
 4265	gentamicin	Bacterial Conjunctivitis	C0009768	128350005	DOID:9700
 1583	lindane	Pediculosis Capitis	C0030757	81000006	DOID:5501
-1594	lomefloxacin	Chronic Bronchitis with Bacterial Exacerbation			
+1594	lomefloxacin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 1768	methylprednisolone	Thyroiditis	C0040147	82119001	DOID:7166
 1768	methylprednisolone	Autoimmune Hemolytic Anemia	C0002880	413603009	DOID:718
 1765	naltrexone	Opioid-Induced Constipation	C0267511	21782001	
@@ -4968,7 +4968,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 102	alatrofloxacin	Streptococcus Pneumoniae Bronchitis			
 102	alatrofloxacin	Haemophilus Influenzae Pneumonia	C0276026	70036007	
 163	aminocaproic acid	Postsurgical Hemorrhage			
-192	amoxicillin	Chronic Bronchitis with Bacterial Exacerbation			
+192	amoxicillin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 2082	benzylpenicillin	Rat-Bite Fever	C0034686	1685005	
 2055	calcium pantothenate	Pantothenic Acid Deficiency	C0342938	238128006	
 2048	pamidronic acid	Paget's Disease of Bone	C0029401	2089002	DOID:5408
@@ -5452,7 +5452,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 616	chlorphenamine	Nasal Congestion	C0027424	68235000	
 624	chlortetracycline	Trachoma	C0040592	2576002	DOID:11265
 659	ciprofloxacin	Skin and Skin Structure Proteus Infection			
-640	cilastatin	Chronic Bronchitis with Bacterial Exacerbation			
+640	cilastatin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 669	clavulanic acid	Moraxella Catarrhalis Pneumonia			
 668	clarithromycin	Bacterial Pneumonia	C0004626	53084003	DOID:874
 2725	triamcinolone	Bursitis	C0006444	84017003	DOID:2965
@@ -6151,7 +6151,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 659	ciprofloxacin	Enterobacter Osteomyelitis			
 674	clevidipine	Hypertension	C0020538	38341003	DOID:10763
 668	clarithromycin	Streptococcus Pneumoniae Bronchitis			
-668	clarithromycin	Chronic Bronchitis with Bacterial Exacerbation			
+668	clarithromycin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 668	clarithromycin	Skin and Skin Structure Streptoccous Pyogenes Infection	C0554628	302809008	
 2445	simvastatin	Primary Dysbetalipoproteinemia	C0020479	398796005	DOID:3145
 2428	secobarbital	Tetanus Adjunct Treatment			
@@ -6352,7 +6352,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1247	fosphenytoin	Complex-Partial Epilepsy	C2711653	442481002	
 1883	naproxen	Juvenile Rheumatoid Arthritis	C3495559	410795001	
 1981	ofloxacin	Haemophilus Parainfluenzae Pneumonia			
-1981	ofloxacin	Chronic Bronchitis with Bacterial Exacerbation			
+1981	ofloxacin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 546	cefotaxime	Peritonitis	C0031154	48661000	
 537	cefixime	Streptococcus Pneumoniae Bronchitis			
 559	ceftazidime	EnterobacterJoint Infection			
@@ -6722,7 +6722,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 542	cefonicid	Haemophilus Influenzae Pneumonia	C0276026	70036007	
 542	cefonicid	Staphylococcus Aureus Osteomyelitis	C1997728	428783003	
 535	cefepime	Presumed Infection in Febrile Neutropenic Patient			
-534	cefditoren pivoxil	Chronic Bronchitis with Bacterial Exacerbation			
+534	cefditoren pivoxil	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 533	cefdinir	Staphylococcus Aureus Skin and Skin Structure Infection	C1318973	406602003	
 2424	scopolamine	Cough	C0010200	49727002	
 2529	sulfafurazole	Pneumococcal Acute Otitis Media			
@@ -7340,7 +7340,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1967	norfloxacin	Nosocomial Pneumonia due to Serratia Marcescens			
 1967	norfloxacin	Chlamydial Pneumonia	C0339959	233609002	
 1981	ofloxacin	Staphylococcus Epidermidis Skin and Skin Structure Infection			
-1967	norfloxacin	Chronic Bronchitis with Bacterial Exacerbation			
+1967	norfloxacin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 1967	norfloxacin	Enterococcus Endomyometritis			
 1960	norepinephrine	Asthma Prevention	C1318955	406162001	
 564	ceftriaxone	Acute Lower Genitourinary Gonorrhea	C0018081	15628003	DOID:7551
@@ -7425,7 +7425,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2456	sofalcone	Meibomianitis	C0549398	309779001	
 2514	sulfamethoxazole	Morganella Morganii Urinary Tract Infection			
 2514	sulfamethoxazole	Haemophilus Influenzae Acute Otitis Media			
-2514	sulfamethoxazole	Chronic Bronchitis with Bacterial Exacerbation			
+2514	sulfamethoxazole	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 925	dirithromycin	Bronchitis	C0006277	32398004	DOID:6132
 1024	ephedrine	Bronchospastic Pulmonary Disease	C0006266	4386001	
 988	edrophonium	Diagnostic Test for Myasthenia Gravis			
@@ -7513,7 +7513,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1205	fluocinonide	Skin Inflammation	C0011603	182782007	DOID:2723
 1334	guaiacol	Rhinitis	C0035455	70076002	DOID:4483
 1316	glycerol	Administration of Local Anesthesia	C0002921	386761002	
-1286	gemifloxacin	Chronic Bronchitis with Bacterial Exacerbation			
+1286	gemifloxacin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 1280	gatifloxacin	Staphylococcus Aureus Skin and Skin Structure Infection	C1318973	406602003	
 1379	homatropine	Constipation	C0009806	14760008	DOID:2089
 52	acetaminophen	Mild Arthritic Pain			
@@ -8290,7 +8290,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4219	sodium phosphate	Status Asthmaticus	C0038218	57546000	DOID:9362
 1423	imatinib	Myelodysplastic/ Myeloproliferative Diseases associated with Platelet-derived Growth Factor Receptor			
 1569	levofloxacin	Complicated Skin and Skin Structure Infection			
-1569	levofloxacin	Chronic Bronchitis with Bacterial Exacerbation			
+1569	levofloxacin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 1540	lamotrigine	Bipolar Disorder in Remission	C0270425	85248005	
 1547	lansoprazole	Erosive Esophagitis	C0267055	40719004	
 183	amlodipine	Primary Dysbetalipoproteinemia	C0020479	398796005	DOID:3145
@@ -8407,7 +8407,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 661	cisatracurium	Muscle Relaxation	C0026836	11977004	
 719	clotrimazole	Oral Candidiasis	C0006849	79740000	DOID:14262
 2727	triamcinolone diacetate	Contact Dermatitis	C0011616	40275004	DOID:2773
-2755	trimethoprim	Chronic Bronchitis with Bacterial Exacerbation			
+2755	trimethoprim	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 2759	trioxsalen	Vitiligo	C0042900	56727007	DOID:12306
 2726	triamcinolone acetonide	Mycosis Fungoides	C0026948	118618005	DOID:8691
 2726	triamcinolone acetonide	Synovitis	C0039103	416209007	DOID:2703
@@ -9375,7 +9375,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1963	norethindrone acetate	Secondary Amenorrhea	C0232940	86030004	
 2041	oxytetracycline	Skin and Skin Structure Infection	C0178299	19824006	
 2006	oxacillin	Staphylococcus Aureus Urinary Tract Infection			
-555	cefpodoxime	Chronic Bronchitis with Bacterial Exacerbation			
+555	cefpodoxime	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 555	cefpodoxime	Streptococcus Acute Otitis Media	C0271429	3110003	
 555	cefpodoxime	Pharyngitis due to Streptococcus Pyogenes	C0554628	302809008	
 547	cefotetan	Clostridium Peritonitis			
@@ -9893,7 +9893,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2838	ergocalciferol	Post-Menopausal Osteoporosis	C0029458	102447009	
 2843	phytomenadione	Hypoprothrombinemia	C3203356	73975000	DOID:2235
 3754	hexethal	Cutaneous T-Cell Lymphoma	C0079773	400122007	
-1426	imipenem	Chronic Bronchitis with Bacterial Exacerbation			
+1426	imipenem	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 1407	ibuprofen	Sinus Headache	C0037195	4969004	
 1566	levocetirizine	Chronic Idiopathic Urticaria	C0578870	302162004	
 198	ampicillin	Infectious Disease of Abdomen	C1112209	128070006	
@@ -11156,7 +11156,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 564	ceftriaxone	Klebsiella Pneumoniae Osteomyelitis			
 563	ceftizoxime	Serratia Urinary Tract Infection			
 575	cefapirin	E. Coli Urinary Tract Infection	C0577708	301011002	
-565	cefuroxime	Chronic Bronchitis with Bacterial Exacerbation			
+565	cefuroxime	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 597	chlorhexidine	Gingivitis	C0017574	66383009	DOID:3087
 616	chlorphenamine	Pruritus of Skin	C0033774	418363000	
 1232	leucovorin	Sulfadiazine Toxicity			
@@ -11233,7 +11233,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 279	aztreonam	Urinary Tract Infections	C0042029	68566005	
 279	aztreonam	Proteus Pneumonia	C1260917	195888009	
 280	bacampicillin	Acute Otitis Media Infection	C0729586	312218008	
-276	azithromycin	Chronic Bronchitis with Bacterial Exacerbation			
+276	azithromycin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 294	beclometasone	Asthma Prevention	C1318955	406162001	
 348	betamethasone	Tenosynovitis	C0039520	67801009	DOID:970
 348	betamethasone	Genital Organ Pruritus	C0033777	267802000	
@@ -11662,8 +11662,8 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 566	cefuroxime axetil	Haemophilus Influenzae Chronic Bronchitis			
 2512	sulfamethizole	Streptococcus Pneumoniae Chronic Bronchitis			
 566	cefuroxime axetil	Streptococcus Pneumoniae Chronic Bronchitis			
-2512	sulfamethizole	Chronic Bronchitis with Bacterial Exacerbation			
-566	cefuroxime axetil	Chronic Bronchitis with Bacterial Exacerbation			
+2512	sulfamethizole	Acute exacerbation of chronic bronchitis	C0856695	425748003	
+566	cefuroxime axetil	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 2777	trovafloxacin	Moraxella Catarrhalis Bronchitis	C0339932	195722003	
 2777	trovafloxacin	Haemophilus Parainfluenzae Bronchitis			
 566	cefuroxime axetil	Haemophilus Parainfluenzae Bronchitis			
@@ -11984,7 +11984,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4118	pazopanib	Sarcoma of soft tissue	C1261473	424952003	
 1771	methylprednisolone succinate	Nephrotic Syndrome	C0027726	52254009	DOID:1184
 4897	edoxaban	Hip Surgery Deep Vein Thrombosis Prevention	C2585945	439993001	
-2360	rebamipide	Tear Film Insufficiency	C0013238	46152009	DOID:10140
 2845	voglibose	Type 2 Diabetes Mellitus	C0011860	44054006	DOID:9352
 1818	mitiglinide	Type 2 Diabetes Mellitus	C0011860	44054006	DOID:9352
 4365	vernakalant	Atrial Fibrillation	C0004238	49436004	
@@ -12209,3 +12208,11 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4903	nintedanib	Non-Small Cell Lung Cancer	C0007131	254637007	DOID:3908
 5003	insulin human	Type 1 Diabetes Mellitus	C0011854	46635009	DOID:9744
 5003	insulin human	Type 2 Diabetes Mellitus	C0011860	44054006	DOID:9352
+2360	rebamipide	Gastritis	C0017152	4556007	DOID:4029
+2360	rebamipide	Peptic Ulcer	C0030920	13200003	DOID:750
+2325	prulifloxacin	Lower urinary tract infectious disease	C0268821	4009004	
+2325	prulifloxacin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
+2018	oxeladin	Non-productive Cough	C0850149	409596002	
+161	amineptine	Depression	C0011581	35489007	DOID:2848
+4988	deoxycholic acid	Excess subcutaneous fat	C0424620	248302001	
+5004	ocriplasmin	Vitreomacular traction syndrome	C0730274	312901001	

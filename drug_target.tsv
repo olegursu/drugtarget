@@ -71,6 +71,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4302	CHEMBL1201335	glycopyrronium bromide	Muscarinic acetylcholine receptor M3	P20309	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201335
 4302	CHEMBL1201335	glycopyrronium bromide	Muscarinic acetylcholine receptor M4	P08173	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7459
 4302	CHEMBL1201335	glycopyrronium bromide	Muscarinic acetylcholine receptor M5	P08912	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7459
+4342	CHEMBL313971	zucapsaicin	Transient receptor potential cation channel subfamily V member 1	Q8NER1	OPENER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/25171227
 4915	CHEMBL1742992	blinatumomab	B-lymphocyte antigen CD19	P15391	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125557lbl.pdf
 4915	CHEMBL1742992	blinatumomab	T-cell surface glycoprotein CD3	P04234|P07766|P09693	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125557lbl.pdf
 2368	CHEMBL1095607	reproterol	Beta-2 adrenergic receptor	P07550		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/10364735
@@ -2002,7 +2003,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 1873	CHEMBL142635	naftopidil	Alpha-1B adrenergic receptor	P35368		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/10976457
 3713	CHEMBL2104132	ciramadol	Mu-type opioid receptor	P35372		EXPERT CURATOR	
 1729	CHEMBL170179	acetylmethadol	Mu-type opioid receptor	P35372		EXPERT CURATOR	
-4910	CHEMBL1908309	felypressin	Vasopressin V1a receptor	P37288		EXPERT CURATOR	
+4910	CHEMBL1908309	felypressin	Vasopressin V1a receptor	P37288	AGONIST	EXPERT CURATOR	
 48	CHEMBL397420	acenocoumarol	Vitamin K epoxide reductase complex subunit 1	Q9BQB6	INHIBITOR	EXPERT CURATOR	
 2138	CHEMBL16694	phenprocoumon	Vitamin K epoxide reductase complex subunit 1	Q9BQB6	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL16694
 867	CHEMBL1466	dicoumarol	Vitamin K epoxide reductase complex subunit 1	Q9BQB6	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1466
@@ -2402,6 +2403,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4318	CHEMBL1173655	afatinib	Epidermal growth factor receptor	P00533	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1173655
 4318	CHEMBL1173655	afatinib	Receptor tyrosine-protein kinase erbB-2	P04626	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1173655
 4318	CHEMBL1173655	afatinib	Receptor tyrosine-protein kinase erbB-4	Q15303	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1173655
+4326	CHEMBL426559	laropiprant	Prostaglandin D2 receptor	Q13258	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/17300164
 4334	CHEMBL46740	bazedoxifene	Estrogen receptor	P03372	MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL46740
 4334	CHEMBL46740	bazedoxifene	Estrogen receptor beta	Q92731	MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL46740
 4340	CHEMBL376359	alogliptin	Dipeptidyl peptidase 4	P27487	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL376359
@@ -2510,3 +2512,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4984		ibritumomab tiuxetan	B-lymphocyte antigen CD20	P11836	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/125019s210s213lbl.pdf
 4985		insulin detemir	Insulin receptor	P06213	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021536s031s051lbl.pdf
 5000		evolocumab	Proprotein convertase subtilisin/kexin type 9	Q8NBP7	ANTIBODY BINDING	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23083772
+2281	CHEMBL316561	proglumide	Gastrin/cholecystokinin type B receptor	P32239	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/2863192
+4659	CHEMBL461522	metamizole	Transient receptor potential cation channel subfamily A member 1	O75762	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/25765567
+2309	CHEMBL28318	propyphenazone	Transient receptor potential cation channel subfamily A member 1	O75762	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/25765567

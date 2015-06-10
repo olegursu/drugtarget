@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jun 10 15:31:13 MDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014d-df62-5496-00000e4b5150 
+on database directory /Users/oleg/Documents/dbase/drugdb/.config/localdb/db with class loader sun.misc.Launcher$AppClassLoader@20e90906 
+Loaded from file:/Users/oleg/.m2/repository/edu/unm/medicine/tid/drugdbapi/0.1/drugdbapi-0.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_76-b13
+user.dir=/Users/oleg/workspace/cc/drugtarget
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.9.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath='APP.DBUTIL'
