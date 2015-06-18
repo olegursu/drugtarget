@@ -2456,6 +2456,17 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4654	CHEMBL1946170	regorafenib	Angiopoietin-1 receptor	Q02763	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1946170
 4654	CHEMBL1946170	regorafenib	Platelet-derived growth factor receptor	P09619|P16234	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1946170
 4654	CHEMBL1946170	regorafenib	Proto-oncogene tyrosine-protein kinase receptor Ret	P07949	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1946170
+4682	CHEMBL483254	panobinostat	Histone deacetylase 10	Q969S8	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 11	Q96DB2	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 8	Q9BY41	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 9	Q9UKV0	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 6	Q9UBN7	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 1	Q13547	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 4	P56524	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 3	O15379	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 2	Q92769	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 5	Q9UQL6	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
+4682	CHEMBL483254	panobinostat	Histone deacetylase 7	Q8WUI4	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205353s000lbl.pdf
 4684	CHEMBL1214124	perampanel	Glutamate receptor ionotropic AMPA	P42261|P42262|P42263|P48058	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1214124
 4713	CHEMBL221959	tofacitinib	JAK2/TYK2	O60674|P29597	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL221959
 4713	CHEMBL221959	tofacitinib	JAK1/TYK2	P23458|P29597	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL221959
@@ -2468,6 +2479,9 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4811	CHEMBL1259059	sofosbuvir	NS5B protein	Q8JXU8	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1259059
 4812	CHEMBL501849	simeprevir	Hepatitis C virus serine protease, NS3/NS4A	A3EZI9|D2K2A8	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL501849
 4813	CHEMBL2105689	luliconazole	Lanosterol 14-alpha demethylase	P10613	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL2105689
+4823	CHEMBL139367	peramivir	Neuraminidase	P03468	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206426lbl.pdf
+4823	CHEMBL139367	peramivir	Neuraminidase	P03474	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206426lbl.pdf
+4823	CHEMBL139367	peramivir	Neuraminidase	Q9IGQ6	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/206426lbl.pdf
 4839	CHEMBL1201619	aprotinin	Plasma kallikrein	P03952	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201619
 4850	CHEMBL1790041	ranitidine bismuth citrate	Histamine H2 receptor	P25021	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1790041
 4874	CHEMBL2103877	efinaconazole	Lanosterol 14-alpha demethylase	F2SHH3	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL2103877
