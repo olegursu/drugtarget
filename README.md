@@ -1,5 +1,5 @@
 # drugtarget
-Drug efficacy targets and indications
+Drug efficacy targets, indications, and pharmacological class
 
 ##Data tables
 
