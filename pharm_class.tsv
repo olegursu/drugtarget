@@ -7570,7 +7570,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 205	amyl nitrite	PA	D002317	Cardiovascular Agents	MeSH
 209	anagrelide	PA	D002317	Cardiovascular Agents	MeSH
 1546	lanreotide	PA	D002317	Cardiovascular Agents	MeSH
-2981	Angiotensin II	PA	D002317	Cardiovascular Agents	MeSH
 231	aprindine	PA	D002317	Cardiovascular Agents	MeSH
 237	arbutamine	PA	D002317	Cardiovascular Agents	MeSH
 74	acetylsalicylic acid	PA	D002317	Cardiovascular Agents	MeSH
@@ -9578,7 +9577,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 801	demecarium	PA	D004791	Enzyme Inhibitors	MeSH
 812	desipramine	PA	D004791	Enzyme Inhibitors	MeSH
 813	deslanoside	PA	D004791	Enzyme Inhibitors	MeSH
-815	deslorelin	PA	D004791	Enzyme Inhibitors	MeSH
 4162	dexlansoprazole	PA	D004791	Enzyme Inhibitors	MeSH
 839	dexrazoxane	PA	D004791	Enzyme Inhibitors	MeSH
 864	dichlorphenamide	PA	D004791	Enzyme Inhibitors	MeSH
@@ -14880,7 +14878,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2809	vardenafil	PA	D064804	Urological Agents	MeSH
 3659	yohimbine	PA	D064804	Urological Agents	MeSH
 96	adrenalone	PA	D014662	Vasoconstrictor Agents	MeSH
-2981	Angiotensin II	PA	D014662	Vasoconstrictor Agents	MeSH
 466	calcitriol	PA	D014662	Vasoconstrictor Agents	MeSH
 723	cocaine	PA	D014662	Vasoconstrictor Agents	MeSH
 888	dihydroergotamine	PA	D014662	Vasoconstrictor Agents	MeSH

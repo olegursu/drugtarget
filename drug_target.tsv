@@ -121,6 +121,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4382	CHEMBL2095212	mirabegron	Beta-3 adrenergic receptor	P13945	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/17293563
 4866	CHEMBL2403108	ceritinib	ALK tyrosine kinase receptor	Q9UM73	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23742252
 4870	CHEMBL493982	vorapaxar	Proteinase-activated receptor 1	P25116	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/18447380
+4833		gemigliptin	Dipeptidyl peptidase 4	P27487	INHIBITOR	SCIENTIFIC LITERATURE	http://professional.diabetes.org/Content/Posters/2008/p502-P.pdf
 4834	CHEMBL2110588	eliglustat	Ceramide glucosyltransferase	Q16739	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22058426
 4864	CHEMBL99946	levomilnacipran	Sodium-dependent serotonin transporter	P31645	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23499664
 4864	CHEMBL99946	levomilnacipran	Sodium-dependent noradrenaline transporter	P23975	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23499664
@@ -1996,6 +1997,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 93	CHEMBL328250	adinazolam	GABA-A receptor	O14764|P14867|P18505|P18507|P28472|P31644|P34903|P47869|P47870|P48169|Q16445|Q8N1C3|Q99928		EXPERT CURATOR	
 388	CHEMBL178803	blonanserin	D(2) dopamine receptor	P14416	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15686911
 388	CHEMBL178803	blonanserin	5-hydroxytryptamine receptor 2A	P28223	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15686911
+4226	CHEMBL1863513	ingenol mebutate	Protein kinase C delta type	Q05655	ACTIVATOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15126366
 127	CHEMBL1183717	almitrine	Sodium/potassium-transporting ATPase subunit alpha-1	P05023		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/2165421
 4112	CHEMBL184412	dronedarone	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1	O60741	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23647933
 4112	CHEMBL184412	dronedarone	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	Q9UL51	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23647933
@@ -2048,6 +2050,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 2729	CHEMBL646	triazolam	Gamma-aminobutyric acid receptor subunit alpha-2	P47869	POSITIVE ALLOSTERIC MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL646
 3100	CHEMBL2103778	cilansetron	5-hydroxytryptamine receptor 3A	P46098	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15869320
 2112	CHEMBL1472975	perospirone	D(4) dopamine receptor	P21917	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7556
+4234	CHEMBL2107866	peginesatide	Erythropoietin receptor	P19235	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/202799s001lbl.pdf
 820	CHEMBL1498	desoxycortone	Mineralocorticoid receptor	P08235	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1498
 1299	CHEMBL427216	gliclazide	Sulfonylurea receptor 1, Kir6.2	Q09428|Q14654	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/2445740
 1314	CHEMBL472	glibenclamide	Sulfonylurea receptor 1, Kir6.2	Q09428|Q14654	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/2445740
@@ -2306,6 +2309,11 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 583	CHEMBL1200490	cetrorelix	Gonadotropin-releasing hormone receptor	P30968	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200490
 1236	CHEMBL1201202	fondaparinux	Antithrombin-III	P01008	ACTIVATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201202
 1279	CHEMBL1251	ganirelix	Gonadotropin-releasing hormone receptor	P30968	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1251
+2997	CHEMBL1823872	somatostatin	Somatostatin receptor type 2	P30874	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=61
+2997	CHEMBL1823872	somatostatin	Somatostatin receptor type 1	P30872	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=61
+2997	CHEMBL1823872	somatostatin	Somatostatin receptor type 5	P35346	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=61
+2997	CHEMBL1823872	somatostatin	Somatostatin receptor type 3	P32745	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=61
+2997	CHEMBL1823872	somatostatin	Somatostatin receptor type 4	P31391	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=61
 1123	CHEMBL414357	exenatide	Glucagon-like peptide 1 receptor	P43220	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL414357
 1010	CHEMBL525076	enfuvirtide	Transmembrane glycoprotein gp41	O40239	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL525076
 4124	CHEMBL98	vorinostat	Histone deacetylase 6	Q9UBN7	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL98
@@ -2411,6 +2419,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4390	CHEMBL190	choline theophyllinate	Adenosine A2 receptor	P29274|P29275	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4390	CHEMBL190	choline theophyllinate	Phosphodiesterase 3	Q13370|Q14432	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4399	CHEMBL461101	eltrombopag	Thrombopoietin receptor	P40238	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL461101
+4401	CHEMBL1672054	casopitant	Substance-P receptor	P25103	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/19536319
 4410	CHEMBL18442	plerixafor	C-X-C chemokine receptor type 4	P61073	PARTIAL AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL18442
 4426	CHEMBL190	bufylline	Phosphodiesterase 4	P27815|Q07343|Q08493|Q08499	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4426	CHEMBL190	bufylline	Adenosine receptor A1	P30542	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
@@ -2519,4 +2528,9 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 2309	CHEMBL28318	propyphenazone	Transient receptor potential cation channel subfamily A member 1	O75762	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/25765567
 861	CHEMBL1697834	phenazone	Transient receptor potential cation channel subfamily A member 1	O75762	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/25765567
 3525	CHEMBL1618279	revaprazan	Potassium-transporting ATPase	P20648|P51164	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/14681344
+346	CHEMBL24441	betahistine	Histamine H3 receptor	Q9Y5N1	INVERSE AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20530654
+4858	CHEMBL2108182	corticorelin	Corticotropin-releasing factor receptor 1	P34998	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=212
+4778	CHEMBL2103839	ridaforolimus	Serine/threonine-protein kinase mTOR	P42345	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/21482695
+4336	CHEMBL354077	amifampridine	Voltage-gated potassium channel	O43525|O43526|O95259|P16389|P17658|P22001|P22459|P22460|P48547|P51787|P56696|Q03721|Q09470|Q12809|Q14003|Q14721|Q16322|Q6PIU1|Q8NCM2|Q8TAE7|Q8TDN1|Q8TDN2|Q92953|Q96KK3|Q96L42|Q96PR1|Q96RP8|Q9BQ31|Q9H252|Q9H3M0|Q9NR82|Q9NS40|Q9NSA2|Q9NZV8|Q9UIX4|Q9UJ96|Q9UK17|Q9ULD8|Q9ULS6|Q9UQ05	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22805230
+4153	CHEMBL1201748	cabazitaxel	Tubulin beta	P04350|P07437|P68371|Q13509|Q13885|Q3ZCM7|Q9BUF5|Q9BVA1|Q9H4B7	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23337758
 5005		mirodenafil	cGMP-specific 3',5'-cyclic phosphodiesterase	O76074	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/18638004

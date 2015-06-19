@@ -166,7 +166,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4678	oritavancin	Staphylococcal infection of skin	C0038166	402938009	
 4678	oritavancin	Streptococcal infection of skin	C1274355	402937004	
 3180	enviomycin	Pulmonary Tuberculosis	C0041327	154283005	DOID:2957
-2952	plitidepsin	Myelosclerosis with myeloid metaplasia	C0001815	307651005	DOID:4971
 4881	suvorexant	Insomnia	C0917801	193462001	
 831	dexetimide	Neuroleptic-induced Parkinsonism	C0236830	72820004	
 4834	eliglustat	Gaucher's Disease	C0017205	190794006	DOID:1926
@@ -12219,6 +12218,8 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1639	mazaticol	Extrapyramidal sign	C0234133	43378000	
 278	azosemide	Congestive heart failure	C0018802	42343007	DOID:6000
 4945	pancreozymin	Pancreatic function test	C0030291	252243002	
+4338	angiotensinamide	Hypotension	C0020649	45007003	
+2955	eledoisin	Sjogren's Syndrome	C1527336	83901003	DOID:12894
 2018	oxeladin	Non-productive Cough	C0850149	409596002	
 161	amineptine	Depression	C0011581	35489007	DOID:2848
 4988	deoxycholic acid	Excess subcutaneous fat	C0424620	248302001	
