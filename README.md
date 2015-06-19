@@ -1,5 +1,5 @@
 # drugtarget
-Drug efficacy targets, indications, and pharmacological class
+Drug efficacy targets, indications, and pharmacologic class
 
 ##Data tables
 
@@ -27,14 +27,13 @@ UMLS_CUI       |UMLS concept unique identifier http://www.nlm.nih.gov/research/u
 SNOMEDCT_CUI   |SNOMED-CT concept unique identifier http://www.nlm.nih.gov/research/umls/Snomed/snomed_main.html
 DOID           |Disease Ontology identifier http://disease-ontology.org/
 
-
 ###Pharmacologic class table
 
-**Field**      |**Description**
----------------|----------------------------------------------------
-DRUG_ID        |unique identifier assigned to each active ingredient
-DRUG_NAME      |WHO INN name assigned to active ingredient, where available http://www.who.int/medicines/services/inn/en/
-TYPE           |type according to source: FDA - Mechanism of Action (MOA), Physiologic Effect (PE), Chemical Structure (CS), and FDA Established Pharmacologic Class (EPC), MeSH - Pharmacological Action (PA)
-CLASS_SOURCE_ID|class identifier provided by source
-CLASS          |pharmacologic class
-SOURCE         |source of classification: MeSH http://www.nlm.nih.gov/mesh/pa_abt.html and FDA http://www.fda.gov/ForIndustry/DataStandards/StructuredProductLabeling/ucm162549.htm
+**Field**       |**Description**
+----------------|----------------------------------------------------
+DRUG_ID         |unique identifier assigned to each active ingredient
+DRUG_NAME       |WHO INN name assigned to active ingredient, where available http://www.who.int/medicines/services/inn/en/
+TYPE            |type according to source: FDA - Mechanism of Action (MOA), Physiologic Effect (PE), Chemical Structure (CS), and FDA Established Pharmacologic Class (EPC), MeSH - Pharmacological Action (PA)
+CLASS_SOURCE_ID |class identifier provided by source
+CLASS           |pharmacologic class
+SOURCE          |source of classification: MeSH http://www.nlm.nih.gov/mesh/pa_abt.html and FDA http://www.fda.gov/ForIndustry/DataStandards/StructuredProductLabeling/ucm162549.htm
