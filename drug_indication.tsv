@@ -1,4 +1,6 @@
 DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
+5012	sacubitril	Chronic Heart Failure	C0264716	48447003	
+5013	trelagliptin	Type 2 Diabetes Mellitus	C0011860	44054006	DOID:9352
 4989	velaglucerase alfa	Chronic non-neuropathic Gaucher's disease	C1961835	62201009	DOID:1926
 1999	orphenadrine	Parkinsonism	C0242422	32798002	DOID:13548
 4990	trastuzumab emtansine	HER2-positive carcinoma of breast	C1960398	427685000	
@@ -4009,7 +4011,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2958	gonadorelin	Amenorrhea	C0002453	14302001	DOID:13938
 2843	phytomenadione	Hypocalcemia	C0020598	5291005	
 2840	colecalciferol	Vitamin Deficiency	C1510471	85670002	
-1395	hydroxychloroquine	Plasmodium Vivax Malaria Prevention	27052006	27052006	DOID:12978
+1395	hydroxychloroquine	Plasmodium Vivax Malaria Prevention	C0024537	27052006	DOID:12978
 1501	isosorbide	Angina	C0002962	194828000	
 1493	isoflurane	Administration of General Anesthesia			
 1454	iodinated glycerol	Cough	C0010200	49727002	
@@ -4483,7 +4485,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1569	levofloxacin	Streptococcal Pneumonia	C0155862	34020007	
 1569	levofloxacin	Bacterial Corneal Ulcer Infection			
 1533	lactic acid	Disorder of Electrolytes	C1704431	237840007	
-1665	mefloquine	Plasmodium Vivax Malaria Prevention	27052006	27052006	DOID:12978
+1665	mefloquine	Plasmodium Vivax Malaria Prevention	C0024537	27052006	DOID:12978
 1708	mercaptopurine	Acute Promyelocytic Leukemia	C0023487	110004001	
 2656	ticarcillin	Morganella Septicemia			
 2727	triamcinolone diacetate	Primary Adrenocortical Insufficiency	C0001403	373662000	DOID:13774
@@ -7265,7 +7267,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 276	azithromycin	Pharyngitis due to Streptococcus Pyogenes	C0554628	302809008	
 2279	progesterone	Secondary Amenorrhea	C0232940	86030004	
 2268	probenecid	Acute Gonococcal Cervicitis	C0153195	20943002	DOID:10615
-2266	primaquine	Plasmodium Vivax Malaria Prevention	27052006	27052006	DOID:12978
+2266	primaquine	Plasmodium Vivax Malaria Prevention	C0024537	27052006	DOID:12978
 2331	mepyramine	Vasomotor Rhinitis	C0035460	8229003	DOID:4730
 2358	ranitidine	Maintenance of Healing Duodenal Ulcer			
 2350	rabeprazole	Maintenance of Healing Gastroesophageal Reflux			
@@ -10751,7 +10753,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1962	norethisterone	Endometriosis	C0014175	129103003	DOID:289
 2132	pheniramine	Anaphylaxis Adjunct			
 563	ceftizoxime	Providencia Urinary Tract Infection			
-607	chloroquine	Plasmodium Vivax Malaria Prevention	27052006	27052006	DOID:12978
+607	chloroquine	Plasmodium Vivax Malaria Prevention	C0024537	27052006	DOID:12978
 611	chloroxine	Seborrheic Dermatitis	C0036508	50563003	DOID:8741
 616	chlorphenamine	Atopic Rhinitis	C2607914	61582004	
 616	chlorphenamine	Sore Throat	C0242429	267102003	
@@ -12233,3 +12235,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 5004	ocriplasmin	Vitreomacular traction syndrome	C0730274	312901001	
 5010	lumacaftor	Respiratory Cystic Fibrosis	C0392164	86555001	
 4228	ivacaftor	Respiratory Cystic Fibrosis	C0392164	86555001	
+1375	histamine	Acute Myeloid Leukemia	C0023467	91861009	DOID:9119
+5011	aldesleukin	Acute Myeloid Leukemia	C0023467	91861009	DOID:9119
+5011	aldesleukin	Metastatic renal cell carcinoma	C0278678	702392008	
+5011	aldesleukin	Metastatic Malignant Melanoma	C0860594	443493003	

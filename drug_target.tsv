@@ -1,4 +1,6 @@
 DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
+5012		sacubitril	Neprilysin	P08473	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/207620Orig1s000lbl.pdf
+5013		trelagliptin	Dipeptidyl peptidase 4	P27487	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/26115728
 1293	CHEMBL1730601	gimeracil	Dihydropyrimidine dehydrogenase [NADP(+)]	Q12882	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/21668582
 2002	CHEMBL181932	oteracil	Uridine 5'-monophosphate synthase	P11172	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/8862723
 4172	CHEMBL218394	boceprevir	Hepatitis C virus serine protease, NS3/NS4A	A3EZI9|D2K2A8	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL218394
@@ -113,9 +115,9 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4622	CHEMBL3301675	linaclotide	Heat-stable enterotoxin receptor	P25092	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20863829
 4881	CHEMBL1083659	suvorexant	Orexin receptor type 1	O43613	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20565075
 4881	CHEMBL1083659	suvorexant	Orexin receptor type 2	O43614	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20565075
-2616	CHEMBL468	thalidomide	Protein cereblon	Q96SW2		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/25043012
-3317	CHEMBL848	lenalidomide	Protein cereblon	Q96SW2		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/25043012
-4746	CHEMBL43452	pomalidomide	Protein cereblon	Q96SW2		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/25043012
+2616	CHEMBL468	thalidomide	Protein cereblon	Q96SW2	MODULATOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/26131937
+3317	CHEMBL848	lenalidomide	Protein cereblon	Q96SW2	MODULATOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/26131937
+4746	CHEMBL43452	pomalidomide	Protein cereblon	Q96SW2	MODULATOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/26131937
 4875	CHEMBL2023898	daclatasvir	Genome polyprotein	P27958		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20410884
 4875	CHEMBL2023898	daclatasvir	Genome polyprotein	P26663		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20410884
 4382	CHEMBL2095212	mirabegron	Beta-3 adrenergic receptor	P13945	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/17293563
@@ -927,6 +929,8 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 2302	CHEMBL526	propofol	GABA-A receptor alpha-1/beta-2/gamma-2	P14867|P18507|P47870	POSITIVE ALLOSTERIC MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL526
 2302	CHEMBL526	propofol	GABA-A receptor alpha-1/beta-3/gamma-2	P14867|P18507|P28472	POSITIVE ALLOSTERIC MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL526
 2302	CHEMBL526	propofol	GABA A receptor alpha-2/beta-2/gamma-2	P18507|P47869|P47870	POSITIVE ALLOSTERIC MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL526
+1480	CHEMBL92401	iproniazid	Amine oxidase [flavin-containing] A	P21397	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/1101049
+1480	CHEMBL92401	iproniazid	Amine oxidase [flavin-containing] B	P27338	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/1101049
 1794	CHEMBL558	mexiletine	Sodium channel protein type 10 subunit alpha	Q9Y5Y9	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL558
 1794	CHEMBL558	mexiletine	Sodium channel protein type 9 subunit alpha	Q15858	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL558
 1794	CHEMBL558	mexiletine	Sodium channel protein type 2 subunit alpha	Q99250	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL558
@@ -2531,4 +2535,5 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 723	CHEMBL370805	cocaine	Sodium-dependent dopamine transporter	Q01959	INHIBITOR	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2286
 5009		mecasermin	Insulin-like growth factor 1 receptor	P08069	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021839s016lbl.pdf
 5010		lumacaftor	Cystic fibrosis transmembrane conductance regulator	P13569	POSITIVE MODULATOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206038Orig1s000lbl.pdf
+5011		aldesleukin	Interleukin-2 receptor	P01589|P14784|P31785	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/103293s5130lbl.pdf
 5005		mirodenafil	cGMP-specific 3',5'-cyclic phosphodiesterase	O76074	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/18638004
