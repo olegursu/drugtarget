@@ -1,6 +1,13 @@
 DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 5012		sacubitril	Neprilysin	P08473	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/207620Orig1s000lbl.pdf
 5013		trelagliptin	Dipeptidyl peptidase 4	P27487	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/26115728
+2697	CHEMBL1324	tolcapone	Catechol O-methyltransferase	P21964	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1324
+1018	CHEMBL953	entacapone	Catechol O-methyltransferase	P21964	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL953
+1431	CHEMBL53950	incadronic acid	Farnesyl pyrophosphate synthase	P14324	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/11160603
+5014		brexpiprazole	D(2) dopamine receptor	P14416	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205422s000lbl.pdf
+5014		brexpiprazole	5-hydroxytryptamine receptor 1A	P08908	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205422s000lbl.pdf
+5014		brexpiprazole	5-hydroxytryptamine receptor 2A	P28223	ANTAGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205422s000lbl.pdf
+5015		pegvisomant	Growth hormone receptor	P10912	ANTAGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021106s036lbl.pdf
 1293	CHEMBL1730601	gimeracil	Dihydropyrimidine dehydrogenase [NADP(+)]	Q12882	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/21668582
 2002	CHEMBL181932	oteracil	Uridine 5'-monophosphate synthase	P11172	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/8862723
 4172	CHEMBL218394	boceprevir	Hepatitis C virus serine protease, NS3/NS4A	A3EZI9|D2K2A8	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL218394
@@ -194,8 +201,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 546	CHEMBL1730	cefotaxime	Penicillin-binding protein 1A	P02918	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1730
 279	CHEMBL158	aztreonam	Penicillin-binding protein 1A	P02918	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL158
 1944	CHEMBL1337	nitisinone	4-hydroxyphenylpyruvate dioxygenase	P32754	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1337
-2697	CHEMBL1324	tolcapone	Catechol O-methyltransferase	P21964	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1324
-1018	CHEMBL953	entacapone	Catechol O-methyltransferase	P21964	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL953
 1523	CHEMBL742	ketamine	Glutamate receptor ionotropic, NMDA 1	Q05586	NEGATIVE ALLOSTERIC MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL742
 780	CHEMBL1201288	dantrolene	Ryanodine receptor 1	P21817	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201288
 2448	CHEMBL1422	sitagliptin	Dipeptidyl peptidase 4	P27487	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1422
@@ -260,7 +265,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 785	CHEMBL1421	dasatinib	Tyrosine-protein kinase ABL1	P00519	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1421
 2355	CHEMBL1218	ramelteon	Melatonin receptor type 1B	P49286	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1218
 2355	CHEMBL1218	ramelteon	Melatonin receptor type 1A	P48039	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1218
-2852	CHEMBL522038	ximelagatran	Prothrombin	P00734		EXPERT CURATOR	
+2852	CHEMBL522038	ximelagatran	Prothrombin	P00734	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/10102460
 239	CHEMBL1166	argatroban	Prothrombin	P00734	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1166
 1892	CHEMBL1201112	nelarabine	Ribose-phosphate pyrophosphokinase 1	P60891		EXPERT CURATOR	
 2308	CHEMBL1518	propylthiouracil	Thyroid peroxidase	P07202	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1518
@@ -456,7 +461,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 2099	CHEMBL628	pentoxifylline	cAMP-specific 3',5'-cyclic phosphodiesterase 4B	Q07343	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL628
 976	CHEMBL1752	diprophylline	cAMP-specific 3',5'-cyclic phosphodiesterase 4B	Q07343	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1752
 463	CHEMBL113	caffeine	cAMP-specific 3',5'-cyclic phosphodiesterase 4B	Q07343		EXPERT CURATOR	
-463	CHEMBL113	caffeine	Adenosine receptor A3	P33765	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL113
+463	CHEMBL113	caffeine	Adenosine receptor A3	P0DMS8	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL113
 463	CHEMBL113	caffeine	Adenosine receptor A2b	P29275	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL113
 90	CHEMBL477	adenosine	Adenosine receptor A2b	P29275	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL477
 90	CHEMBL477	adenosine	Adenosine receptor A1	P30542	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL477
@@ -495,7 +500,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 2114	CHEMBL918	phenacemide	Sodium channel protein type 1 subunit alpha	P35498	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL918
 1999	CHEMBL900	orphenadrine	Sodium channel protein type 1 subunit alpha	P35498	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL900
 1700	CHEMBL1087	mepivacaine	Sodium channel protein type 1 subunit alpha	P35498	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1087
-427	CHEMBL1072	bumetanide	Sodium/potassium-transporting ATPase subunit alpha-1	P05023		EXPERT CURATOR	
 2708	CHEMBL1148	torsemide	Solute carrier family 12 member 1	Q13621	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1148
 1258	CHEMBL35	furosemide	Solute carrier family 12 member 1	Q13621	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL35
 1071	CHEMBL456	ethacrynic acid	Solute carrier family 12 member 1	Q13621	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL456
@@ -750,7 +754,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 869	CHEMBL1460	didanosine	Gag-Pol polyprotein	P03369		EXPERT CURATOR	
 859	CHEMBL1086	cinchocaine	Sodium channel protein type 10 subunit alpha	Q9Y5Y9	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1086
 859	CHEMBL1086	cinchocaine	Sodium channel protein type 5 subunit alpha	Q14524	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1086
-854	CHEMBL181	diazoxide	Sodium/potassium-transporting ATPase subunit alpha-1	P05023		EXPERT CURATOR	
 830	CHEMBL1201287	dexbrompheniramine	Histamine H1 receptor	P35367	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201287
 801	CHEMBL1201229	demecarium	Acetylcholinesterase	P22303	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201229
 779	CHEMBL1479	danazol	Putative gonadotropin-releasing hormone II receptor	Q96P88		EXPERT CURATOR	
@@ -767,7 +770,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 605	CHEMBL1179047	chloroprocaine	Sodium channel protein type 10 subunit alpha	Q9Y5Y9		CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1179047
 579	CHEMBL1201355	ceruletide	Cholecystokinin receptor type A	P32238	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201355
 516	CHEMBL1201328	carfenazine	D(2) dopamine receptor	P14416		CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201328
-427	CHEMBL1072	bumetanide	Solute carrier family 12 member 2	P55011	INHIBITOR	EXPERT CURATOR	
 385	CHEMBL2103749	bivalirudin	Prothrombin	P00734	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL2103749
 359	CHEMBL1201260	betanidine	Sodium-dependent noradrenaline transporter	P23975	SUBSTRATE	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201260
 341	CHEMBL1201758	bepotastine	Histamine H1 receptor	P35367	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201758
@@ -801,6 +803,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 1942	CHEMBL1726	nisoldipine	Voltage-dependent L-type calcium channel subunit alpha-1C	Q13936	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1726
 1211	CHEMBL54661	flupentixol	D(1A) dopamine receptor	P21728	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=948
 433	CHEMBL305380	bupranolol	Beta-3 adrenergic receptor	P13945	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=550
+2202	CHEMBL1371770	piribedil	D(2) dopamine receptor	P14416	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20600305
 228	CHEMBL53	apomorphine	D(1B) dopamine receptor	P21918		EXPERT CURATOR	
 1942	CHEMBL1726	nisoldipine	Voltage-dependent L-type calcium channel subunit alpha-1D	Q01668	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1726
 1848	CHEMBL60889	mosapride	5-hydroxytryptamine receptor 4	Q13639	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/8950316
@@ -826,7 +829,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 228	CHEMBL53	apomorphine	Alpha-2A adrenergic receptor	P08913	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=33
 1865	CHEMBL649	nadolol	Beta-1 adrenergic receptor	P08588	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL649
 1937	CHEMBL1428	nimodipine	Voltage-dependent L-type calcium channel subunit alpha-1C	Q13936		CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1428
-868	CHEMBL1123	dicycloverine	Muscarinic acetylcholine receptor M2	P08172		EXPERT CURATOR	
 1028	CHEMBL679	epinephrine	Alpha-1B adrenergic receptor	P35368		CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL679
 1817	CHEMBL606	misoprostol	Prostaglandin E2 receptor EP3 subtype	P43115	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL606
 1830	CHEMBL460	molindone	5-hydroxytryptamine receptor 2A	P28223	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL460
@@ -878,8 +880,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 819	CHEMBL1766	desoximetasone	Glucocorticoid receptor	P04150	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1766
 868	CHEMBL1123	dicycloverine	Muscarinic acetylcholine receptor M1	P11229	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1123
 868	CHEMBL1123	dicycloverine	Muscarinic acetylcholine receptor M3	P20309	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1123
-868	CHEMBL1123	dicycloverine	Muscarinic acetylcholine receptor M4	P08173		EXPERT CURATOR	
-868	CHEMBL1123	dicycloverine	Muscarinic acetylcholine receptor M5	P08912		EXPERT CURATOR	
 901	CHEMBL1200406	dimenhydrinate	Histamine H1 receptor	P35367	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200406
 924	CHEMBL932	dipyridamole	cAMP-specific 3',5'-cyclic phosphodiesterase 4A	P27815	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL932
 966	CHEMBL1108	droperidol	5-hydroxytryptamine receptor 2A	P28223	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1108
@@ -939,7 +939,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 1679	CHEMBL807	memantine	Glutamate NMDA receptor; GRIN1/GRIN2A	Q05586|Q12879	NEGATIVE ALLOSTERIC MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL807
 1679	CHEMBL807	memantine	Glutamate receptor ionotropic, NMDA 1	Q05586	NEGATIVE ALLOSTERIC MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL807
 2620	CHEMBL190	theophylline	Adenosine receptor A2b	P29275	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
-2620	CHEMBL190	theophylline	Adenosine receptor A3	P33765	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
+2620	CHEMBL190	theophylline	Adenosine receptor A3	P0DMS8	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 2620	CHEMBL190	theophylline	Adenosine A2 receptor	P29274|P29275	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 2620	CHEMBL190	theophylline	Adenosine receptor A2a	P29274	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 2620	CHEMBL190	theophylline	Adenosine receptor A1	P30542	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
@@ -1947,7 +1947,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 878	CHEMBL1201321	difenoxin	Mu-type opioid receptor	P35372	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201321
 516	CHEMBL1201328	carfenazine	5-hydroxytryptamine receptor 2A	P28223	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201328
 516	CHEMBL1201328	carfenazine	5-hydroxytryptamine receptor 2C	P28335	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201328
-784	CHEMBL1346	darifenacin	Muscarinic acetylcholine receptor M2	P08172	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1346
 784	CHEMBL1346	darifenacin	Muscarinic acetylcholine receptor M3	P20309	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1346
 2548	CHEMBL3039582	secretin human	Secretin receptor	P47872	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL3039582
 2720	CHEMBL1237119	treprostinil	Prostacyclin receptor	P43119	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1237119
@@ -1972,7 +1971,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 881	CHEMBL254219	digitoxin	Sodium/potassium-transporting ATPase subunit alpha-1	P05023	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL254219
 4379	CHEMBL415606	degarelix	Gonadotropin-releasing hormone receptor	P30968	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL415606
 4411	CHEMBL1201353	dexchlorpheniramine	Histamine H1 receptor	P35367	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201353
-90	CHEMBL477	adenosine	Adenosine receptor A3	P33765	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL477
+90	CHEMBL477	adenosine	Adenosine receptor A3	P0DMS8	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL477
 4470	CHEMBL1199324	fosaprepitant	Substance-P receptor	P25103	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1199324
 4514	CHEMBL525610	teriparatide	Parathyroid hormone/parathyroid hormone-related peptide receptor	Q03431	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL525610
 4654	CHEMBL1946170	regorafenib	Vascular endothelial growth factor receptor 2	P35968	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1946170
@@ -1991,7 +1990,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 388	CHEMBL178803	blonanserin	D(2) dopamine receptor	P14416	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15686911
 388	CHEMBL178803	blonanserin	5-hydroxytryptamine receptor 2A	P28223	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15686911
 4226	CHEMBL1863513	ingenol mebutate	Protein kinase C delta type	Q05655	ACTIVATOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15126366
-127	CHEMBL1183717	almitrine	Sodium/potassium-transporting ATPase subunit alpha-1	P05023		SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/2165421
 4112	CHEMBL184412	dronedarone	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1	O60741	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23647933
 4112	CHEMBL184412	dronedarone	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	Q9UL51	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23647933
 4112	CHEMBL184412	dronedarone	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3	Q9P1Z3	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23647933
@@ -2064,7 +2062,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 1818	CHEMBL471498	mitiglinide	Sulfonylurea receptor 1, Kir6.2	Q09428|Q14654	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/11716850
 57	CHEMBL1589	acetohexamide	Sulfonylurea receptor 1, Kir6.2	Q09428|Q14654	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/10742287
 4925	CHEMBL1201556	becaplermin	Platelet-derived growth factor receptor	P09619|P16234	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/103691s5095lbl.pdf
-2232	CHEMBL106593	pralmorelin	Growth hormone secretagogue receptor type 1	Q92847	AGONIST	EXPERT CURATOR	
+2232	CHEMBL106593	pralmorelin	Growth hormone secretagogue receptor type 1	Q92847	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15646370
 2433	CHEMBL1201490	sermorelin	Growth hormone-releasing hormone receptor	Q02643	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=6998
 4927	CHEMBL2107841	albiglutide	Glucagon-like peptide 1 receptor	P43220	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125431s000lbl.pdf
 4928	CHEMBL1201520	urofollitropin	Follicle-stimulating hormone receptor	P23945	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021289s019lbl.pdf
@@ -2407,7 +2405,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4390	CHEMBL190	choline theophyllinate	Adenosine receptor A1	P30542	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4390	CHEMBL190	choline theophyllinate	Adenosine receptor A2a	P29274	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4390	CHEMBL190	choline theophyllinate	Adenosine receptor A2b	P29275	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
-4390	CHEMBL190	choline theophyllinate	Adenosine receptor A3	P33765	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
+4390	CHEMBL190	choline theophyllinate	Adenosine receptor A3	P0DMS8	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4390	CHEMBL190	choline theophyllinate	Adenosine A2 receptor	P29274|P29275	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4390	CHEMBL190	choline theophyllinate	Phosphodiesterase 3	Q13370|Q14432	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4399	CHEMBL461101	eltrombopag	Thrombopoietin receptor	P40238	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL461101
@@ -2417,7 +2415,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	UNIPROT	ACTION_TYPE	SOURCE	REFERENCE
 4426	CHEMBL190	bufylline	Adenosine receptor A1	P30542	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4426	CHEMBL190	bufylline	Adenosine receptor A2a	P29274	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4426	CHEMBL190	bufylline	Adenosine receptor A2b	P29275	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
-4426	CHEMBL190	bufylline	Adenosine receptor A3	P33765	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
+4426	CHEMBL190	bufylline	Adenosine receptor A3	P0DMS8	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4426	CHEMBL190	bufylline	Adenosine A2 receptor	P29274|P29275	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4426	CHEMBL190	bufylline	Phosphodiesterase 3	Q13370|Q14432	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL190
 4427	CHEMBL1201614	calcitonin (human synthetic)	Calcitonin receptor	P30988	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201614
