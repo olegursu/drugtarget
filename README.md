@@ -11,7 +11,9 @@ DRUG_ID         |unique identifier assigned to each active ingredient
 CHEMBL_ID       |ChEMBL database assigned identifier
 DRUG_NAME       |WHO INN name assigned to active ingredient, where available http://www.who.int/medicines/services/inn/en/
 TARGET_NAME     |protein(s) name
+TARGET_FAMILY   |high level target classification (GPCR, Enzyme, Ion Channel, Transporter, Nuclear Receptor, etc.)
 UNIPROT         |Uniprot (http://www.uniprot.org/) accessions for protein targets, multicomponent targets and protein family targets list all Uniprot accessions
+GENE            |gene symbol according to HUGO (http://www.genenames.org/)
 ACTION_TYPE     |type of modulatory action exerted by drug on protein target
 SOURCE          |source of mechanism of action annotation
 REFERENCE       |reference for source, *EXPERT CURATOR* do not have any reference assigned

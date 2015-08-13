@@ -9,8 +9,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 26	fluorouracil	EPC	N0000175595	Nucleoside Metabolic Inhibitor	FDA
 852	diazepam	EPC	N0000175694	Benzodiazepine	FDA
 852	diazepam	Chemical/Ingredient	N0000007542	Benzodiazepines	FDA
-4452	clobetasol	EPC	N0000175576	Corticosteroid	FDA
-4452	clobetasol	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
+4452	clobetasol propionate	EPC	N0000175576	Corticosteroid	FDA
+4452	clobetasol propionate	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
 953	doxapram	PE	N0000009393	Increased Medullary Respiratory Drive	FDA
 953	doxapram	EPC	N0000175716	Respiratory Stimulant	FDA
 1300	glimepiride	EPC	N0000175608	Sulfonylurea	FDA
@@ -302,8 +302,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2989	calcitonin (salmon synthetic)	Chemical/Ingredient	N0000006509	Calcitonin	FDA
 2722	tretinoin	EPC	N0000175607	Retinoid	FDA
 2722	tretinoin	Chemical/Ingredient	N0000007700	Retinoids	FDA
-294	beclometasone	EPC	N0000175576	Corticosteroid	FDA
-294	beclometasone	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
+294	beclomethasone dipropionate	EPC	N0000175576	Corticosteroid	FDA
+294	beclomethasone dipropionate	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
 700	clomifene	EPC	N0000175826	Estrogen Agonist/Antagonist	FDA
 4997	laronidase	Chemical/Ingredient	N0000167711	alpha-Glucosidases	FDA
 4997	laronidase	EPC	N0000175823	Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme	FDA
@@ -386,8 +386,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2371	retapamulin	EPC	N0000175434	Pleuromutilin Antibacterial	FDA
 2066	paricalcitol	Chemical/Ingredient	N0000006996	Cholecalciferol	FDA
 2066	paricalcitol	EPC	N0000175908	Vitamin D3 Analog	FDA
-4606	clorcortelone	EPC	N0000175576	Corticosteroid	FDA
-4606	clorcortelone	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
+4606	clocortolone pivalate	EPC	N0000175576	Corticosteroid	FDA
+4606	clocortolone pivalate	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
 2677	tiotropium bromide	EPC	N0000175574	Anticholinergic	FDA
 2599	terconazole	EPC	N0000175487	Azole Antifungal	FDA
 2599	terconazole	Chemical/Ingredient	N0000008217	Azoles	FDA
@@ -505,8 +505,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2356	ramipril	EPC	N0000175562	Angiotensin Converting Enzyme Inhibitor	FDA
 1876	nalmefene	EPC	N0000175691	Opioid Antagonist	FDA
 1876	nalmefene	MoA	N0000000154	Opioid Antagonists	FDA
-4485	diflorasone	EPC	N0000175576	Corticosteroid	FDA
-4485	diflorasone	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
+4485	diflorasone diacetate	EPC	N0000175576	Corticosteroid	FDA
+4485	diflorasone diacetate	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
 734	cortisone	EPC	N0000175576	Corticosteroid	FDA
 734	cortisone	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
 1726	methacholine	EPC	N0000175884	Cholinergic Receptor Agonist	FDA
@@ -539,8 +539,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1388	hydrocortisone	EPC	N0000175576	Corticosteroid	FDA
 1388	hydrocortisone	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
 1427	imipramine	EPC	N0000175752	Tricyclic Antidepressant	FDA
-555	cefpodoxime	EPC	N0000175488	Cephalosporin Antibacterial	FDA
-555	cefpodoxime	Chemical/Ingredient	N0000011161	Cephalosporins	FDA
+555	cefpodoxime proxetil	EPC	N0000175488	Cephalosporin Antibacterial	FDA
+555	cefpodoxime proxetil	Chemical/Ingredient	N0000011161	Cephalosporins	FDA
 960	doxorubicin	EPC	N0000175414	Anthracycline Topoisomerase Inhibitor	FDA
 960	doxorubicin	Chemical/Ingredient	N0000007530	Anthracyclines	FDA
 817	desmopressin	EPC	N0000175916	Factor VIII Activator	FDA
@@ -2118,8 +2118,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2855	zafirlukast	EPC	N0000175777	Leukotriene Receptor Antagonist	FDA
 2855	zafirlukast	MoA	N0000000083	Leukotriene Receptor Antagonists	FDA
 2855	zafirlukast	MoA	N0000185504	Cytochrome P450 2C9 Inhibitors	FDA
-4189	hydroxyprogesterone	Chemical/Ingredient	N0000011301	Progesterone Congeners	FDA
-4189	hydroxyprogesterone	EPC	N0000175602	Progestin	FDA
+4189	hydroxyprogesterone caproate	Chemical/Ingredient	N0000011301	Progesterone Congeners	FDA
+4189	hydroxyprogesterone caproate	EPC	N0000175602	Progestin	FDA
 4958	ipilimumab	EPC	N0000182635	CTLA-4-directed Blocking Antibody	FDA
 4958	ipilimumab	MoA	N0000182634	CTLA-4-directed Antibody Interactions	FDA
 4958	ipilimumab	PE	N0000182157	Increased T Lymphocyte Activation	FDA
@@ -2482,6 +2482,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 178	amiprilose	PA	D000276	Adjuvants, Immunologic	MeSH
 304	bendazol	PA	D000276	Adjuvants, Immunologic	MeSH
 3689	bropirimine	PA	D000276	Adjuvants, Immunologic	MeSH
+729	colforsin daropate	PA	D000276	Adjuvants, Immunologic	MeSH
 795	prasterone	PA	D000276	Adjuvants, Immunologic	MeSH
 931	ditiocarb	PA	D000276	Adjuvants, Immunologic	MeSH
 3957	hyaluronic acid	PA	D000276	Adjuvants, Immunologic	MeSH
@@ -2504,7 +2505,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2268	probenecid	PA	D000277	Adjuvants, Pharmaceutic	MeSH
 4493	alclometasone dipropionate	PA	D000305	Adrenal Cortex Hormones	MeSH
 150	amcinonide	PA	D000305	Adrenal Cortex Hormones	MeSH
-294	beclometasone	PA	D000305	Adrenal Cortex Hormones	MeSH
 348	betamethasone	PA	D000305	Adrenal Cortex Hormones	MeSH
 349	betamethasone acetate	PA	D000305	Adrenal Cortex Hormones	MeSH
 351	betamethasone benzoate	PA	D000305	Adrenal Cortex Hormones	MeSH
@@ -2512,13 +2512,13 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 354	betamethasone valerate	PA	D000305	Adrenal Cortex Hormones	MeSH
 419	budesonide	PA	D000305	Adrenal Cortex Hormones	MeSH
 633	ciclesonide	PA	D000305	Adrenal Cortex Hormones	MeSH
-4452	clobetasol	PA	D000305	Adrenal Cortex Hormones	MeSH
+4452	clobetasol propionate	PA	D000305	Adrenal Cortex Hormones	MeSH
 3911	clobetasone	PA	D000305	Adrenal Cortex Hormones	MeSH
-4606	clorcortelone	PA	D000305	Adrenal Cortex Hormones	MeSH
+4606	clocortolone pivalate	PA	D000305	Adrenal Cortex Hormones	MeSH
 819	desoximetasone	PA	D000305	Adrenal Cortex Hormones	MeSH
 824	dexamethasone	PA	D000305	Adrenal Cortex Hormones	MeSH
 3139	dichlorisone	PA	D000305	Adrenal Cortex Hormones	MeSH
-4485	diflorasone	PA	D000305	Adrenal Cortex Hormones	MeSH
+4485	diflorasone diacetate	PA	D000305	Adrenal Cortex Hormones	MeSH
 3141	diflucortolone	PA	D000305	Adrenal Cortex Hormones	MeSH
 3142	difluprednate	PA	D000305	Adrenal Cortex Hormones	MeSH
 4548	flumetasone	PA	D000305	Adrenal Cortex Hormones	MeSH
@@ -2535,7 +2535,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1662	medrysone	PA	D000305	Adrenal Cortex Hormones	MeSH
 1768	methylprednisolone	PA	D000305	Adrenal Cortex Hormones	MeSH
 1771	methylprednisolone succinate	PA	D000305	Adrenal Cortex Hormones	MeSH
-2060	paramethasone	PA	D000305	Adrenal Cortex Hormones	MeSH
+2060	paramethasone acetate	PA	D000305	Adrenal Cortex Hormones	MeSH
 2243	prednicarbate	PA	D000305	Adrenal Cortex Hormones	MeSH
 2245	prednisolone	PA	D000305	Adrenal Cortex Hormones	MeSH
 2246	prednisolone succinate	PA	D000305	Adrenal Cortex Hormones	MeSH
@@ -3487,6 +3487,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 367	bicalutamide	PA	D000726	Androgen Antagonists	MeSH
 600	chlormadinone	PA	D000726	Androgen Antagonists	MeSH
 766	cyproterone	PA	D000726	Androgen Antagonists	MeSH
+3130	delmadinone acetate	PA	D000726	Androgen Antagonists	MeSH
 1223	flutamide	PA	D000726	Androgen Antagonists	MeSH
 3321	liarozole	PA	D000726	Androgen Antagonists	MeSH
 1933	nilutamide	PA	D000726	Androgen Antagonists	MeSH
@@ -3887,13 +3888,13 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4055	baicalin	PA	D018927	Anti-Asthmatic Agents	MeSH
 285	bambuterol	PA	D018927	Anti-Asthmatic Agents	MeSH
 287	bamifylline	PA	D018927	Anti-Asthmatic Agents	MeSH
-294	beclometasone	PA	D018927	Anti-Asthmatic Agents	MeSH
 348	betamethasone	PA	D018927	Anti-Asthmatic Agents	MeSH
 384	bitolterol	PA	D018927	Anti-Asthmatic Agents	MeSH
 419	budesonide	PA	D018927	Anti-Asthmatic Agents	MeSH
 644	cilostazol	PA	D018927	Anti-Asthmatic Agents	MeSH
 673	clenbuterol	PA	D018927	Anti-Asthmatic Agents	MeSH
 714	clorprenaline	PA	D018927	Anti-Asthmatic Agents	MeSH
+729	colforsin daropate	PA	D018927	Anti-Asthmatic Agents	MeSH
 741	cromoglicic acid	PA	D018927	Anti-Asthmatic Agents	MeSH
 915	diphemanil	PA	D018927	Anti-Asthmatic Agents	MeSH
 959	doxofylline	PA	D018927	Anti-Asthmatic Agents	MeSH
@@ -3989,7 +3990,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3075	cefpimizole	PA	D000900	Anti-Bacterial Agents	MeSH
 552	cefpiramide	PA	D000900	Anti-Bacterial Agents	MeSH
 553	cefpirome	PA	D000900	Anti-Bacterial Agents	MeSH
-555	cefpodoxime	PA	D000900	Anti-Bacterial Agents	MeSH
+555	cefpodoxime proxetil	PA	D000900	Anti-Bacterial Agents	MeSH
 556	cefprozil	PA	D000900	Anti-Bacterial Agents	MeSH
 558	cefsulodin	PA	D000900	Anti-Bacterial Agents	MeSH
 559	ceftazidime	PA	D000900	Anti-Bacterial Agents	MeSH
@@ -4308,7 +4309,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3075	cefpimizole	PA	D000890	Anti-Infective Agents	MeSH
 552	cefpiramide	PA	D000890	Anti-Infective Agents	MeSH
 553	cefpirome	PA	D000890	Anti-Infective Agents	MeSH
-555	cefpodoxime	PA	D000890	Anti-Infective Agents	MeSH
+555	cefpodoxime proxetil	PA	D000890	Anti-Infective Agents	MeSH
 556	cefprozil	PA	D000890	Anti-Infective Agents	MeSH
 558	cefsulodin	PA	D000890	Anti-Infective Agents	MeSH
 559	ceftazidime	PA	D000890	Anti-Infective Agents	MeSH
@@ -4801,7 +4802,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3012	azulene	PA	D000893	Anti-Inflammatory Agents	MeSH
 4055	baicalin	PA	D000893	Anti-Inflammatory Agents	MeSH
 284	balsalazide	PA	D000893	Anti-Inflammatory Agents	MeSH
-294	beclometasone	PA	D000893	Anti-Inflammatory Agents	MeSH
 303	bendazac	PA	D000893	Anti-Inflammatory Agents	MeSH
 310	benorilate	PA	D000893	Anti-Inflammatory Agents	MeSH
 311	benoxaprofen	PA	D000893	Anti-Inflammatory Agents	MeSH
@@ -4823,9 +4823,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 568	celecoxib	PA	D000893	Anti-Inflammatory Agents	MeSH
 607	chloroquine	PA	D000893	Anti-Inflammatory Agents	MeSH
 4662	choline magnesium trisalicylate	PA	D000893	Anti-Inflammatory Agents	MeSH
-4452	clobetasol	PA	D000893	Anti-Inflammatory Agents	MeSH
+4452	clobetasol propionate	PA	D000893	Anti-Inflammatory Agents	MeSH
 3911	clobetasone	PA	D000893	Anti-Inflammatory Agents	MeSH
-4606	clorcortelone	PA	D000893	Anti-Inflammatory Agents	MeSH
 692	clofazimine	PA	D000893	Anti-Inflammatory Agents	MeSH
 705	clonixin	PA	D000893	Anti-Inflammatory Agents	MeSH
 734	cortisone	PA	D000893	Anti-Inflammatory Agents	MeSH
@@ -4838,7 +4837,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 849	diacerein	PA	D000893	Anti-Inflammatory Agents	MeSH
 865	diclofenac	PA	D000893	Anti-Inflammatory Agents	MeSH
 919	difenpiramide	PA	D000893	Anti-Inflammatory Agents	MeSH
-4485	diflorasone	PA	D000893	Anti-Inflammatory Agents	MeSH
+4485	diflorasone diacetate	PA	D000893	Anti-Inflammatory Agents	MeSH
 3141	diflucortolone	PA	D000893	Anti-Inflammatory Agents	MeSH
 880	diflunisal	PA	D000893	Anti-Inflammatory Agents	MeSH
 4659	metamizole	PA	D000893	Anti-Inflammatory Agents	MeSH
@@ -4857,7 +4856,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1168	fepradinol	PA	D000893	Anti-Inflammatory Agents	MeSH
 1169	feprazone	PA	D000893	Anti-Inflammatory Agents	MeSH
 1178	floctafenine	PA	D000893	Anti-Inflammatory Agents	MeSH
-1191	fludrocortisone	PA	D000893	Anti-Inflammatory Agents	MeSH
+1191	fludrocortisone acetate	PA	D000893	Anti-Inflammatory Agents	MeSH
 1193	flufenamic acid	PA	D000893	Anti-Inflammatory Agents	MeSH
 4548	flumetasone	PA	D000893	Anti-Inflammatory Agents	MeSH
 1201	flunisolide	PA	D000893	Anti-Inflammatory Agents	MeSH
@@ -4921,7 +4920,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2013	oxaprozin	PA	D000893	Anti-Inflammatory Agents	MeSH
 2036	oxyphenbutazone	PA	D000893	Anti-Inflammatory Agents	MeSH
 2045	palmidrol	PA	D000893	Anti-Inflammatory Agents	MeSH
-2060	paramethasone	PA	D000893	Anti-Inflammatory Agents	MeSH
+2060	paramethasone acetate	PA	D000893	Anti-Inflammatory Agents	MeSH
 2063	parecoxib	PA	D000893	Anti-Inflammatory Agents	MeSH
 2145	phenylbutazone	PA	D000893	Anti-Inflammatory Agents	MeSH
 2168	pimecrolimus	PA	D000893	Anti-Inflammatory Agents	MeSH
@@ -4972,8 +4971,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4829	apremilast	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
 74	acetylsalicylic acid	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
 3012	azulene	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
-4055	baicalin	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
-284	balsalazide	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
 5001	eluxadoline	has role	CHEBI:55322	mu-opioid receptor agonist	CHEBI
 5001	eluxadoline	has role	CHEBI:59283	delta-opioid receptor antagonist	CHEBI
 5001	eluxadoline	has role	CHEBI:59282	kappa-opioid receptor agonist	CHEBI
@@ -5201,7 +5198,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2140	phentermine	has role	CHEBI:35337	central nervous system stimulant	CHEBI
 1732	methamphetamine	has role	CHEBI:35471	psychotropic drug	CHEBI
 1732	methamphetamine	has role	CHEBI:35337	central nervous system stimulant	CHEBI
-1715	metacetamol	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 52	acetaminophen	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 52	acetaminophen	has role	CHEBI:35493	antipyretic	CHEBI
 52	acetaminophen	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
@@ -6944,7 +6940,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2245	prednisolone	has role	CHEBI:35705	immunosuppressive agent	CHEBI
 1422	iloprost	has role	CHEBI:50427	platelet aggregation inhibitor	CHEBI
 1422	iloprost	has role	CHEBI:35620	vasodilator agent	CHEBI
-965	drostanolone	has role	CHEBI:35610	antineoplastic agent	CHEBI
+965	drostanolone propionate	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1152	fenofibrate	has role	CHEBI:35679	antilipemic drug	CHEBI
 1981	ofloxacin	has role	CHEBI:35441	antiinfective agent	CHEBI
 1981	ofloxacin	has role	CHEBI:36047	antibacterial drug	CHEBI
@@ -7061,9 +7057,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1353	haloperidol	has role	CHEBI:65190	first generation antipsychotic	CHEBI
 1353	haloperidol	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 402	bromhexine	has role	CHEBI:77034	mucolytic	CHEBI
-2834	riboflavin (vit B2)	has role	CHEBI:47868	photosensitizing agent	CHEBI
-2834	riboflavin (vit B2)	has role	CHEBI:77182	food colouring	CHEBI
-2834	riboflavin (vit B2)	has role	CHEBI:75769	B vitamin	CHEBI
+2834	riboflavin	has role	CHEBI:47868	photosensitizing agent	CHEBI
+2834	riboflavin	has role	CHEBI:77182	food colouring	CHEBI
+2834	riboflavin	has role	CHEBI:75769	B vitamin	CHEBI
 2363	remifentanil	has role	CHEBI:55322	mu-opioid receptor agonist	CHEBI
 2363	remifentanil	has role	CHEBI:35482	opioid analgesic	CHEBI
 2363	remifentanil	has role	CHEBI:38877	intravenous anaesthetic	CHEBI
@@ -7082,8 +7078,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 966	droperidol	has role	CHEBI:60807	anaesthesia adjuvant	CHEBI
 966	droperidol	has role	CHEBI:65190	first generation antipsychotic	CHEBI
 946	donepezil	has role	CHEBI:66980	nootropic agent	CHEBI
-1191	fludrocortisone	has role	CHEBI:37962	adrenergic agent	CHEBI
-1191	fludrocortisone	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
+1191	fludrocortisone acetate	has role	CHEBI:37962	adrenergic agent	CHEBI
+1191	fludrocortisone acetate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
 1035	eprazinone	has role	CHEBI:77034	mucolytic	CHEBI
 610	chlorotrianisene	has role	CHEBI:50739	estrogen receptor modulator	CHEBI
 610	chlorotrianisene	has role	CHEBI:35610	antineoplastic agent	CHEBI
@@ -7284,8 +7280,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1810	miltefosine	has role	CHEBI:35718	antifungal agent	CHEBI
 183	amlodipine	has role	CHEBI:35674	antihypertensive agent	CHEBI
 183	amlodipine	has role	CHEBI:35620	vasodilator agent	CHEBI
-294	beclometasone	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
-294	beclometasone	has role	CHEBI:49167	anti-asthmatic drug	CHEBI
+294	beclomethasone dipropionate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
+294	beclomethasone dipropionate	has role	CHEBI:49167	anti-asthmatic drug	CHEBI
 1125	ezetimibe	has role	CHEBI:35821	anticholesteremic drug	CHEBI
 1125	ezetimibe	has role	CHEBI:35679	antilipemic drug	CHEBI
 562	ceftibuten	has role	CHEBI:36047	antibacterial drug	CHEBI
@@ -7709,7 +7705,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 564	ceftriaxone	has role	CHEBI:36047	antibacterial drug	CHEBI
 3417	pantethine	has role	CHEBI:50733	nutraceutical	CHEBI
 4112	dronedarone	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
-555	cefpodoxime	has role	CHEBI:36047	antibacterial drug	CHEBI
+555	cefpodoxime proxetil	has role	CHEBI:36047	antibacterial drug	CHEBI
 2811	vecuronium	has role	CHEBI:48878	nicotinic antagonist	CHEBI
 2811	vecuronium	has role	CHEBI:51372	neuromuscular agent	CHEBI
 2811	vecuronium	has role	CHEBI:51371	muscle relaxant	CHEBI
@@ -8093,7 +8089,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4424	candicidin	has role	CHEBI:35718	antifungal agent	CHEBI
 4445	carbamide peroxide	has role	CHEBI:33893	reagent	CHEBI
 4445	carbamide peroxide	has role	CHEBI:48219	disinfectant	CHEBI
-4452	clobetasol	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
+4452	clobetasol propionate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
 4466	eosin	has role	CHEBI:51217	fluorochrome	CHEBI
 4466	eosin	has role	CHEBI:77178	histological dye	CHEBI
 4468	esketamine	has role	CHEBI:35480	analgesic	CHEBI
@@ -8107,7 +8103,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4483	carfilzomib	has role	CHEBI:52726	proteasome inhibitor	CHEBI
 4484	aclidinium bromide	has role	CHEBI:48876	muscarinic antagonist	CHEBI
 4484	aclidinium bromide	has role	CHEBI:35523	bronchodilator agent	CHEBI
-4485	diflorasone	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
+4485	diflorasone diacetate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
 4493	alclometasone dipropionate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
 4498	paliperidone palmitate	has role	CHEBI:37890	alpha-adrenergic antagonist	CHEBI
 4498	paliperidone palmitate	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
@@ -8207,6 +8203,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4907	olaparib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4913	paritaprevir	has role	CHEBI:36044	antiviral drug	CHEBI
 4914	dasabuvir	has role	CHEBI:36044	antiviral drug	CHEBI
+4055	baicalin	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
+284	balsalazide	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
 303	bendazac	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
 310	benorilate	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
 311	benoxaprofen	PA	D000894	Anti-Inflammatory Agents, Non-Steroidal	MeSH
@@ -8388,11 +8386,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2293	propantheline	PA	D000897	Anti-Ulcer Agents	MeSH
 2350	rabeprazole	PA	D000897	Anti-Ulcer Agents	MeSH
 2358	ranitidine	PA	D000897	Anti-Ulcer Agents	MeSH
-4850	ranitidine bismuth citrate	PA	D000897	Anti-Ulcer Agents	MeSH
 2360	rebamipide	PA	D000897	Anti-Ulcer Agents	MeSH
 3529	rioprostil	PA	D000897	Anti-Ulcer Agents	MeSH
 2404	rosaprostol	PA	D000897	Anti-Ulcer Agents	MeSH
-2408	roxatidine	PA	D000897	Anti-Ulcer Agents	MeSH
+2408	roxatidine acetate	PA	D000897	Anti-Ulcer Agents	MeSH
 2456	sofalcone	PA	D000897	Anti-Ulcer Agents	MeSH
 4106	sucralfate	PA	D000897	Anti-Ulcer Agents	MeSH
 4725	sulglicotide	PA	D000897	Anti-Ulcer Agents	MeSH
@@ -8475,6 +8472,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1358	heparin	PA	D000925	Anticoagulants	MeSH
 1538	lamifiban	PA	D000925	Anticoagulants	MeSH
 2995	lepirudin	PA	D000925	Anticoagulants	MeSH
+2852	ximelagatran	PA	D000925	Anticoagulants	MeSH
 1867	nafamostat	PA	D000925	Anticoagulants	MeSH
 2130	phenindione	PA	D000925	Anticoagulants	MeSH
 2138	phenprocoumon	PA	D000925	Anticoagulants	MeSH
@@ -8482,7 +8480,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4182	rivaroxaban	PA	D000925	Anticoagulants	MeSH
 2778	troxerutin	PA	D000925	Anticoagulants	MeSH
 2847	warfarin	PA	D000925	Anticoagulants	MeSH
-2852	ximelagatran	PA	D000925	Anticoagulants	MeSH
 56	acetazolamide	PA	D000927	Anticonvulsants	MeSH
 2451	sitosterol	PA	D000927	Anticonvulsants	MeSH
 489	carbamazepine	PA	D000927	Anticonvulsants	MeSH
@@ -9856,8 +9853,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 776	dabigatran etexilate	PA	D000991	Antithrombins	MeSH
 4897	edoxaban	PA	D000991	Antithrombins	MeSH
 2995	lepirudin	PA	D000991	Antithrombins	MeSH
-4182	rivaroxaban	PA	D000991	Antithrombins	MeSH
 2852	ximelagatran	PA	D000991	Antithrombins	MeSH
+4182	rivaroxaban	PA	D000991	Antithrombins	MeSH
 497	carbimazole	PA	D013956	Antithyroid Agents	MeSH
 1745	thiamazole	PA	D013956	Antithyroid Agents	MeSH
 1773	methylthiouracil	PA	D013956	Antithyroid Agents	MeSH
@@ -10054,6 +10051,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 676	clidinium	PA	D001337	Autonomic Agents	MeSH
 704	clonidine	PA	D001337	Autonomic Agents	MeSH
 714	clorprenaline	PA	D001337	Autonomic Agents	MeSH
+729	colforsin daropate	PA	D001337	Autonomic Agents	MeSH
 4282	copper sulfate	PA	D001337	Autonomic Agents	MeSH
 749	cyclizine	PA	D001337	Autonomic Agents	MeSH
 757	cyclopentolate	PA	D001337	Autonomic Agents	MeSH
@@ -10250,6 +10248,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 644	cilostazol	PA	D001993	Bronchodilator Agents	MeSH
 673	clenbuterol	PA	D001993	Bronchodilator Agents	MeSH
 714	clorprenaline	PA	D001993	Bronchodilator Agents	MeSH
+729	colforsin daropate	PA	D001993	Bronchodilator Agents	MeSH
 915	diphemanil	PA	D001993	Bronchodilator Agents	MeSH
 959	doxofylline	PA	D001993	Bronchodilator Agents	MeSH
 976	diprophylline	PA	D001993	Bronchodilator Agents	MeSH
@@ -10364,6 +10363,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 237	arbutamine	PA	D002316	Cardiotonic Agents	MeSH
 3523	bufogenin	PA	D002316	Cardiotonic Agents	MeSH
 488	carbachol	PA	D002316	Cardiotonic Agents	MeSH
+729	colforsin daropate	PA	D002316	Cardiotonic Agents	MeSH
 806	denopamine	PA	D002316	Cardiotonic Agents	MeSH
 813	deslanoside	PA	D002316	Cardiotonic Agents	MeSH
 839	dexrazoxane	PA	D002316	Cardiotonic Agents	MeSH
@@ -10471,6 +10471,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 674	clevidipine	PA	D002317	Cardiovascular Agents	MeSH
 704	clonidine	PA	D002317	Cardiovascular Agents	MeSH
 723	cocaine	PA	D002317	Cardiovascular Agents	MeSH
+729	colforsin daropate	PA	D002317	Cardiovascular Agents	MeSH
 747	cyclandelate	PA	D002317	Cardiovascular Agents	MeSH
 756	cyclopenthiazide	PA	D002317	Cardiovascular Agents	MeSH
 761	cyclothiazide	PA	D002317	Cardiovascular Agents	MeSH
@@ -10540,7 +10541,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1339	guanadrel	PA	D002317	Cardiovascular Agents	MeSH
 1342	guanethidine	PA	D002317	Cardiovascular Agents	MeSH
 1343	guanfacine	PA	D002317	Cardiovascular Agents	MeSH
-1349	ulobetasol	PA	D002317	Cardiovascular Agents	MeSH
 1358	heparin	PA	D002317	Cardiovascular Agents	MeSH
 1366	hexamethonium	PA	D002317	Cardiovascular Agents	MeSH
 1370	hexobendine	PA	D002317	Cardiovascular Agents	MeSH
@@ -12053,7 +12053,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 27	azaribine	PA	D003879	Dermatologic Agents	MeSH
 270	azelaic acid	PA	D003879	Dermatologic Agents	MeSH
 311	benoxaprofen	PA	D003879	Dermatologic Agents	MeSH
-3412	oxybenzone	PA	D003879	Dermatologic Agents	MeSH
 328	benzoyl peroxide	PA	D003879	Dermatologic Agents	MeSH
 465	calcipotriene	PA	D003879	Dermatologic Agents	MeSH
 3064	capsaicin	PA	D003879	Dermatologic Agents	MeSH
@@ -12080,13 +12079,14 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1751	methotrexate	PA	D003879	Dermatologic Agents	MeSH
 30	methoxsalen	PA	D003879	Dermatologic Agents	MeSH
 1992	ondansetron	PA	D003879	Dermatologic Agents	MeSH
+3412	oxybenzone	PA	D003879	Dermatologic Agents	MeSH
 2132	pheniramine	PA	D003879	Dermatologic Agents	MeSH
 2168	pimecrolimus	PA	D003879	Dermatologic Agents	MeSH
 3481	podophyllotoxin	PA	D003879	Dermatologic Agents	MeSH
 2286	promethazine	PA	D003879	Dermatologic Agents	MeSH
 3500	protoporphyrin	PA	D003879	Dermatologic Agents	MeSH
 4248	pyrithione zinc	PA	D003879	Dermatologic Agents	MeSH
-2834	riboflavin (vit B2)	PA	D003879	Dermatologic Agents	MeSH
+2834	riboflavin	PA	D003879	Dermatologic Agents	MeSH
 2416	salicylic acid	PA	D003879	Dermatologic Agents	MeSH
 3152	dimethicone	PA	D003879	Dermatologic Agents	MeSH
 2524	sulfapyridine	PA	D003879	Dermatologic Agents	MeSH
@@ -12542,6 +12542,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1761	metildigoxin	PA	D004791	Enzyme Inhibitors	MeSH
 1663	mefenamic acid	PA	D004791	Enzyme Inhibitors	MeSH
 1670	meglutol	PA	D004791	Enzyme Inhibitors	MeSH
+2852	ximelagatran	PA	D004791	Enzyme Inhibitors	MeSH
 1676	meloxicam	PA	D004791	Enzyme Inhibitors	MeSH
 4657	mersalyl	PA	D004791	Enzyme Inhibitors	MeSH
 1741	methazolamide	PA	D004791	Enzyme Inhibitors	MeSH
@@ -12727,7 +12728,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2846	voriconazole	PA	D004791	Enzyme Inhibitors	MeSH
 4124	vorinostat	PA	D004791	Enzyme Inhibitors	MeSH
 3651	vorozole	PA	D004791	Enzyme Inhibitors	MeSH
-2852	ximelagatran	PA	D004791	Enzyme Inhibitors	MeSH
 2856	zalcitabine	PA	D004791	Enzyme Inhibitors	MeSH
 2859	zanamivir	PA	D004791	Enzyme Inhibitors	MeSH
 2861	zidovudine	PA	D004791	Enzyme Inhibitors	MeSH
@@ -12738,7 +12738,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2231	pralidoxime	PA	D004793	Enzyme Reactivators	MeSH
 158	amiloride	PA	D062686	Epithelial Sodium Channel Blockers	MeSH
 2728	triamterene	PA	D062686	Epithelial Sodium Channel Blockers	MeSH
-4189	hydroxyprogesterone	PA	D004965	Estrogen Antagonists	MeSH
+4189	hydroxyprogesterone caproate	PA	D004965	Estrogen Antagonists	MeSH
 164	aminoglutethimide	PA	D004965	Estrogen Antagonists	MeSH
 210	anastrozole	PA	D004965	Estrogen Antagonists	MeSH
 570	ormeloxifene	PA	D004965	Estrogen Antagonists	MeSH
@@ -12951,6 +12951,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1195	flumazenil	PA	D018682	GABA Agents	MeSH
 1202	flunitrazepam	PA	D018682	GABA Agents	MeSH
 1218	flurazepam	PA	D018682	GABA Agents	MeSH
+1262	aminobutyric acid	PA	D018682	GABA Agents	MeSH
 1369	hexobarbital	PA	D018682	GABA Agents	MeSH
 1606	lorazepam	PA	D018682	GABA Agents	MeSH
 1654	medazepam	PA	D018682	GABA Agents	MeSH
@@ -13135,13 +13136,12 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 60	racecadotril	PA	D005765	Gastrointestinal Agents	MeSH
 2357	ramosetron	PA	D005765	Gastrointestinal Agents	MeSH
 2358	ranitidine	PA	D005765	Gastrointestinal Agents	MeSH
-4850	ranitidine bismuth citrate	PA	D005765	Gastrointestinal Agents	MeSH
 2360	rebamipide	PA	D005765	Gastrointestinal Agents	MeSH
 2375	ridogrel	PA	D005765	Gastrointestinal Agents	MeSH
 2379	rifaximin	PA	D005765	Gastrointestinal Agents	MeSH
 3529	rioprostil	PA	D005765	Gastrointestinal Agents	MeSH
 2404	rosaprostol	PA	D005765	Gastrointestinal Agents	MeSH
-2408	roxatidine	PA	D005765	Gastrointestinal Agents	MeSH
+2408	roxatidine acetate	PA	D005765	Gastrointestinal Agents	MeSH
 2548	secretin human	PA	D005765	Gastrointestinal Agents	MeSH
 4212	sodium sulfate	PA	D005765	Gastrointestinal Agents	MeSH
 2456	sofalcone	PA	D005765	Gastrointestinal Agents	MeSH
@@ -13160,7 +13160,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4982	vedolizumab	PA	D005765	Gastrointestinal Agents	MeSH
 4493	alclometasone dipropionate	PA	D005938	Glucocorticoids	MeSH
 150	amcinonide	PA	D005938	Glucocorticoids	MeSH
-294	beclometasone	PA	D005938	Glucocorticoids	MeSH
 348	betamethasone	PA	D005938	Glucocorticoids	MeSH
 349	betamethasone acetate	PA	D005938	Glucocorticoids	MeSH
 351	betamethasone benzoate	PA	D005938	Glucocorticoids	MeSH
@@ -13168,13 +13167,13 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 354	betamethasone valerate	PA	D005938	Glucocorticoids	MeSH
 419	budesonide	PA	D005938	Glucocorticoids	MeSH
 633	ciclesonide	PA	D005938	Glucocorticoids	MeSH
-4452	clobetasol	PA	D005938	Glucocorticoids	MeSH
+4452	clobetasol propionate	PA	D005938	Glucocorticoids	MeSH
 3911	clobetasone	PA	D005938	Glucocorticoids	MeSH
-4606	clorcortelone	PA	D005938	Glucocorticoids	MeSH
+4606	clocortolone pivalate	PA	D005938	Glucocorticoids	MeSH
 819	desoximetasone	PA	D005938	Glucocorticoids	MeSH
 824	dexamethasone	PA	D005938	Glucocorticoids	MeSH
 3139	dichlorisone	PA	D005938	Glucocorticoids	MeSH
-4485	diflorasone	PA	D005938	Glucocorticoids	MeSH
+4485	diflorasone diacetate	PA	D005938	Glucocorticoids	MeSH
 3141	diflucortolone	PA	D005938	Glucocorticoids	MeSH
 3142	difluprednate	PA	D005938	Glucocorticoids	MeSH
 4548	flumetasone	PA	D005938	Glucocorticoids	MeSH
@@ -13191,7 +13190,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1662	medrysone	PA	D005938	Glucocorticoids	MeSH
 1768	methylprednisolone	PA	D005938	Glucocorticoids	MeSH
 1771	methylprednisolone succinate	PA	D005938	Glucocorticoids	MeSH
-2060	paramethasone	PA	D005938	Glucocorticoids	MeSH
+2060	paramethasone acetate	PA	D005938	Glucocorticoids	MeSH
 2243	prednicarbate	PA	D005938	Glucocorticoids	MeSH
 2245	prednisolone	PA	D005938	Glucocorticoids	MeSH
 2246	prednisolone succinate	PA	D005938	Glucocorticoids	MeSH
@@ -13267,12 +13266,12 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4134	pyridoxal	PA	D006133	Growth Substances	MeSH
 3506	pyridoxal phosphate	PA	D006133	Growth Substances	MeSH
 2836	pyridoxine	PA	D006133	Growth Substances	MeSH
-2834	riboflavin (vit B2)	PA	D006133	Growth Substances	MeSH
+2834	riboflavin	PA	D006133	Growth Substances	MeSH
 3532	roquinimex	PA	D006133	Growth Substances	MeSH
 4782	sodium selenite	PA	D006133	Growth Substances	MeSH
 2544	sunitinib	PA	D006133	Growth Substances	MeSH
 2616	thalidomide	PA	D006133	Growth Substances	MeSH
-2832	thiamine (vit B1)	PA	D006133	Growth Substances	MeSH
+2832	thiamine	PA	D006133	Growth Substances	MeSH
 4732	thioctic acid	PA	D006133	Growth Substances	MeSH
 2831	retinol	PA	D006133	Growth Substances	MeSH
 3613	Vitamin E	PA	D006133	Growth Substances	MeSH
@@ -13346,6 +13345,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2995	lepirudin	PA	D006401	Hematologic Agents	MeSH
 4589	linsidomine	PA	D006401	Hematologic Agents	MeSH
 2959	lypressin	PA	D006401	Hematologic Agents	MeSH
+2852	ximelagatran	PA	D006401	Hematologic Agents	MeSH
 1685	menatetrenone	PA	D006401	Hematologic Agents	MeSH
 1809	milrinone	PA	D006401	Hematologic Agents	MeSH
 1867	nafamostat	PA	D006401	Hematologic Agents	MeSH
@@ -13376,7 +13376,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2843	phytomenadione	PA	D006401	Hematologic Agents	MeSH
 4870	vorapaxar	PA	D006401	Hematologic Agents	MeSH
 2847	warfarin	PA	D006401	Hematologic Agents	MeSH
-2852	ximelagatran	PA	D006401	Hematologic Agents	MeSH
 22	aminomethylbenzoic acid	PA	D006490	Hemostatics	MeSH
 96	adrenalone	PA	D006490	Hemostatics	MeSH
 4321	alginic acid	PA	D006490	Hemostatics	MeSH
@@ -13462,9 +13461,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2331	mepyramine	PA	D018494	Histamine Agents	MeSH
 4748	quifenadine	PA	D018494	Histamine Agents	MeSH
 2358	ranitidine	PA	D018494	Histamine Agents	MeSH
-4850	ranitidine bismuth citrate	PA	D018494	Histamine Agents	MeSH
 2367	repirinast	PA	D018494	Histamine Agents	MeSH
-2408	roxatidine	PA	D018494	Histamine Agents	MeSH
+2408	roxatidine acetate	PA	D018494	Histamine Agents	MeSH
 2545	suplatast	PA	D018494	Histamine Agents	MeSH
 2600	terfenadine	PA	D018494	Histamine Agents	MeSH
 2642	thonzylamine	PA	D018494	Histamine Agents	MeSH
@@ -13540,9 +13538,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2331	mepyramine	PA	D006633	Histamine Antagonists	MeSH
 4748	quifenadine	PA	D006633	Histamine Antagonists	MeSH
 2358	ranitidine	PA	D006633	Histamine Antagonists	MeSH
-4850	ranitidine bismuth citrate	PA	D006633	Histamine Antagonists	MeSH
 2367	repirinast	PA	D006633	Histamine Antagonists	MeSH
-2408	roxatidine	PA	D006633	Histamine Antagonists	MeSH
+2408	roxatidine acetate	PA	D006633	Histamine Antagonists	MeSH
 2545	suplatast	PA	D006633	Histamine Antagonists	MeSH
 2600	terfenadine	PA	D006633	Histamine Antagonists	MeSH
 2642	thonzylamine	PA	D006633	Histamine Antagonists	MeSH
@@ -13624,8 +13621,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1537	lafutidine	PA	D006635	Histamine H2 Antagonists	MeSH
 1955	nizatidine	PA	D006635	Histamine H2 Antagonists	MeSH
 2358	ranitidine	PA	D006635	Histamine H2 Antagonists	MeSH
-4850	ranitidine bismuth citrate	PA	D006635	Histamine H2 Antagonists	MeSH
-2408	roxatidine	PA	D006635	Histamine H2 Antagonists	MeSH
+2408	roxatidine acetate	PA	D006635	Histamine H2 Antagonists	MeSH
 4876	belinostat	PA	D056572	Histone Deacetylase Inhibitors	MeSH
 4682	panobinostat	PA	D056572	Histone Deacetylase Inhibitors	MeSH
 4124	vorinostat	PA	D056572	Histone Deacetylase Inhibitors	MeSH
@@ -13640,7 +13636,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1893	nelfinavir	PA	D017320	HIV Protease Inhibitors	MeSH
 2391	ritonavir	PA	D017320	HIV Protease Inhibitors	MeSH
 2422	saquinavir	PA	D017320	HIV Protease Inhibitors	MeSH
-4189	hydroxyprogesterone	PA	D006727	Hormone Antagonists	MeSH
+4189	hydroxyprogesterone caproate	PA	D006727	Hormone Antagonists	MeSH
 35	abarelix	PA	D006727	Hormone Antagonists	MeSH
 164	aminoglutethimide	PA	D006727	Hormone Antagonists	MeSH
 210	anastrozole	PA	D006727	Hormone Antagonists	MeSH
@@ -13658,6 +13654,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 719	clotrimazole	PA	D006727	Hormone Antagonists	MeSH
 766	cyproterone	PA	D006727	Hormone Antagonists	MeSH
 779	danazol	PA	D006727	Hormone Antagonists	MeSH
+3130	delmadinone acetate	PA	D006727	Hormone Antagonists	MeSH
 871	dienogest	PA	D006727	Hormone Antagonists	MeSH
 968	drospirenone	PA	D006727	Hormone Antagonists	MeSH
 973	dutasteride	PA	D006727	Hormone Antagonists	MeSH
@@ -13701,14 +13698,13 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3651	vorozole	PA	D006727	Hormone Antagonists	MeSH
 2855	zafirlukast	PA	D006727	Hormone Antagonists	MeSH
 2862	zileuton	PA	D006727	Hormone Antagonists	MeSH
-4189	hydroxyprogesterone	PA	D006728	Hormones	MeSH
+4189	hydroxyprogesterone caproate	PA	D006728	Hormones	MeSH
 4493	alclometasone dipropionate	PA	D006728	Hormones	MeSH
 797	algestone acetophenide	PA	D006728	Hormones	MeSH
 125	allylestrenol	PA	D006728	Hormones	MeSH
 4340	alogliptin	PA	D006728	Hormones	MeSH
 150	amcinonide	PA	D006728	Hormones	MeSH
 214	androstenediol	PA	D006728	Hormones	MeSH
-294	beclometasone	PA	D006728	Hormones	MeSH
 348	betamethasone	PA	D006728	Hormones	MeSH
 349	betamethasone acetate	PA	D006728	Hormones	MeSH
 351	betamethasone benzoate	PA	D006728	Hormones	MeSH
@@ -13717,10 +13713,11 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 419	budesonide	PA	D006728	Hormones	MeSH
 610	chlorotrianisene	PA	D006728	Hormones	MeSH
 633	ciclesonide	PA	D006728	Hormones	MeSH
-4452	clobetasol	PA	D006728	Hormones	MeSH
+4452	clobetasol propionate	PA	D006728	Hormones	MeSH
 3911	clobetasone	PA	D006728	Hormones	MeSH
-4606	clorcortelone	PA	D006728	Hormones	MeSH
+4606	clocortolone pivalate	PA	D006728	Hormones	MeSH
 4516	tetracosactide	PA	D006728	Hormones	MeSH
+3130	delmadinone acetate	PA	D006728	Hormones	MeSH
 818	desogestrel	PA	D006728	Hormones	MeSH
 819	desoximetasone	PA	D006728	Hormones	MeSH
 820	desoxycortone	PA	D006728	Hormones	MeSH
@@ -13729,7 +13726,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3139	dichlorisone	PA	D006728	Hormones	MeSH
 870	dienestrol	PA	D006728	Hormones	MeSH
 875	diethylstilbestrol	PA	D006728	Hormones	MeSH
-4485	diflorasone	PA	D006728	Hormones	MeSH
+4485	diflorasone diacetate	PA	D006728	Hormones	MeSH
 3141	diflucortolone	PA	D006728	Hormones	MeSH
 3142	difluprednate	PA	D006728	Hormones	MeSH
 3927	androstanolone	PA	D006728	Hormones	MeSH
@@ -13777,7 +13774,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2011	oxandrolone	PA	D006728	Hormones	MeSH
 2033	oxymetholone	PA	D006728	Hormones	MeSH
 2045	palmidrol	PA	D006728	Hormones	MeSH
-2060	paramethasone	PA	D006728	Hormones	MeSH
+2060	paramethasone acetate	PA	D006728	Hormones	MeSH
 3482	polyestradiol phosphate	PA	D006728	Hormones	MeSH
 2243	prednicarbate	PA	D006728	Hormones	MeSH
 2245	prednisolone	PA	D006728	Hormones	MeSH
@@ -13800,7 +13797,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2726	triamcinolone acetonide	PA	D006728	Hormones	MeSH
 4067	triamcinolone benetonide	PA	D006728	Hormones	MeSH
 2860	zeranol	PA	D006728	Hormones	MeSH
-4189	hydroxyprogesterone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
+4189	hydroxyprogesterone caproate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 35	abarelix	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 4493	alclometasone dipropionate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 797	algestone acetophenide	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
@@ -13812,7 +13809,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 214	androstenediol	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 3008	atosiban	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 4334	bazedoxifene	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
-294	beclometasone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 348	betamethasone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 349	betamethasone acetate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 351	betamethasone benzoate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
@@ -13829,14 +13825,15 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 600	chlormadinone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 610	chlorotrianisene	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 633	ciclesonide	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
-4452	clobetasol	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
+4452	clobetasol propionate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 3911	clobetasone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
-4606	clorcortelone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
+4606	clocortolone pivalate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 700	clomifene	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 719	clotrimazole	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 4516	tetracosactide	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 766	cyproterone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 779	danazol	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
+3130	delmadinone acetate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 818	desogestrel	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 819	desoximetasone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 820	desoxycortone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
@@ -13846,7 +13843,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 870	dienestrol	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 871	dienogest	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 875	diethylstilbestrol	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
-4485	diflorasone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
+4485	diflorasone diacetate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 3141	diflucortolone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 3142	difluprednate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 3927	androstanolone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
@@ -13919,7 +13916,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2011	oxandrolone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 2033	oxymetholone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 2045	palmidrol	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
-2060	paramethasone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
+2060	paramethasone acetate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 3482	polyestradiol phosphate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 3483	posaconazole	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 2237	pranlukast	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
@@ -14112,6 +14109,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 438	busulfan	PA	D007155	Immunologic Factors	MeSH
 4968	certolizumab pegol	PA	D007155	Immunologic Factors	MeSH
 667	cladribine	PA	D007155	Immunologic Factors	MeSH
+729	colforsin daropate	PA	D007155	Immunologic Factors	MeSH
 758	cyclophosphamide	PA	D007155	Immunologic Factors	MeSH
 760	ciclosporin	PA	D007155	Immunologic Factors	MeSH
 770	cytarabine	PA	D007155	Immunologic Factors	MeSH
@@ -14514,9 +14512,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4134	pyridoxal	PA	D018977	Micronutrients	MeSH
 3506	pyridoxal phosphate	PA	D018977	Micronutrients	MeSH
 2836	pyridoxine	PA	D018977	Micronutrients	MeSH
-2834	riboflavin (vit B2)	PA	D018977	Micronutrients	MeSH
+2834	riboflavin	PA	D018977	Micronutrients	MeSH
 4782	sodium selenite	PA	D018977	Micronutrients	MeSH
-2832	thiamine (vit B1)	PA	D018977	Micronutrients	MeSH
+2832	thiamine	PA	D018977	Micronutrients	MeSH
 4732	thioctic acid	PA	D018977	Micronutrients	MeSH
 2831	retinol	PA	D018977	Micronutrients	MeSH
 3613	Vitamin E	PA	D018977	Micronutrients	MeSH
@@ -14780,7 +14778,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1704	meprobamate	PA	D009465	Neuromuscular Agents	MeSH
 1722	metaxalone	PA	D009465	Neuromuscular Agents	MeSH
 1747	methocarbamol	PA	D009465	Neuromuscular Agents	MeSH
-908	metocurine	PA	D009465	Neuromuscular Agents	MeSH
+908	dimethyltubocurarinium	PA	D009465	Neuromuscular Agents	MeSH
 1822	mivacurium	PA	D009465	Neuromuscular Agents	MeSH
 1999	orphenadrine	PA	D009465	Neuromuscular Agents	MeSH
 2052	pancuronium	PA	D009465	Neuromuscular Agents	MeSH
@@ -14802,7 +14800,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 789	decamethonium	PA	D009466	Neuromuscular Blocking Agents	MeSH
 2974	doxacurium	PA	D009466	Neuromuscular Blocking Agents	MeSH
 1273	gallamine	PA	D009466	Neuromuscular Blocking Agents	MeSH
-908	metocurine	PA	D009466	Neuromuscular Blocking Agents	MeSH
+908	dimethyltubocurarinium	PA	D009466	Neuromuscular Blocking Agents	MeSH
 1822	mivacurium	PA	D009466	Neuromuscular Blocking Agents	MeSH
 2052	pancuronium	PA	D009466	Neuromuscular Blocking Agents	MeSH
 2183	pipecuronium	PA	D009466	Neuromuscular Blocking Agents	MeSH
@@ -14819,7 +14817,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 259	atracurium	PA	D003473	Neuromuscular Nondepolarizing Agents	MeSH
 2974	doxacurium	PA	D003473	Neuromuscular Nondepolarizing Agents	MeSH
 1273	gallamine	PA	D003473	Neuromuscular Nondepolarizing Agents	MeSH
-908	metocurine	PA	D003473	Neuromuscular Nondepolarizing Agents	MeSH
+908	dimethyltubocurarinium	PA	D003473	Neuromuscular Nondepolarizing Agents	MeSH
 1822	mivacurium	PA	D003473	Neuromuscular Nondepolarizing Agents	MeSH
 2052	pancuronium	PA	D003473	Neuromuscular Nondepolarizing Agents	MeSH
 2183	pipecuronium	PA	D003473	Neuromuscular Nondepolarizing Agents	MeSH
@@ -15046,6 +15044,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1264	gabapentin	PA	D018377	Neurotransmitter Agents	MeSH
 1272	galantamine	PA	D018377	Neurotransmitter Agents	MeSH
 1273	gallamine	PA	D018377	Neurotransmitter Agents	MeSH
+1262	aminobutyric acid	PA	D018377	Neurotransmitter Agents	MeSH
 4562	gepirone	PA	D018377	Neurotransmitter Agents	MeSH
 1319	glycine	PA	D018377	Neurotransmitter Agents	MeSH
 4302	glycopyrronium bromide	PA	D018377	Neurotransmitter Agents	MeSH
@@ -15238,7 +15237,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4508	racepinefrine	PA	D018377	Neurotransmitter Agents	MeSH
 2357	ramosetron	PA	D018377	Neurotransmitter Agents	MeSH
 2358	ranitidine	PA	D018377	Neurotransmitter Agents	MeSH
-4850	ranitidine bismuth citrate	PA	D018377	Neurotransmitter Agents	MeSH
 2361	reboxetine	PA	D018377	Neurotransmitter Agents	MeSH
 2362	regadenoson	PA	D018377	Neurotransmitter Agents	MeSH
 2365	remoxipride	PA	D018377	Neurotransmitter Agents	MeSH
@@ -15254,7 +15252,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2392	rivastigmine	PA	D018377	Neurotransmitter Agents	MeSH
 2393	rizatriptan	PA	D018377	Neurotransmitter Agents	MeSH
 2402	ropinirole	PA	D018377	Neurotransmitter Agents	MeSH
-2408	roxatidine	PA	D018377	Neurotransmitter Agents	MeSH
+2408	roxatidine acetate	PA	D018377	Neurotransmitter Agents	MeSH
 2419	salmeterol	PA	D018377	Neurotransmitter Agents	MeSH
 2423	sarpogrelate	PA	D018377	Neurotransmitter Agents	MeSH
 2424	scopolamine	PA	D018377	Neurotransmitter Agents	MeSH
@@ -15716,6 +15714,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 714	clorprenaline	PA	D018373	Peripheral Nervous System Agents	MeSH
 723	cocaine	PA	D018373	Peripheral Nervous System Agents	MeSH
 725	codeine	PA	D018373	Peripheral Nervous System Agents	MeSH
+729	colforsin daropate	PA	D018373	Peripheral Nervous System Agents	MeSH
 4282	copper sulfate	PA	D018373	Peripheral Nervous System Agents	MeSH
 748	cyclazocine	PA	D018373	Peripheral Nervous System Agents	MeSH
 749	cyclizine	PA	D018373	Peripheral Nervous System Agents	MeSH
@@ -15895,7 +15894,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1768	methylprednisolone	PA	D018373	Peripheral Nervous System Agents	MeSH
 1779	metipranolol	PA	D018373	Peripheral Nervous System Agents	MeSH
 1782	metoclopramide	PA	D018373	Peripheral Nervous System Agents	MeSH
-908	metocurine	PA	D018373	Peripheral Nervous System Agents	MeSH
+908	dimethyltubocurarinium	PA	D018373	Peripheral Nervous System Agents	MeSH
 1784	metopimazine	PA	D018373	Peripheral Nervous System Agents	MeSH
 1786	metoprolol	PA	D018373	Peripheral Nervous System Agents	MeSH
 1803	midodrine	PA	D018373	Peripheral Nervous System Agents	MeSH
@@ -16147,11 +16146,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3021	bergapten	PA	D017319	Photosensitizing Agents	MeSH
 98	afloqualone	PA	D017319	Photosensitizing Agents	MeSH
 166	aminolevulinic acid	PA	D017319	Photosensitizing Agents	MeSH
-3412	oxybenzone	PA	D017319	Photosensitizing Agents	MeSH
 518	carprofen	PA	D017319	Photosensitizing Agents	MeSH
 30	methoxsalen	PA	D017319	Photosensitizing Agents	MeSH
 3500	protoporphyrin	PA	D017319	Photosensitizing Agents	MeSH
-2834	riboflavin (vit B2)	PA	D017319	Photosensitizing Agents	MeSH
+2834	riboflavin	PA	D017319	Photosensitizing Agents	MeSH
 2555	talaporfin	PA	D017319	Photosensitizing Agents	MeSH
 2588	temoporfin	PA	D017319	Photosensitizing Agents	MeSH
 4237	titanium dioxide	PA	D017319	Photosensitizing Agents	MeSH
@@ -16208,9 +16206,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1766	methylparaben	PA	D011310	Preservatives, Pharmaceutical	MeSH
 2307	propylparaben	PA	D011310	Preservatives, Pharmaceutical	MeSH
 4733	thiomersal	PA	D011310	Preservatives, Pharmaceutical	MeSH
-4189	hydroxyprogesterone	PA	D011372	Progestins	MeSH
+4189	hydroxyprogesterone caproate	PA	D011372	Progestins	MeSH
 797	algestone acetophenide	PA	D011372	Progestins	MeSH
 125	allylestrenol	PA	D011372	Progestins	MeSH
+3130	delmadinone acetate	PA	D011372	Progestins	MeSH
 818	desogestrel	PA	D011372	Progestins	MeSH
 975	dydrogesterone	PA	D011372	Progestins	MeSH
 1291	gestodene	PA	D011372	Progestins	MeSH
@@ -16249,6 +16248,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4175	linagliptin	PA	D011480	Protease Inhibitors	MeSH
 1587	lisinopril	PA	D011480	Protease Inhibitors	MeSH
 1601	lopinavir	PA	D011480	Protease Inhibitors	MeSH
+2852	ximelagatran	PA	D011480	Protease Inhibitors	MeSH
 1827	moexipril	PA	D011480	Protease Inhibitors	MeSH
 1867	nafamostat	PA	D011480	Protease Inhibitors	MeSH
 1893	nelfinavir	PA	D011480	Protease Inhibitors	MeSH
@@ -16270,7 +16270,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2712	trandolapril	PA	D011480	Protease Inhibitors	MeSH
 2787	ubenimex	PA	D011480	Protease Inhibitors	MeSH
 3642	vildagliptin	PA	D011480	Protease Inhibitors	MeSH
-2852	ximelagatran	PA	D011480	Protease Inhibitors	MeSH
 2866	zofenopril	PA	D011480	Protease Inhibitors	MeSH
 4312	4-dimethylaminophenol	PA	D020011	Protective Agents	MeSH
 4321	alginic acid	PA	D020011	Protective Agents	MeSH
@@ -16288,6 +16287,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 488	carbachol	PA	D020011	Protective Agents	MeSH
 602	clomethiazole	PA	D020011	Protective Agents	MeSH
 644	cilostazol	PA	D020011	Protective Agents	MeSH
+729	colforsin daropate	PA	D020011	Protective Agents	MeSH
 4282	copper sulfate	PA	D020011	Protective Agents	MeSH
 4418	diethyltoluamide	PA	D020011	Protective Agents	MeSH
 806	denopamine	PA	D020011	Protective Agents	MeSH
@@ -16648,7 +16648,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3021	bergapten	PA	D011838	Radiation-Sensitizing Agents	MeSH
 98	afloqualone	PA	D011838	Radiation-Sensitizing Agents	MeSH
 166	aminolevulinic acid	PA	D011838	Radiation-Sensitizing Agents	MeSH
-3412	oxybenzone	PA	D011838	Radiation-Sensitizing Agents	MeSH
 3042	broxuridine	PA	D011838	Radiation-Sensitizing Agents	MeSH
 518	carprofen	PA	D011838	Radiation-Sensitizing Agents	MeSH
 4392	cisplatin	PA	D011838	Radiation-Sensitizing Agents	MeSH
@@ -16664,7 +16663,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1997	ornidazole	PA	D011838	Radiation-Sensitizing Agents	MeSH
 2102	perflubron	PA	D011838	Radiation-Sensitizing Agents	MeSH
 3500	protoporphyrin	PA	D011838	Radiation-Sensitizing Agents	MeSH
-2834	riboflavin (vit B2)	PA	D011838	Radiation-Sensitizing Agents	MeSH
+2834	riboflavin	PA	D011838	Radiation-Sensitizing Agents	MeSH
 2555	talaporfin	PA	D011838	Radiation-Sensitizing Agents	MeSH
 2588	temoporfin	PA	D011838	Radiation-Sensitizing Agents	MeSH
 4237	titanium dioxide	PA	D011838	Radiation-Sensitizing Agents	MeSH
@@ -16777,7 +16776,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4055	baicalin	PA	D019141	Respiratory System Agents	MeSH
 285	bambuterol	PA	D019141	Respiratory System Agents	MeSH
 287	bamifylline	PA	D019141	Respiratory System Agents	MeSH
-294	beclometasone	PA	D019141	Respiratory System Agents	MeSH
 3013	bemegride	PA	D019141	Respiratory System Agents	MeSH
 326	benzonatate	PA	D019141	Respiratory System Agents	MeSH
 348	betamethasone	PA	D019141	Respiratory System Agents	MeSH
@@ -16793,6 +16791,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 686	clobutinol	PA	D019141	Respiratory System Agents	MeSH
 714	clorprenaline	PA	D019141	Respiratory System Agents	MeSH
 725	codeine	PA	D019141	Respiratory System Agents	MeSH
+729	colforsin daropate	PA	D019141	Respiratory System Agents	MeSH
 741	cromoglicic acid	PA	D019141	Respiratory System Agents	MeSH
 842	dextromethorphan	PA	D019141	Respiratory System Agents	MeSH
 900	dimemorfan	PA	D019141	Respiratory System Agents	MeSH
@@ -17165,10 +17164,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4897	edoxaban	PA	D015842	Serine Proteinase Inhibitors	MeSH
 3257	gabexate	PA	D015842	Serine Proteinase Inhibitors	MeSH
 2995	lepirudin	PA	D015842	Serine Proteinase Inhibitors	MeSH
+2852	ximelagatran	PA	D015842	Serine Proteinase Inhibitors	MeSH
 1867	nafamostat	PA	D015842	Serine Proteinase Inhibitors	MeSH
 4182	rivaroxaban	PA	D015842	Serine Proteinase Inhibitors	MeSH
 2452	sivelestat	PA	D015842	Serine Proteinase Inhibitors	MeSH
-2852	ximelagatran	PA	D015842	Serine Proteinase Inhibitors	MeSH
 1884	naratriptan	PA	D058825	Serotonin 5-HT1 Receptor Agonists	MeSH
 2543	sumatriptan	PA	D058825	Serotonin 5-HT1 Receptor Agonists	MeSH
 4806	vortioxetine	PA	D058825	Serotonin 5-HT1 Receptor Agonists	MeSH
@@ -17719,7 +17718,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1043	ergotamine	PA	D014662	Vasoconstrictor Agents	MeSH
 1101	etilefrine	PA	D014662	Vasoconstrictor Agents	MeSH
 4910	felypressin	PA	D014662	Vasoconstrictor Agents	MeSH
-1349	ulobetasol	PA	D014662	Vasoconstrictor Agents	MeSH
 2959	lypressin	PA	D014662	Vasoconstrictor Agents	MeSH
 1694	mephentermine	PA	D014662	Vasoconstrictor Agents	MeSH
 1721	metaraminol	PA	D014662	Vasoconstrictor Agents	MeSH
@@ -17769,6 +17767,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3098	carbocromen	PA	D014665	Vasodilator Agents	MeSH
 3709	ciclosidomine	PA	D014665	Vasodilator Agents	MeSH
 644	cilostazol	PA	D014665	Vasodilator Agents	MeSH
+729	colforsin daropate	PA	D014665	Vasodilator Agents	MeSH
 747	cyclandelate	PA	D014665	Vasodilator Agents	MeSH
 854	diazoxide	PA	D014665	Vasodilator Agents	MeSH
 887	dihydroergocristine	PA	D014665	Vasodilator Agents	MeSH
@@ -17876,8 +17875,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4134	pyridoxal	PA	D014803	Vitamin B Complex	MeSH
 3506	pyridoxal phosphate	PA	D014803	Vitamin B Complex	MeSH
 2836	pyridoxine	PA	D014803	Vitamin B Complex	MeSH
-2834	riboflavin (vit B2)	PA	D014803	Vitamin B Complex	MeSH
-2832	thiamine (vit B1)	PA	D014803	Vitamin B Complex	MeSH
+2834	riboflavin	PA	D014803	Vitamin B Complex	MeSH
+2832	thiamine	PA	D014803	Vitamin B Complex	MeSH
 4732	thioctic acid	PA	D014803	Vitamin B Complex	MeSH
 64	acetylcarnitine	PA	D014815	Vitamins	MeSH
 4280	tocofersolan	PA	D014815	Vitamins	MeSH
@@ -17902,8 +17901,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4134	pyridoxal	PA	D014815	Vitamins	MeSH
 3506	pyridoxal phosphate	PA	D014815	Vitamins	MeSH
 2836	pyridoxine	PA	D014815	Vitamins	MeSH
-2834	riboflavin (vit B2)	PA	D014815	Vitamins	MeSH
-2832	thiamine (vit B1)	PA	D014815	Vitamins	MeSH
+2834	riboflavin	PA	D014815	Vitamins	MeSH
+2832	thiamine	PA	D014815	Vitamins	MeSH
 4732	thioctic acid	PA	D014815	Vitamins	MeSH
 2831	retinol	PA	D014815	Vitamins	MeSH
 3613	Vitamin E	PA	D014815	Vitamins	MeSH
