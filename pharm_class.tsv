@@ -302,8 +302,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2989	calcitonin (salmon synthetic)	Chemical/Ingredient	N0000006509	Calcitonin	FDA
 2722	tretinoin	EPC	N0000175607	Retinoid	FDA
 2722	tretinoin	Chemical/Ingredient	N0000007700	Retinoids	FDA
-294	beclomethasone dipropionate	EPC	N0000175576	Corticosteroid	FDA
-294	beclomethasone dipropionate	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
 700	clomifene	EPC	N0000175826	Estrogen Agonist/Antagonist	FDA
 4997	laronidase	Chemical/Ingredient	N0000167711	alpha-Glucosidases	FDA
 4997	laronidase	EPC	N0000175823	Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme	FDA
@@ -386,8 +384,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2371	retapamulin	EPC	N0000175434	Pleuromutilin Antibacterial	FDA
 2066	paricalcitol	Chemical/Ingredient	N0000006996	Cholecalciferol	FDA
 2066	paricalcitol	EPC	N0000175908	Vitamin D3 Analog	FDA
-4606	clocortolone pivalate	EPC	N0000175576	Corticosteroid	FDA
-4606	clocortolone pivalate	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
 2677	tiotropium bromide	EPC	N0000175574	Anticholinergic	FDA
 2599	terconazole	EPC	N0000175487	Azole Antifungal	FDA
 2599	terconazole	Chemical/Ingredient	N0000008217	Azoles	FDA
@@ -651,8 +647,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 972	duloxetine	EPC	N0000175749	Serotonin and Norepinephrine Reuptake Inhibitor	FDA
 2606	testolactone	EPC	N0000175563	Aromatase Inhibitor	FDA
 2606	testolactone	MoA	N0000175080	Aromatase Inhibitors	FDA
-1349	ulobetasol	EPC	N0000175576	Corticosteroid	FDA
-1349	ulobetasol	MoA	N0000175450	Corticosteroid Hormone Receptor Agonists	FDA
 874	diethylpropion	PE	N0000175372	Appetite Suppression	FDA
 874	diethylpropion	PE	N0000175651	Increased Sympathetic Activity	FDA
 874	diethylpropion	EPC	N0000175423	Sympathomimetic Amine Anorectic	FDA
@@ -1044,6 +1038,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2497	sulfacetamide	Chemical/Ingredient	N0000008048	Sulfonamides	FDA
 2378	rifapentine	EPC	N0000175501	Rifamycin Antimycobacterial	FDA
 2378	rifapentine	Chemical/Ingredient	N0000007911	Rifamycins	FDA
+5011	aldesleukin	PE	N0000178328	Increased Lymphocyte Activation	FDA
+5011	aldesleukin	PE	N0000009391	Increased Lymphocyte Cell Production	FDA
+5011	aldesleukin	Chemical/Ingredient	N0000011424	Interleukin-2	FDA
+5011	aldesleukin	EPC	N0000175667	Lymphocyte Growth Factor	FDA
 2847	warfarin	EPC	N0000175476	Vitamin K Antagonist	FDA
 2847	warfarin	MoA	N0000175964	Vitamin K Inhibitors	FDA
 2350	rabeprazole	EPC	N0000175525	Proton Pump Inhibitor	FDA
@@ -1307,6 +1305,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3862	alitretinoin	Chemical/Ingredient	N0000007700	Retinoids	FDA
 1710	mesalazine	EPC	N0000175781	Aminosalicylate	FDA
 1710	mesalazine	Chemical/Ingredient	N0000005760	Aminosalicylic Acids	FDA
+5017	anakinra	MoA	N0000175709	Interleukin 1 Receptor Antagonists	FDA
+5017	anakinra	EPC	N0000175710	Interleukin-1 Receptor Antagonist	FDA
 391	bortezomib	MoA	N0000175075	Proteasome Inhibitors	FDA
 1659	medroxyprogesterone	Chemical/Ingredient	N0000011301	Progesterone Congeners	FDA
 1659	medroxyprogesterone	EPC	N0000175602	Progestin	FDA
@@ -1480,6 +1480,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4989	velaglucerase alfa	EPC	N0000175820	Hydrolytic Lysosomal Glucocerebroside-specific Enzyme	FDA
 640	cilastatin	MoA	N0000175513	Dipeptidase Inhibitors	FDA
 640	cilastatin	EPC	N0000175514	Renal Dehydropeptidase Inhibitor	FDA
+5018	agalsidase beta	Chemical/Ingredient	N0000167711	alpha-Glucosidases	FDA
+5018	agalsidase beta	EPC	N0000175822	Hydrolytic Lysosomal Neutral Glycosphingolipid-specific Enzyme	FDA
 727	cholestyramine	EPC	N0000180292	Bile Acid Sequestrant	FDA
 727	cholestyramine	MoA	N0000175365	Bile-acid Binding Activity	FDA
 4533	samarium (153Sm) lexidronam	EPC	N0000175872	Radioactive Therapeutic Agent	FDA
@@ -1794,8 +1796,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4929	lutropin alfa	Chemical/Ingredient	N0000011199	Gonadotropins	FDA
 1868	nafarelin	EPC	N0000175655	Gonadotropin Releasing Hormone Receptor Agonist	FDA
 1868	nafarelin	MoA	N0000175654	Gonadotropin Releasing Hormone Receptor Agonists	FDA
-4176	abiraterone	MoA	N0000182632	Cytochrome P450 17A1 Inhibitors	FDA
-4176	abiraterone	EPC	N0000182633	Cytochrome P450 17A1 Inhibitor	FDA
+4176	abiraterone acetate	MoA	N0000182632	Cytochrome P450 17A1 Inhibitors	FDA
+4176	abiraterone acetate	EPC	N0000182633	Cytochrome P450 17A1 Inhibitor	FDA
 4185	vemurafenib	EPC	N0000175605	Kinase Inhibitor	FDA
 4185	vemurafenib	MoA	N0000175076	Protein Kinase Inhibitors	FDA
 2870	zolpidem	EPC	N0000175759	gamma-Aminobutyric Acid-ergic Agonist	FDA
@@ -2171,6 +2173,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1527	ketoconazole	MoA	N0000182141	Cytochrome P450 3A4 Inhibitors	FDA
 1527	ketoconazole	MoA	N0000190115	Cytochrome P450 3A5 Inhibitors	FDA
 1527	ketoconazole	MoA	N0000185503	P-Glycoprotein Inhibitors	FDA
+5015	pegvisomant	MoA	N0000010267	Growth Hormone Receptor Antagonists	FDA
+5015	pegvisomant	EPC	N0000190119	Growth Hormone Receptor Antagonist	FDA
 1904	nevirapine	EPC	N0000175463	Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor	FDA
 1904	nevirapine	Chemical/Ingredient	N0000175460	Non-Nucleoside Analog	FDA
 1904	nevirapine	MoA	N0000009948	Non-Nucleoside Reverse Transcriptase Inhibitors	FDA
@@ -2234,8 +2238,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2994	glucagon	PE	N0000008652	Decreased Glycolysis	FDA
 2609	tetrabenazine	EPC	N0000190856	Vesicular Monoamine Transporter 2 Inhibitor	FDA
 2609	tetrabenazine	MoA	N0000190855	Vesicular Monoamine Transporter 2 Inhibitors	FDA
-4176	abiraterone	MoA	N0000182137	Cytochrome P450 2D6 Inhibitors	FDA
-4176	abiraterone	MoA	N0000187062	Cytochrome P450 2C8 Inhibitors	FDA
+4176	abiraterone acetate	MoA	N0000182137	Cytochrome P450 2D6 Inhibitors	FDA
+4176	abiraterone acetate	MoA	N0000187062	Cytochrome P450 2C8 Inhibitors	FDA
 1513	itraconazole	EPC	N0000175487	Azole Antifungal	FDA
 1513	itraconazole	Chemical/Ingredient	N0000008217	Azoles	FDA
 1513	itraconazole	MoA	N0000182141	Cytochrome P450 3A4 Inhibitors	FDA
@@ -3486,7 +3490,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2711	tramadol	PA	D000701	Analgesics, Opioid	MeSH
 367	bicalutamide	PA	D000726	Androgen Antagonists	MeSH
 600	chlormadinone	PA	D000726	Androgen Antagonists	MeSH
-766	cyproterone	PA	D000726	Androgen Antagonists	MeSH
+766	cyproterone acetate	PA	D000726	Androgen Antagonists	MeSH
 3130	delmadinone acetate	PA	D000726	Androgen Antagonists	MeSH
 1223	flutamide	PA	D000726	Androgen Antagonists	MeSH
 3321	liarozole	PA	D000726	Androgen Antagonists	MeSH
@@ -4976,20 +4980,15 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 5001	eluxadoline	has role	CHEBI:59282	kappa-opioid receptor agonist	CHEBI
 5001	eluxadoline	has role	CHEBI:55324	gastrointestinal drug	CHEBI
 4947	isavuconazonium	has role	CHEBI:50266	prodrug	CHEBI
-4947	isavuconazonium	has role	CHEBI:35718	antifungal agent	CHEBI
-4947	isavuconazonium	has role	CHEBI:77884	EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor	CHEBI
 4947	isavuconazonium	has role	CHEBI:71031	orphan drug	CHEBI
 4943	arformoterol	has role	CHEBI:35523	bronchodilator agent	CHEBI
 4943	arformoterol	has role	CHEBI:49167	anti-asthmatic drug	CHEBI
 4943	arformoterol	has role	CHEBI:35522	beta-adrenergic agonist	CHEBI
 4946	avibactam	has role	CHEBI:36047	antibacterial drug	CHEBI
-4946	avibactam	has role	CHEBI:22582	antibiotic	CHEBI
 4941	palbociclib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4942	lenvatinib	has role	CHEBI:71031	orphan drug	CHEBI
 4942	lenvatinib	has role	CHEBI:35610	antineoplastic agent	CHEBI
-4920	finafloxacin	has role	CHEBI:22582	antibiotic	CHEBI
 4920	finafloxacin	has role	CHEBI:36047	antibacterial drug	CHEBI
-4922	ceftolozane	has role	CHEBI:22582	antibiotic	CHEBI
 4922	ceftolozane	has role	CHEBI:35441	antiinfective agent	CHEBI
 4910	felypressin	has role	CHEBI:50514	vasoconstrictor agent	CHEBI
 4910	felypressin	has role	CHEBI:59727	vasopressin receptor agonist	CHEBI
@@ -5001,20 +5000,16 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4903	nintedanib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4903	nintedanib	has role	CHEBI:48422	angiogenesis inhibitor	CHEBI
 4881	suvorexant	has role	CHEBI:35488	central nervous system depressant	CHEBI
-4873	tedizolid phosphate	has role	CHEBI:22582	antibiotic	CHEBI
 4873	tedizolid phosphate	has role	CHEBI:50266	prodrug	CHEBI
-4874	efinaconazole	has role	CHEBI:35718	antifungal agent	CHEBI
-4874	efinaconazole	has role	CHEBI:77884	EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor	CHEBI
 4875	daclatasvir	has role	CHEBI:36044	antiviral drug	CHEBI
-4875	daclatasvir	has role	CHEBI:83799	nonstructural protein 5A inhibitor	CHEBI
 4876	belinostat	has role	CHEBI:35610	antineoplastic agent	CHEBI
-4877	tavaborole	has role	CHEBI:35718	antifungal agent	CHEBI
 4878	idelalisib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4866	ceritinib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4829	apremilast	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 4830	empagliflozin	has role	CHEBI:35526	hypoglycemic agent	CHEBI
 4823	peramivir	has role	CHEBI:52425	EC 3.2.1.18 (exo-alpha-sialidase) inhibitor	CHEBI
 4823	peramivir	has role	CHEBI:36044	antiviral drug	CHEBI
+4817	rifamycin	has role	CHEBI:33231	antitubercular agent	CHEBI
 4814	olodaterol	has role	CHEBI:35522	beta-adrenergic agonist	CHEBI
 4814	olodaterol	has role	CHEBI:35523	bronchodilator agent	CHEBI
 4816	umeclidinium	has role	CHEBI:48876	muscarinic antagonist	CHEBI
@@ -5029,7 +5024,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4810	ibrutinib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4811	sofosbuvir	has role	CHEBI:50266	prodrug	CHEBI
 4811	sofosbuvir	has role	CHEBI:36044	antiviral drug	CHEBI
-4805	dolutegravir	has role	CHEBI:67268	HIV-1 integrase inhibitor	CHEBI
 4780	sodium tartrate	has role	CHEBI:63047	food emulsifier	CHEBI
 4757	dimethyl fumarate	has role	CHEBI:50846	immunomodulator	CHEBI
 4757	dimethyl fumarate	has role	CHEBI:50748	antipsoriatic	CHEBI
@@ -5063,7 +5057,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4245	methyl salicylate	has role	CHEBI:24850	insect attractant	CHEBI
 4230	Ioflupane I-123	has role	CHEBI:35232	radiopharmaceutical	CHEBI
 4220	telbivudine	has role	CHEBI:36044	antiviral drug	CHEBI
-4220	telbivudine	has role	CHEBI:59897	EC 2.7.7.49 (RNA-directed DNA polymerase) inhibitor	CHEBI
 4222	metitepine	has role	CHEBI:35476	antipsychotic agent	CHEBI
 4222	metitepine	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
 4222	metitepine	has role	CHEBI:48279	serotonergic antagonist	CHEBI
@@ -5081,10 +5074,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4188	deferiprone	has role	CHEBI:50267	protective agent	CHEBI
 1948	nitric oxide	has role	CHEBI:35523	bronchodilator agent	CHEBI
 1948	nitric oxide	has role	CHEBI:35620	vasodilator agent	CHEBI
-3244	formaldehyde	has role	CHEBI:48219	disinfectant	CHEBI
 1076	ethanol	has role	CHEBI:48218	antiseptic drug	CHEBI
 1076	ethanol	has role	CHEBI:48354	polar solvent	CHEBI
-1076	ethanol	has role	CHEBI:48219	disinfectant	CHEBI
 1076	ethanol	has role	CHEBI:35488	central nervous system depressant	CHEBI
 3035	boric acid	has role	CHEBI:74783	astringent	CHEBI
 1319	glycine	has role	CHEBI:50733	nutraceutical	CHEBI
@@ -5098,11 +5089,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1233	fomepizole	has role	CHEBI:50247	antidote	CHEBI
 1233	fomepizole	has role	CHEBI:50267	protective agent	CHEBI
 787	deanol	has role	CHEBI:75358	curing agent	CHEBI
-3928	dihydroxyacetone	has role	CHEBI:35718	antifungal agent	CHEBI
 1316	glycerol	has role	CHEBI:46787	solvent	CHEBI
 1316	glycerol	has role	CHEBI:27780	detergent	CHEBI
 3267	glutaral	has role	CHEBI:50684	cross-linking reagent	CHEBI
-3267	glutaral	has role	CHEBI:48219	disinfectant	CHEBI
 759	cycloserine	has role	CHEBI:64571	NMDA receptor agonist	CHEBI
 759	cycloserine	has role	CHEBI:35441	antiinfective agent	CHEBI
 759	cycloserine	has role	CHEBI:33231	antitubercular agent	CHEBI
@@ -5127,8 +5116,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2328	pyrazinamide	has role	CHEBI:33231	antitubercular agent	CHEBI
 2328	pyrazinamide	has role	CHEBI:50266	prodrug	CHEBI
 1334	guaiacol	has role	CHEBI:77035	expectorant	CHEBI
-1334	guaiacol	has role	CHEBI:48219	disinfectant	CHEBI
-1188	flucytosine	has role	CHEBI:35718	antifungal agent	CHEBI
+1188	flucytosine	has role	CHEBI:50266	prodrug	CHEBI
 2819	vigabatrin	has role	CHEBI:35623	anticonvulsant	CHEBI
 1725	metformin	has role	CHEBI:35526	hypoglycemic agent	CHEBI
 26	fluorouracil	has role	CHEBI:35610	antineoplastic agent	CHEBI
@@ -5158,15 +5146,13 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1497	isoniazid	has role	CHEBI:33231	antitubercular agent	CHEBI
 2231	pralidoxime	has role	CHEBI:38323	cholinergic drug	CHEBI
 2231	pralidoxime	has role	CHEBI:50247	antidote	CHEBI
-1243	fosfomycin	has role	CHEBI:22582	antibiotic	CHEBI
 2416	salicylic acid	has role	CHEBI:35441	antiinfective agent	CHEBI
-2416	salicylic acid	has role	CHEBI:35718	antifungal agent	CHEBI
 2416	salicylic acid	has role	CHEBI:50176	keratolytic drug	CHEBI
 3442	phenoxyethanol	has role	CHEBI:35441	antiinfective agent	CHEBI
 3442	phenoxyethanol	has role	CHEBI:35488	central nervous system depressant	CHEBI
 1087	ethosuximide	has role	CHEBI:35623	anticonvulsant	CHEBI
 3977	kojic acid	has role	CHEBI:85046	skin lightening agent	CHEBI
-3998	octanoic acid	has role	CHEBI:33282	antibacterial agent	CHEBI
+3370	betanaphthol	has role	CHEBI:35444	antinematodal drug	CHEBI
 2803	valproic acid	has role	CHEBI:51374	GABA agent	CHEBI
 2803	valproic acid	has role	CHEBI:35623	anticonvulsant	CHEBI
 2803	valproic acid	has role	CHEBI:35471	psychotropic drug	CHEBI
@@ -5177,9 +5163,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 168	methyl aminolevulinate	has role	CHEBI:47868	photosensitizing agent	CHEBI
 168	methyl aminolevulinate	has role	CHEBI:50266	prodrug	CHEBI
 168	methyl aminolevulinate	has role	CHEBI:50177	dermatologic drug	CHEBI
-3290	oxyquinoline	has role	CHEBI:33286	agrochemical	CHEBI
-3290	oxyquinoline	has role	CHEBI:24127	fungicide	CHEBI
-3290	oxyquinoline	has role	CHEBI:33282	antibacterial agent	CHEBI
+3290	oxyquinoline	has role	CHEBI:48218	antiseptic drug	CHEBI
+3290	oxyquinoline	has role	CHEBI:86328	antifungal agrochemical	CHEBI
 3474	adipic acid	has role	CHEBI:64049	food acidity regulator	CHEBI
 738	coumarin	has role	CHEBI:51121	fluorescent dye	CHEBI
 65	acetylcholine	has role	CHEBI:35620	vasodilator agent	CHEBI
@@ -5208,7 +5193,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 144	amantadine	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 1766	methylparaben	has role	CHEBI:65256	antimicrobial food preservative	CHEBI
 1766	methylparaben	has role	CHEBI:63726	neuroprotective agent	CHEBI
-1766	methylparaben	has role	CHEBI:35718	antifungal agent	CHEBI
 1708	mercaptopurine	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2050	aminosalicylic acid	has role	CHEBI:33231	antitubercular agent	CHEBI
 1710	mesalazine	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
@@ -5237,7 +5221,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1726	methacholine	has role	CHEBI:35620	vasodilator agent	CHEBI
 358	bethanechol	has role	CHEBI:38325	muscarinic agonist	CHEBI
 1670	meglutol	has role	CHEBI:35821	anticholesteremic drug	CHEBI
-1670	meglutol	has role	CHEBI:35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	CHEBI
 513	levocarnitine	has role	CHEBI:35679	antilipemic drug	CHEBI
 513	levocarnitine	has role	CHEBI:50733	nutraceutical	CHEBI
 513	levocarnitine	has role	CHEBI:66980	nootropic agent	CHEBI
@@ -5249,9 +5232,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 66	acetylcysteine	has role	CHEBI:36044	antiviral drug	CHEBI
 66	acetylcysteine	has role	CHEBI:77034	mucolytic	CHEBI
 66	acetylcysteine	has role	CHEBI:73336	vulnerary	CHEBI
-24	buphenyl	has role	CHEBI:50266	prodrug	CHEBI
-24	buphenyl	has role	CHEBI:63726	neuroprotective agent	CHEBI
-24	buphenyl	has role	CHEBI:71031	orphan drug	CHEBI
+24	phenylbutanoic acid	has role	CHEBI:35610	antineoplastic agent	CHEBI
+24	phenylbutanoic acid	has role	CHEBI:50266	prodrug	CHEBI
 1754	methoxyflurane	has role	CHEBI:38870	inhalation anaesthetic	CHEBI
 1754	methoxyflurane	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 323	benzocaine	has role	CHEBI:59683	antipruritic drug	CHEBI
@@ -5297,15 +5279,12 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1790	metronidazole	has role	CHEBI:50266	prodrug	CHEBI
 1790	metronidazole	has role	CHEBI:47868	photosensitizing agent	CHEBI
 1790	metronidazole	has role	CHEBI:36047	antibacterial drug	CHEBI
-1790	metronidazole	has role	CHEBI:22582	antibiotic	CHEBI
 1790	metronidazole	has role	CHEBI:35442	antiparasitic agent	CHEBI
 1264	gabapentin	has role	CHEBI:35623	anticonvulsant	CHEBI
 3521	rasagiline	has role	CHEBI:63726	neuroprotective agent	CHEBI
-2521	sulfanilamide	has role	CHEBI:33282	antibacterial agent	CHEBI
 788	debrisoquine	has role	CHEBI:35674	antihypertensive agent	CHEBI
 788	debrisoquine	has role	CHEBI:37962	adrenergic agent	CHEBI
 788	debrisoquine	has role	CHEBI:66991	sympatholytic agent	CHEBI
-3335	medronic acid	has role	CHEBI:50646	bone density conservation agent	CHEBI
 4072	ascorbic acid	has role	CHEBI:21241	vitamin C	CHEBI
 4072	ascorbic acid	has role	CHEBI:64577	flour treatment agent	CHEBI
 4072	ascorbic acid	has role	CHEBI:77962	food antioxidant	CHEBI
@@ -5351,7 +5330,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 497	carbimazole	has role	CHEBI:50266	prodrug	CHEBI
 497	carbimazole	has role	CHEBI:50671	antithyroid drug	CHEBI
 752	cyclobutyrol	has role	CHEBI:61026	bile therapy drug	CHEBI
-270	azelaic acid	has role	CHEBI:33282	antibacterial agent	CHEBI
 270	azelaic acid	has role	CHEBI:35610	antineoplastic agent	CHEBI
 270	azelaic acid	has role	CHEBI:50177	dermatologic drug	CHEBI
 861	phenazone	has role	CHEBI:35482	opioid analgesic	CHEBI
@@ -5362,7 +5340,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3068	carglumic acid	has role	CHEBI:71031	orphan drug	CHEBI
 1506	isosorbide mononitrate	has role	CHEBI:35620	vasodilator agent	CHEBI
 666	citric acid	has role	CHEBI:64049	food acidity regulator	CHEBI
-666	citric acid	has role	CHEBI:33281	antimicrobial agent	CHEBI
 3293	ibufenac	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 3293	ibufenac	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 2686	tocainide	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
@@ -5387,6 +5364,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1356	halothane	has role	CHEBI:38870	inhalation anaesthetic	CHEBI
 244	arsenic trioxide	has role	CHEBI:24852	insecticide	CHEBI
 244	arsenic trioxide	has role	CHEBI:35610	antineoplastic agent	CHEBI
+1950	nitrofurazone	has role	CHEBI:36047	antibacterial drug	CHEBI
 1342	guanethidine	has role	CHEBI:35674	antihypertensive agent	CHEBI
 1342	guanethidine	has role	CHEBI:37887	adrenergic antagonist	CHEBI
 1342	guanethidine	has role	CHEBI:66991	sympatholytic agent	CHEBI
@@ -5407,12 +5385,11 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3066	carbaryl	has role	CHEBI:38461	carbamate insecticide	CHEBI
 3066	carbaryl	has role	CHEBI:22153	acaricide	CHEBI
 3066	carbaryl	has role	CHEBI:33286	agrochemical	CHEBI
-2621	thiabendazole	has role	CHEBI:24127	fungicide	CHEBI
-2621	thiabendazole	has role	CHEBI:33286	agrochemical	CHEBI
+2621	thiabendazole	has role	CHEBI:86328	antifungal agrochemical	CHEBI
 2621	thiabendazole	has role	CHEBI:35444	antinematodal drug	CHEBI
-613	chlorphenesin	has role	CHEBI:35718	antifungal agent	CHEBI
 613	chlorphenesin	has role	CHEBI:51371	muscle relaxant	CHEBI
 613	chlorphenesin	has role	CHEBI:36047	antibacterial drug	CHEBI
+613	chlorphenesin	has role	CHEBI:86327	antifungal drug	CHEBI
 744	crotamiton	has role	CHEBI:73333	scabicide	CHEBI
 744	crotamiton	has role	CHEBI:59683	antipruritic drug	CHEBI
 3485	sulfogaiacol	has role	CHEBI:77035	expectorant	CHEBI
@@ -5427,8 +5404,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 838	dexpanthenol	has role	CHEBI:38323	cholinergic drug	CHEBI
 2126	phenformin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 874	diethylpropion	has role	CHEBI:50507	appetite depressant	CHEBI
-3088	tosylchloramide sodium	has role	CHEBI:51076	antifouling biocide	CHEBI
-3088	tosylchloramide sodium	has role	CHEBI:48219	disinfectant	CHEBI
 1098	etidronic acid	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1098	etidronic acid	has role	CHEBI:50646	bone density conservation agent	CHEBI
 3851	dexibuprofen	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
@@ -5437,12 +5412,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1407	ibuprofen	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 1407	ibuprofen	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 2999	pyrantel	has role	CHEBI:35444	antinematodal drug	CHEBI
-636	ciclopirox	has role	CHEBI:35718	antifungal agent	CHEBI
-636	ciclopirox	has role	CHEBI:33282	antibacterial agent	CHEBI
 636	ciclopirox	has role	CHEBI:59010	antiseborrheic	CHEBI
 2166	pilocarpine	has role	CHEBI:39456	antiglaucoma drug	CHEBI
 2277	proflavine	has role	CHEBI:48218	antiseptic drug	CHEBI
-2277	proflavine	has role	CHEBI:33282	antibacterial agent	CHEBI
 1814	minoxidil	has role	CHEBI:35620	vasodilator agent	CHEBI
 1814	minoxidil	has role	CHEBI:35674	antihypertensive agent	CHEBI
 1919	nicorandil	has role	CHEBI:35620	vasodilator agent	CHEBI
@@ -5451,7 +5423,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1762	methyldopa	has role	CHEBI:35569	alpha-adrenergic agonist	CHEBI
 1762	methyldopa	has role	CHEBI:49110	peripheral nervous system drug	CHEBI
 2856	zalcitabine	has role	CHEBI:36044	antiviral drug	CHEBI
-2856	zalcitabine	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 1809	milrinone	has role	CHEBI:50427	platelet aggregation inhibitor	CHEBI
 1809	milrinone	has role	CHEBI:35620	vasodilator agent	CHEBI
 1809	milrinone	has role	CHEBI:38147	cardiotonic drug	CHEBI
@@ -5489,7 +5460,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 512	carmustine	has role	CHEBI:35610	antineoplastic agent	CHEBI
 156	amifostine	has role	CHEBI:50266	prodrug	CHEBI
 2497	sulfacetamide	has role	CHEBI:36047	antibacterial drug	CHEBI
-2497	sulfacetamide	has role	CHEBI:22582	antibiotic	CHEBI
 2497	sulfacetamide	has role	CHEBI:35441	antiinfective agent	CHEBI
 901	dimenhydrinate	has role	CHEBI:50919	antiemetic	CHEBI
 901	dimenhydrinate	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
@@ -5506,11 +5476,11 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 484	captopril	has role	CHEBI:35674	antihypertensive agent	CHEBI
 3624	triacetin	has role	CHEBI:46787	solvent	CHEBI
 3624	triacetin	has role	CHEBI:60809	adjuvant	CHEBI
+3624	triacetin	has role	CHEBI:86327	antifungal drug	CHEBI
 3624	triacetin	has role	CHEBI:78059	food additive carrier	CHEBI
 3624	triacetin	has role	CHEBI:63047	food emulsifier	CHEBI
 3624	triacetin	has role	CHEBI:77969	food humectant	CHEBI
 2267	primidone	has role	CHEBI:35623	anticonvulsant	CHEBI
-1807	miglustat	has role	CHEBI:64946	anti-HIV agent	CHEBI
 126	alminoprofen	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 126	alminoprofen	has role	CHEBI:35842	antirheumatic drug	CHEBI
 126	alminoprofen	has role	CHEBI:35493	antipyretic	CHEBI
@@ -5523,23 +5493,19 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2265	prilocaine	has role	CHEBI:36333	local anaesthetic	CHEBI
 1411	ibuproxam	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 1411	ibuproxam	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
-1119	exalamide	has role	CHEBI:35718	antifungal agent	CHEBI
 2272	procarbazine	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2130	phenindione	has role	CHEBI:50249	anticoagulant	CHEBI
 3038	bromisoval	has role	CHEBI:35717	sedative	CHEBI
 3047	bufexamac	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 3047	bufexamac	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 3047	bufexamac	has role	CHEBI:35493	antipyretic	CHEBI
-578	cerulenin	has role	CHEBI:22582	antibiotic	CHEBI
-578	cerulenin	has role	CHEBI:35718	antifungal agent	CHEBI
 578	cerulenin	has role	CHEBI:35441	antiinfective agent	CHEBI
 578	cerulenin	has role	CHEBI:35679	antilipemic drug	CHEBI
-2478	stavudine	has role	CHEBI:59897	EC 2.7.7.49 (RNA-directed DNA polymerase) inhibitor	CHEBI
-2478	stavudine	has role	CHEBI:22587	antiviral agent	CHEBI
 441	butalbital	has role	CHEBI:35717	sedative	CHEBI
 441	butalbital	has role	CHEBI:35480	analgesic	CHEBI
 1257	furazolidone	has role	CHEBI:50685	antitrichomonal drug	CHEBI
 1257	furazolidone	has role	CHEBI:35441	antiinfective agent	CHEBI
+1257	furazolidone	has role	CHEBI:36047	antibacterial drug	CHEBI
 212	ancitabine	has role	CHEBI:50266	prodrug	CHEBI
 212	ancitabine	has role	CHEBI:35610	antineoplastic agent	CHEBI
 85	aciclovir	has role	CHEBI:36044	antiviral drug	CHEBI
@@ -5570,9 +5536,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1863	nabumetone	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 1863	nabumetone	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 1863	nabumetone	has role	CHEBI:50266	prodrug	CHEBI
-1539	lamivudine	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 1539	lamivudine	has role	CHEBI:36044	antiviral drug	CHEBI
-1539	lamivudine	has role	CHEBI:64951	anti-HBV agent	CHEBI
 158	amiloride	has role	CHEBI:35498	diuretic	CHEBI
 704	clonidine	has role	CHEBI:66991	sympatholytic agent	CHEBI
 704	clonidine	has role	CHEBI:35674	antihypertensive agent	CHEBI
@@ -5603,7 +5567,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 171	aminophenazone	has role	CHEBI:35493	antipyretic	CHEBI
 2134	phenobarbital	has role	CHEBI:35623	anticonvulsant	CHEBI
 2134	phenobarbital	has role	CHEBI:35717	sedative	CHEBI
-1875	nalidixic acid	has role	CHEBI:22582	antibiotic	CHEBI
 1875	nalidixic acid	has role	CHEBI:36047	antibacterial drug	CHEBI
 1828	mofebutazone	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 1828	mofebutazone	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
@@ -5626,7 +5589,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2270	procainamide	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 2270	procainamide	has role	CHEBI:50427	platelet aggregation inhibitor	CHEBI
 1505	isosorbide dinitrate	has role	CHEBI:35620	vasodilator agent	CHEBI
-869	didanosine	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 869	didanosine	has role	CHEBI:36044	antiviral drug	CHEBI
 489	carbamazepine	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 489	carbamazepine	has role	CHEBI:35480	analgesic	CHEBI
@@ -5662,10 +5624,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 435	bupropion	has role	CHEBI:35469	antidepressant	CHEBI
 1429	imiquimod	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1429	imiquimod	has role	CHEBI:36710	interferon inducer	CHEBI
-3601	thiram	has role	CHEBI:35718	antifungal agent	CHEBI
-3601	thiram	has role	CHEBI:24127	fungicide	CHEBI
+3601	thiram	has role	CHEBI:86328	antifungal agrochemical	CHEBI
 3601	thiram	has role	CHEBI:36047	antibacterial drug	CHEBI
-3601	thiram	has role	CHEBI:33286	agrochemical	CHEBI
 3601	thiram	has role	CHEBI:48218	antiseptic drug	CHEBI
 1747	methocarbamol	has role	CHEBI:51371	muscle relaxant	CHEBI
 2612	sapropterin	has role	CHEBI:33295	diagnostic agent	CHEBI
@@ -5682,13 +5642,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 694	clofibrate	has role	CHEBI:35821	anticholesteremic drug	CHEBI
 694	clofibrate	has role	CHEBI:35679	antilipemic drug	CHEBI
 770	cytarabine	has role	CHEBI:35610	antineoplastic agent	CHEBI
-770	cytarabine	has role	CHEBI:22587	antiviral agent	CHEBI
 770	cytarabine	has role	CHEBI:35705	immunosuppressive agent	CHEBI
 2121	phencyclidine	has role	CHEBI:35471	psychotropic drug	CHEBI
 2121	phencyclidine	has role	CHEBI:38867	anaesthetic	CHEBI
-2373	ribavirin	has role	CHEBI:22587	antiviral agent	CHEBI
 2373	ribavirin	has role	CHEBI:35441	antiinfective agent	CHEBI
-2373	ribavirin	has role	CHEBI:59897	EC 2.7.7.49 (RNA-directed DNA polymerase) inhibitor	CHEBI
 1219	flurbiprofen	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 1219	flurbiprofen	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 1109	etomidate	has role	CHEBI:38877	intravenous anaesthetic	CHEBI
@@ -5715,7 +5672,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 438	busulfan	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1700	mepivacaine	has role	CHEBI:36333	local anaesthetic	CHEBI
 1003	emtricitabine	has role	CHEBI:36044	antiviral drug	CHEBI
-1003	emtricitabine	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 782	dapsone	has role	CHEBI:38068	antimalarial	CHEBI
 782	dapsone	has role	CHEBI:35816	leprostatic drug	CHEBI
 782	dapsone	has role	CHEBI:35441	antiinfective agent	CHEBI
@@ -5743,7 +5699,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2500	sulfadiazine	has role	CHEBI:35818	coccidiostat	CHEBI
 2500	sulfadiazine	has role	CHEBI:35441	antiinfective agent	CHEBI
 2500	sulfadiazine	has role	CHEBI:35820	antiprotozoal drug	CHEBI
-2500	sulfadiazine	has role	CHEBI:22582	antibiotic	CHEBI
 1285	gemfibrozil	has role	CHEBI:35679	antilipemic drug	CHEBI
 2392	rivastigmine	has role	CHEBI:63726	neuroprotective agent	CHEBI
 2392	rivastigmine	has role	CHEBI:38323	cholinergic drug	CHEBI
@@ -5754,8 +5709,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 645	cimetidine	has role	CHEBI:60809	adjuvant	CHEBI
 645	cimetidine	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 2079	penciclovir	has role	CHEBI:36044	antiviral drug	CHEBI
-2514	sulfamethoxazole	has role	CHEBI:22582	antibiotic	CHEBI
-2514	sulfamethoxazole	has role	CHEBI:33282	antibacterial agent	CHEBI
 2514	sulfamethoxazole	has role	CHEBI:35441	antiinfective agent	CHEBI
 2683	tizanidine	has role	CHEBI:35569	alpha-adrenergic agonist	CHEBI
 2683	tizanidine	has role	CHEBI:51371	muscle relaxant	CHEBI
@@ -5807,8 +5760,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1540	lamotrigine	has role	CHEBI:35469	antidepressant	CHEBI
 1540	lamotrigine	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 982	echothiophate	has role	CHEBI:51068	miotic	CHEBI
-3513	pyrrolnitrin	has role	CHEBI:35718	antifungal agent	CHEBI
-3513	pyrrolnitrin	has role	CHEBI:22582	antibiotic	CHEBI
+3513	pyrrolnitrin	has role	CHEBI:86327	antifungal drug	CHEBI
 314	benserazide	has role	CHEBI:48407	antiparkinson drug	CHEBI
 314	benserazide	has role	CHEBI:48560	dopaminergic agent	CHEBI
 2699	tolmetin	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
@@ -5868,11 +5820,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1421	ifosfamide	has role	CHEBI:35705	immunosuppressive agent	CHEBI
 758	cyclophosphamide	has role	CHEBI:35610	antineoplastic agent	CHEBI
 758	cyclophosphamide	has role	CHEBI:35705	immunosuppressive agent	CHEBI
-2024	oxolinic acid	has role	CHEBI:22582	antibiotic	CHEBI
 2024	oxolinic acid	has role	CHEBI:35441	antiinfective agent	CHEBI
 2024	oxolinic acid	has role	CHEBI:36047	antibacterial drug	CHEBI
-2024	oxolinic acid	has role	CHEBI:24127	fungicide	CHEBI
-1197	flumequine	has role	CHEBI:22582	antibiotic	CHEBI
 1738	methapyrilene	has role	CHEBI:50857	anti-allergic agent	CHEBI
 1738	methapyrilene	has role	CHEBI:35717	sedative	CHEBI
 1738	methapyrilene	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
@@ -5916,7 +5865,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1796	mianserin	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 1796	mianserin	has role	CHEBI:35678	histamine agonist	CHEBI
 1796	mianserin	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
-2483	streptozocin	has role	CHEBI:22582	antibiotic	CHEBI
 2483	streptozocin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 103	albendazole	has role	CHEBI:35443	anthelminthic drug	CHEBI
 1816	mirtazapine	has role	CHEBI:37890	alpha-adrenergic antagonist	CHEBI
@@ -5927,7 +5875,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 224	antazoline	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 224	antazoline	has role	CHEBI:48873	cholinergic antagonist	CHEBI
 1904	nevirapine	has role	CHEBI:36044	antiviral drug	CHEBI
-1904	nevirapine	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 3486	practolol	has role	CHEBI:35530	beta-adrenergic antagonist	CHEBI
 3486	practolol	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 812	desipramine	has role	CHEBI:35640	adrenergic uptake inhibitor	CHEBI
@@ -5942,12 +5889,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 749	cyclizine	has role	CHEBI:36333	local anaesthetic	CHEBI
 749	cyclizine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 2861	zidovudine	has role	CHEBI:36044	antiviral drug	CHEBI
-2861	zidovudine	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 90	adenosine	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 90	adenosine	has role	CHEBI:35620	vasodilator agent	CHEBI
 90	adenosine	has role	CHEBI:35480	analgesic	CHEBI
 2529	sulfafurazole	has role	CHEBI:36047	antibacterial drug	CHEBI
-2520	sulfamoxole	has role	CHEBI:22582	antibiotic	CHEBI
 228	apomorphine	has role	CHEBI:66956	antidyskinesia agent	CHEBI
 228	apomorphine	has role	CHEBI:48407	antiparkinson drug	CHEBI
 228	apomorphine	has role	CHEBI:51065	dopamine agonist	CHEBI
@@ -5974,7 +5919,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1552	leflunomide	has role	CHEBI:35442	antiparasitic agent	CHEBI
 1552	leflunomide	has role	CHEBI:50266	prodrug	CHEBI
 1552	leflunomide	has role	CHEBI:35705	immunosuppressive agent	CHEBI
-2512	sulfamethizole	has role	CHEBI:22582	antibiotic	CHEBI
 2512	sulfamethizole	has role	CHEBI:35441	antiinfective agent	CHEBI
 2696	tolbutamide	has role	CHEBI:35526	hypoglycemic agent	CHEBI
 3188	estrone	has role	CHEBI:50646	bone density conservation agent	CHEBI
@@ -5986,6 +5930,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 962	doxylamine	has role	CHEBI:51177	antitussive	CHEBI
 962	doxylamine	has role	CHEBI:50919	antiemetic	CHEBI
 962	doxylamine	has role	CHEBI:50857	anti-allergic agent	CHEBI
+2701	tolonium	has role	CHEBI:51217	fluorochrome	CHEBI
+2701	tolonium	has role	CHEBI:77178	histological dye	CHEBI
+2701	tolonium	has role	CHEBI:33295	diagnostic agent	CHEBI
 816	nordazepam	has role	CHEBI:35623	anticonvulsant	CHEBI
 816	nordazepam	has role	CHEBI:35717	sedative	CHEBI
 816	nordazepam	has role	CHEBI:50268	GABA modulator	CHEBI
@@ -6034,7 +5981,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 673	clenbuterol	has role	CHEBI:35523	bronchodilator agent	CHEBI
 673	clenbuterol	has role	CHEBI:35522	beta-adrenergic agonist	CHEBI
 673	clenbuterol	has role	CHEBI:35524	sympathomimetic agent	CHEBI
-1019	entecavir	has role	CHEBI:59897	EC 2.7.7.49 (RNA-directed DNA polymerase) inhibitor	CHEBI
 1019	entecavir	has role	CHEBI:36044	antiviral drug	CHEBI
 41	acecainide	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 2813	venlafaxine	has role	CHEBI:50949	serotonin uptake inhibitor	CHEBI
@@ -6048,7 +5994,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2526	sulfisomidine	has role	CHEBI:35441	antiinfective agent	CHEBI
 2502	sulfadimidine	has role	CHEBI:35441	antiinfective agent	CHEBI
 2502	sulfadimidine	has role	CHEBI:36047	antibacterial drug	CHEBI
-2502	sulfadimidine	has role	CHEBI:22582	antibiotic	CHEBI
 993	egualen	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 2763	triprolidine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 915	diphemanil	has role	CHEBI:48876	muscarinic antagonist	CHEBI
@@ -6107,6 +6052,12 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2775	tropisetron	has role	CHEBI:67079	anti-inflammatory agent	CHEBI
 1763	methylthioninium chloride	has role	CHEBI:50407	acid-base indicator	CHEBI
 1763	methylthioninium chloride	has role	CHEBI:51217	fluorochrome	CHEBI
+1763	methylthioninium chloride	has role	CHEBI:35469	antidepressant	CHEBI
+1763	methylthioninium chloride	has role	CHEBI:77307	cardioprotective agent	CHEBI
+1763	methylthioninium chloride	has role	CHEBI:77178	histological dye	CHEBI
+1763	methylthioninium chloride	has role	CHEBI:63726	neuroprotective agent	CHEBI
+1763	methylthioninium chloride	has role	CHEBI:35208	physical tracer	CHEBI
+1763	methylthioninium chloride	has role	CHEBI:38068	antimalarial	CHEBI
 2286	promethazine	has role	CHEBI:35717	sedative	CHEBI
 2286	promethazine	has role	CHEBI:50919	antiemetic	CHEBI
 2286	promethazine	has role	CHEBI:36333	local anaesthetic	CHEBI
@@ -6140,12 +6091,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4115	asenapine	has role	CHEBI:35471	psychotropic drug	CHEBI
 4115	asenapine	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 4115	asenapine	has role	CHEBI:65191	second generation antipsychotic	CHEBI
-34	abacavir	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 34	abacavir	has role	CHEBI:36044	antiviral drug	CHEBI
 2015	oxazepam	has role	CHEBI:35474	anxiolytic drug	CHEBI
 3227	fenticlor	has role	CHEBI:35441	antiinfective agent	CHEBI
 2592	tenofovir	has role	CHEBI:36044	antiviral drug	CHEBI
-2592	tenofovir	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 3574	sulmazole	has role	CHEBI:38147	cardiotonic drug	CHEBI
 1272	galantamine	has role	CHEBI:74530	antidote to curare poisoning	CHEBI
 1272	galantamine	has role	CHEBI:38323	cholinergic drug	CHEBI
@@ -6155,7 +6104,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2869	zolmitriptan	has role	CHEBI:35941	serotonergic agonist	CHEBI
 2869	zolmitriptan	has role	CHEBI:50514	vasoconstrictor agent	CHEBI
 2869	zolmitriptan	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
-1872	naftifine	has role	CHEBI:35718	antifungal agent	CHEBI
 765	cyproheptadine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 765	cyproheptadine	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 765	cyproheptadine	has role	CHEBI:59683	antipruritic drug	CHEBI
@@ -6181,9 +6129,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 260	atropine	has role	CHEBI:35523	bronchodilator agent	CHEBI
 260	atropine	has role	CHEBI:48876	muscarinic antagonist	CHEBI
 974	dyclonine	has role	CHEBI:48425	topical anaesthetic	CHEBI
-3631	triclosan	has role	CHEBI:33282	antibacterial agent	CHEBI
 3631	triclosan	has role	CHEBI:24127	fungicide	CHEBI
-2755	trimethoprim	has role	CHEBI:33282	antibacterial agent	CHEBI
 1380	methylhomatropine	has role	CHEBI:48876	muscarinic antagonist	CHEBI
 1380	methylhomatropine	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 1380	methylhomatropine	has role	CHEBI:53784	antispasmodic drug	CHEBI
@@ -6198,9 +6144,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1583	lindane	has role	CHEBI:33288	rodenticide	CHEBI
 1583	lindane	has role	CHEBI:33286	agrochemical	CHEBI
 1583	lindane	has role	CHEBI:24127	fungicide	CHEBI
-1583	lindane	has role	CHEBI:33282	antibacterial agent	CHEBI
 1583	lindane	has role	CHEBI:38706	pediculicide	CHEBI
-3561	sulfamidochrysoidine	has role	CHEBI:22582	antibiotic	CHEBI
 3561	sulfamidochrysoidine	has role	CHEBI:36047	antibacterial drug	CHEBI
 757	cyclopentolate	has role	CHEBI:50513	mydriatic agent	CHEBI
 757	cyclopentolate	has role	CHEBI:50370	parasympatholytic	CHEBI
@@ -6208,7 +6152,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 757	cyclopentolate	has role	CHEBI:33295	diagnostic agent	CHEBI
 431	levobunolol	has role	CHEBI:39456	antiglaucoma drug	CHEBI
 431	levobunolol	has role	CHEBI:35530	beta-adrenergic antagonist	CHEBI
-2597	terbinafine	has role	CHEBI:35718	antifungal agent	CHEBI
 2871	zomepirac	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 2871	zomepirac	has role	CHEBI:35554	cardiovascular drug	CHEBI
 395	brimonidine	has role	CHEBI:37886	adrenergic agonist	CHEBI
@@ -6265,10 +6208,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1122	exemestane	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2046	palonosetron	has role	CHEBI:50919	antiemetic	CHEBI
 2046	palonosetron	has role	CHEBI:48279	serotonergic antagonist	CHEBI
-3177	enilconazole	has role	CHEBI:77884	EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor	CHEBI
-3177	enilconazole	has role	CHEBI:24127	fungicide	CHEBI
-3177	enilconazole	has role	CHEBI:35718	antifungal agent	CHEBI
-3177	enilconazole	has role	CHEBI:33286	agrochemical	CHEBI
+3177	enilconazole	has role	CHEBI:86328	antifungal agrochemical	CHEBI
 1892	nelarabine	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1892	nelarabine	has role	CHEBI:50266	prodrug	CHEBI
 972	duloxetine	has role	CHEBI:35469	antidepressant	CHEBI
@@ -6302,7 +6242,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1782	metoclopramide	has role	CHEBI:50919	antiemetic	CHEBI
 1782	metoclopramide	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
 1782	metoclopramide	has role	CHEBI:55324	gastrointestinal drug	CHEBI
-2572	tazobactam	has role	CHEBI:22582	antibiotic	CHEBI
 2572	tazobactam	has role	CHEBI:35441	antiinfective agent	CHEBI
 266	azapropazone	has role	CHEBI:35841	uricosuric drug	CHEBI
 266	azapropazone	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
@@ -6326,7 +6265,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 311	benoxaprofen	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 311	benoxaprofen	has role	CHEBI:50748	antipsoriatic	CHEBI
 1047	eritrityl tetranitrate	has role	CHEBI:35620	vasodilator agent	CHEBI
-3514	quercetin	has role	CHEBI:33282	antibacterial agent	CHEBI
 3514	quercetin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1988	olsalazine	has role	CHEBI:50266	prodrug	CHEBI
 1988	olsalazine	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
@@ -6379,10 +6317,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2857	zaleplon	has role	CHEBI:35474	anxiolytic drug	CHEBI
 582	cetraxate	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 3064	capsaicin	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
-681	clioquinol	has role	CHEBI:35718	antifungal agent	CHEBI
 681	clioquinol	has role	CHEBI:35610	antineoplastic agent	CHEBI
-681	clioquinol	has role	CHEBI:22582	antibiotic	CHEBI
-681	clioquinol	has role	CHEBI:33282	antibacterial agent	CHEBI
 681	clioquinol	has role	CHEBI:35820	antiprotozoal drug	CHEBI
 1153	fenoldopam	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
 1153	fenoldopam	has role	CHEBI:35620	vasodilator agent	CHEBI
@@ -6391,8 +6326,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1153	fenoldopam	has role	CHEBI:35674	antihypertensive agent	CHEBI
 2436	sertraline	has role	CHEBI:50949	serotonin uptake inhibitor	CHEBI
 2436	sertraline	has role	CHEBI:35469	antidepressant	CHEBI
-1187	fluconazole	has role	CHEBI:35718	antifungal agent	CHEBI
-2222	plaunotol	has role	CHEBI:33282	antibacterial agent	CHEBI
 2222	plaunotol	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2222	plaunotol	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 2222	plaunotol	has role	CHEBI:76595	nephroprotective agent	CHEBI
@@ -6401,7 +6334,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2870	zolpidem	has role	CHEBI:35488	central nervous system depressant	CHEBI
 2870	zolpidem	has role	CHEBI:51373	GABA agonist	CHEBI
 2870	zolpidem	has role	CHEBI:35717	sedative	CHEBI
-3617	tolnaftate	has role	CHEBI:35718	antifungal agent	CHEBI
+3617	tolnaftate	has role	CHEBI:86327	antifungal drug	CHEBI
 356	betaxolol	has role	CHEBI:66991	sympatholytic agent	CHEBI
 356	betaxolol	has role	CHEBI:35530	beta-adrenergic antagonist	CHEBI
 356	betaxolol	has role	CHEBI:35674	antihypertensive agent	CHEBI
@@ -6423,6 +6356,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 136	alprazolam	has role	CHEBI:51371	muscle relaxant	CHEBI
 136	alprazolam	has role	CHEBI:35717	sedative	CHEBI
 1209	fluoxetine	has role	CHEBI:50949	serotonin uptake inhibitor	CHEBI
+1209	fluoxetine	has role	CHEBI:35480	analgesic	CHEBI
 1209	fluoxetine	has role	CHEBI:35469	antidepressant	CHEBI
 1865	nadolol	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 1865	nadolol	has role	CHEBI:35674	antihypertensive agent	CHEBI
@@ -6444,8 +6378,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2503	sulfadoxine	has role	CHEBI:36047	antibacterial drug	CHEBI
 2503	sulfadoxine	has role	CHEBI:38068	antimalarial	CHEBI
 2501	sulfadimethoxine	has role	CHEBI:35441	antiinfective agent	CHEBI
-2501	sulfadimethoxine	has role	CHEBI:22582	antibiotic	CHEBI
-370	bifonazole	has role	CHEBI:35718	antifungal agent	CHEBI
 1714	mestranol	has role	CHEBI:50266	prodrug	CHEBI
 818	desogestrel	has role	CHEBI:49323	contraceptive drug	CHEBI
 818	desogestrel	has role	CHEBI:49326	synthetic oral contraceptive	CHEBI
@@ -6459,6 +6391,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 374	biperiden	has role	CHEBI:48876	muscarinic antagonist	CHEBI
 374	biperiden	has role	CHEBI:50370	parasympatholytic	CHEBI
 374	biperiden	has role	CHEBI:48407	antiparkinson drug	CHEBI
+3493	propamidine	has role	CHEBI:48218	antiseptic drug	CHEBI
 2001	oseltamivir	has role	CHEBI:50266	prodrug	CHEBI
 2001	oseltamivir	has role	CHEBI:52425	EC 3.2.1.18 (exo-alpha-sialidase) inhibitor	CHEBI
 2001	oseltamivir	has role	CHEBI:36044	antiviral drug	CHEBI
@@ -6517,10 +6450,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2029	oxycodone	has role	CHEBI:55322	mu-opioid receptor agonist	CHEBI
 2029	oxycodone	has role	CHEBI:51177	antitussive	CHEBI
 4114	saxagliptin	has role	CHEBI:35526	hypoglycemic agent	CHEBI
-3630	triclocarban	has role	CHEBI:33281	antimicrobial agent	CHEBI
-3630	triclocarban	has role	CHEBI:48219	disinfectant	CHEBI
 3630	triclocarban	has role	CHEBI:48218	antiseptic drug	CHEBI
-989	efavirenz	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 989	efavirenz	has role	CHEBI:36044	antiviral drug	CHEBI
 703	clonazepam	has role	CHEBI:35623	anticonvulsant	CHEBI
 703	clonazepam	has role	CHEBI:50268	GABA modulator	CHEBI
@@ -6543,8 +6473,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2609	tetrabenazine	has role	CHEBI:35476	antipsychotic agent	CHEBI
 2609	tetrabenazine	has role	CHEBI:35640	adrenergic uptake inhibitor	CHEBI
 1886	nateglinide	has role	CHEBI:35526	hypoglycemic agent	CHEBI
-444	butenafine	has role	CHEBI:35718	antifungal agent	CHEBI
-188	amorolfine	has role	CHEBI:35718	antifungal agent	CHEBI
+444	butenafine	has role	CHEBI:86327	antifungal drug	CHEBI
 1230	fluvoxamine	has role	CHEBI:50949	serotonin uptake inhibitor	CHEBI
 1230	fluvoxamine	has role	CHEBI:35474	anxiolytic drug	CHEBI
 1230	fluvoxamine	has role	CHEBI:35469	antidepressant	CHEBI
@@ -6566,7 +6495,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 607	chloroquine	has role	CHEBI:38068	antimalarial	CHEBI
 1013	enoxacin	has role	CHEBI:36047	antibacterial drug	CHEBI
 1860	mycophenolic acid	has role	CHEBI:35610	antineoplastic agent	CHEBI
-1860	mycophenolic acid	has role	CHEBI:22582	antibiotic	CHEBI
 1860	mycophenolic acid	has role	CHEBI:35705	immunosuppressive agent	CHEBI
 1128	famciclovir	has role	CHEBI:50266	prodrug	CHEBI
 1128	famciclovir	has role	CHEBI:36044	antiviral drug	CHEBI
@@ -6574,19 +6502,18 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 708	clopidogrel	has role	CHEBI:50249	anticoagulant	CHEBI
 1522	kebuzone	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 1522	kebuzone	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
-589	chloramphenicol	has role	CHEBI:22582	antibiotic	CHEBI
 589	chloramphenicol	has role	CHEBI:36047	antibacterial drug	CHEBI
 1299	gliclazide	has role	CHEBI:35526	hypoglycemic agent	CHEBI
 1621	lysergide	has role	CHEBI:35941	serotonergic agonist	CHEBI
 1621	lysergide	has role	CHEBI:51065	dopamine agonist	CHEBI
 1621	lysergide	has role	CHEBI:35499	hallucinogen	CHEBI
+3614	tolciclate	has role	CHEBI:86327	antifungal drug	CHEBI
 1256	furaltadone	has role	CHEBI:36047	antibacterial drug	CHEBI
 2036	oxyphenbutazone	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 2036	oxyphenbutazone	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 2036	oxyphenbutazone	has role	CHEBI:35493	antipyretic	CHEBI
 2036	oxyphenbutazone	has role	CHEBI:35845	gout suppressant	CHEBI
 2036	oxyphenbutazone	has role	CHEBI:35610	antineoplastic agent	CHEBI
-2036	oxyphenbutazone	has role	CHEBI:33281	antimicrobial agent	CHEBI
 1053	escitalopram	has role	CHEBI:35469	antidepressant	CHEBI
 663	citalopram	has role	CHEBI:50949	serotonin uptake inhibitor	CHEBI
 663	citalopram	has role	CHEBI:35469	antidepressant	CHEBI
@@ -6624,7 +6551,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 50	aceprometazine	has role	CHEBI:37956	histamine antagonist	CHEBI
 2285	promegestone	has role	CHEBI:70709	progesterone receptor agonist	CHEBI
 2285	promegestone	has role	CHEBI:35610	antineoplastic agent	CHEBI
-940	docosanol	has role	CHEBI:22587	antiviral agent	CHEBI
 722	clozapine	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 722	clozapine	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
 722	clozapine	has role	CHEBI:37887	adrenergic antagonist	CHEBI
@@ -6653,7 +6579,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1752	levomepromazine	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 1752	levomepromazine	has role	CHEBI:48873	cholinergic antagonist	CHEBI
 1752	levomepromazine	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
-978	eberconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 2068	paroxetine	has role	CHEBI:35474	anxiolytic drug	CHEBI
 2068	paroxetine	has role	CHEBI:50949	serotonin uptake inhibitor	CHEBI
 2068	paroxetine	has role	CHEBI:35469	antidepressant	CHEBI
@@ -6675,7 +6600,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1258	furosemide	has role	CHEBI:77608	loop diuretic	CHEBI
 2658	tienilic acid	has role	CHEBI:77608	loop diuretic	CHEBI
 2658	tienilic acid	has role	CHEBI:35674	antihypertensive agent	CHEBI
-659	ciprofloxacin	has role	CHEBI:22582	antibiotic	CHEBI
 659	ciprofloxacin	has role	CHEBI:35441	antiinfective agent	CHEBI
 659	ciprofloxacin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2210	piroxicam	has role	CHEBI:35842	antirheumatic drug	CHEBI
@@ -6691,8 +6615,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1207	fluorescein	has role	CHEBI:51121	fluorescent dye	CHEBI
 1207	fluorescein	has role	CHEBI:37338	radioopaque medium	CHEBI
 2859	zanamivir	has role	CHEBI:52425	EC 3.2.1.18 (exo-alpha-sialidase) inhibitor	CHEBI
-2859	zanamivir	has role	CHEBI:22587	antiviral agent	CHEBI
-2468	spectinomycin	has role	CHEBI:22582	antibiotic	CHEBI
 2468	spectinomycin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2033	oxymetholone	has role	CHEBI:75835	anti-anaemic agent	CHEBI
 2071	pefloxacin	has role	CHEBI:35441	antiinfective agent	CHEBI
@@ -6701,7 +6623,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 808	deptropine	has role	CHEBI:48876	muscarinic antagonist	CHEBI
 401	bromfenac	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 401	bromfenac	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
-404	bromazine	has role	CHEBI:33281	antimicrobial agent	CHEBI
 404	bromazine	has role	CHEBI:48876	muscarinic antagonist	CHEBI
 404	bromazine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 1819	mitomycin	has role	CHEBI:35610	antineoplastic agent	CHEBI
@@ -6762,7 +6683,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 926	disopyramide	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 2100	perazine	has role	CHEBI:37930	phenothiazine antipsychotic drug	CHEBI
 2100	perazine	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
-2090	pentamidine	has role	CHEBI:35718	antifungal agent	CHEBI
 2090	pentamidine	has role	CHEBI:36335	trypanocidal drug	CHEBI
 1963	norethindrone acetate	has role	CHEBI:49326	synthetic oral contraceptive	CHEBI
 2298	propiomazine	has role	CHEBI:37930	phenothiazine antipsychotic drug	CHEBI
@@ -6790,6 +6710,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1628	maltose	has role	CHEBI:50505	sweetening agent	CHEBI
 1536	lactulose	has role	CHEBI:50503	laxative	CHEBI
 1536	lactulose	has role	CHEBI:55324	gastrointestinal drug	CHEBI
+3546	siccanin	has role	CHEBI:86327	antifungal drug	CHEBI
 1667	megestrol	has role	CHEBI:49323	contraceptive drug	CHEBI
 1667	megestrol	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1667	megestrol	has role	CHEBI:50779	appetite enhancer	CHEBI
@@ -6806,7 +6727,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1239	formoterol	has role	CHEBI:35523	bronchodilator agent	CHEBI
 1659	medroxyprogesterone	has role	CHEBI:49323	contraceptive drug	CHEBI
 1659	medroxyprogesterone	has role	CHEBI:49326	synthetic oral contraceptive	CHEBI
-719	clotrimazole	has role	CHEBI:24127	fungicide	CHEBI
 719	clotrimazole	has role	CHEBI:35441	antiinfective agent	CHEBI
 1990	omeprazole	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 1990	omeprazole	has role	CHEBI:35623	anticonvulsant	CHEBI
@@ -6817,8 +6737,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 360	bevantolol	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 1922	nifedipine	has role	CHEBI:35620	vasodilator agent	CHEBI
 1922	nifedipine	has role	CHEBI:66993	tocolytic agent	CHEBI
-1227	flutrimazole	has role	CHEBI:35718	antifungal agent	CHEBI
-1227	flutrimazole	has role	CHEBI:77884	EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor	CHEBI
 571	cefalexin	has role	CHEBI:36047	antibacterial drug	CHEBI
 1006	enalaprilat	has role	CHEBI:35457	EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor	CHEBI
 1006	enalaprilat	has role	CHEBI:35674	antihypertensive agent	CHEBI
@@ -6826,13 +6744,11 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2708	torsemide	has role	CHEBI:77608	loop diuretic	CHEBI
 82	acrivastine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 361	bexarotene	has role	CHEBI:35610	antineoplastic agent	CHEBI
-2846	voriconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 576	cefradine	has role	CHEBI:36047	antibacterial drug	CHEBI
 198	ampicillin	has role	CHEBI:36047	antibacterial drug	CHEBI
 365	biapenem	has role	CHEBI:36047	antibacterial drug	CHEBI
 1594	lomefloxacin	has role	CHEBI:47868	photosensitizing agent	CHEBI
 1594	lomefloxacin	has role	CHEBI:33231	antitubercular agent	CHEBI
-1594	lomefloxacin	has role	CHEBI:22582	antibiotic	CHEBI
 1676	meloxicam	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 1676	meloxicam	has role	CHEBI:35842	antirheumatic drug	CHEBI
 1676	meloxicam	has role	CHEBI:35480	analgesic	CHEBI
@@ -6861,9 +6777,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1007	encainide	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 220	anileridine	has role	CHEBI:60606	opioid receptor agonist	CHEBI
 220	anileridine	has role	CHEBI:35482	opioid analgesic	CHEBI
-1331	griseofulvin	has role	CHEBI:22582	antibiotic	CHEBI
-1331	griseofulvin	has role	CHEBI:35718	antifungal agent	CHEBI
-1331	griseofulvin	has role	CHEBI:33282	antibacterial agent	CHEBI
 48	acenocoumarol	has role	CHEBI:50249	anticoagulant	CHEBI
 1775	methysergide	has role	CHEBI:66991	sympatholytic agent	CHEBI
 1775	methysergide	has role	CHEBI:50514	vasoconstrictor agent	CHEBI
@@ -6879,16 +6792,15 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3659	yohimbine	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 3643	vincamine	has role	CHEBI:35674	antihypertensive agent	CHEBI
 3643	vincamine	has role	CHEBI:35620	vasodilator agent	CHEBI
+3275	hexamidine	has role	CHEBI:48218	antiseptic drug	CHEBI
 138	alprostadil	has role	CHEBI:35620	vasodilator agent	CHEBI
 138	alprostadil	has role	CHEBI:50427	platelet aggregation inhibitor	CHEBI
 138	alprostadil	has role	CHEBI:50249	anticoagulant	CHEBI
 1116	etretinate	has role	CHEBI:50176	keratolytic drug	CHEBI
 186	amodiaquine	has role	CHEBI:38068	antimalarial	CHEBI
 186	amodiaquine	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
-3032	bithionol	has role	CHEBI:60644	bridged diphenyl fungicide	CHEBI
+3032	bithionol	has role	CHEBI:86328	antifungal agrochemical	CHEBI
 3032	bithionol	has role	CHEBI:35684	antiplatyhelmintic drug	CHEBI
-3032	bithionol	has role	CHEBI:33286	agrochemical	CHEBI
-2624	thiamphenicol	has role	CHEBI:22582	antibiotic	CHEBI
 2624	thiamphenicol	has role	CHEBI:35705	immunosuppressive agent	CHEBI
 2534	sulindac	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2534	sulindac	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
@@ -6927,8 +6839,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1113	etoricoxib	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 480	capecitabine	has role	CHEBI:50266	prodrug	CHEBI
 480	capecitabine	has role	CHEBI:35610	antineoplastic agent	CHEBI
-1017	enrofloxacin	has role	CHEBI:22582	antibiotic	CHEBI
-1017	enrofloxacin	has role	CHEBI:33282	antibacterial agent	CHEBI
 1017	enrofloxacin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2350	rabeprazole	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 1947	nitrendipine	has role	CHEBI:35674	antihypertensive agent	CHEBI
@@ -6950,7 +6860,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 427	bumetanide	has role	CHEBI:35498	diuretic	CHEBI
 1189	fludarabine	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1189	fludarabine	has role	CHEBI:35705	immunosuppressive agent	CHEBI
-1189	fludarabine	has role	CHEBI:22587	antiviral agent	CHEBI
 1189	fludarabine	has role	CHEBI:50266	prodrug	CHEBI
 192	amoxicillin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2107	periciazine	has role	CHEBI:37887	adrenergic antagonist	CHEBI
@@ -6969,7 +6878,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 342	bepridil	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 342	bepridil	has role	CHEBI:35674	antihypertensive agent	CHEBI
 258	atovaquone	has role	CHEBI:38068	antimalarial	CHEBI
-258	atovaquone	has role	CHEBI:35718	antifungal agent	CHEBI
 285	bambuterol	has role	CHEBI:66993	tocolytic agent	CHEBI
 285	bambuterol	has role	CHEBI:35524	sympathomimetic agent	CHEBI
 285	bambuterol	has role	CHEBI:35522	beta-adrenergic agonist	CHEBI
@@ -6987,6 +6895,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 654	cinnarizine	has role	CHEBI:50857	anti-allergic agent	CHEBI
 654	cinnarizine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 1547	lansoprazole	has role	CHEBI:49201	anti-ulcer drug	CHEBI
+2757	trimetrexate	has role	CHEBI:86327	antifungal drug	CHEBI
 644	cilostazol	has role	CHEBI:50249	anticoagulant	CHEBI
 644	cilostazol	has role	CHEBI:63726	neuroprotective agent	CHEBI
 644	cilostazol	has role	CHEBI:35523	bronchodilator agent	CHEBI
@@ -7030,6 +6939,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2008	oxametacin	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 1297	glafenine	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 1297	glafenine	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
+4113	prasugrel	has role	CHEBI:50433	platelet glycoprotein-IIb/IIIa receptor antagonist	CHEBI
+4113	prasugrel	has role	CHEBI:35554	cardiovascular drug	CHEBI
+4113	prasugrel	has role	CHEBI:50266	prodrug	CHEBI
 2274	prochlorperazine	has role	CHEBI:50919	antiemetic	CHEBI
 2274	prochlorperazine	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
 2274	prochlorperazine	has role	CHEBI:37890	alpha-adrenergic antagonist	CHEBI
@@ -7039,12 +6951,11 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1768	methylprednisolone	has role	CHEBI:63726	neuroprotective agent	CHEBI
 1768	methylprednisolone	has role	CHEBI:37962	adrenergic agent	CHEBI
 1768	methylprednisolone	has role	CHEBI:50919	antiemetic	CHEBI
-766	cyproterone	has role	CHEBI:35497	androgen antagonist	CHEBI
+766	cyproterone acetate	has role	CHEBI:35497	androgen antagonist	CHEBI
 1400	hydroxyzine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 1400	hydroxyzine	has role	CHEBI:35474	anxiolytic drug	CHEBI
 1400	hydroxyzine	has role	CHEBI:50177	dermatologic drug	CHEBI
 1400	hydroxyzine	has role	CHEBI:59683	antipruritic drug	CHEBI
-1280	gatifloxacin	has role	CHEBI:22582	antibiotic	CHEBI
 1280	gatifloxacin	has role	CHEBI:35441	antiinfective agent	CHEBI
 2181	pipamperone	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 2181	pipamperone	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
@@ -7078,13 +6989,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 966	droperidol	has role	CHEBI:60807	anaesthesia adjuvant	CHEBI
 966	droperidol	has role	CHEBI:65190	first generation antipsychotic	CHEBI
 946	donepezil	has role	CHEBI:66980	nootropic agent	CHEBI
-1191	fludrocortisone acetate	has role	CHEBI:37962	adrenergic agent	CHEBI
-1191	fludrocortisone acetate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
 1035	eprazinone	has role	CHEBI:77034	mucolytic	CHEBI
 610	chlorotrianisene	has role	CHEBI:50739	estrogen receptor modulator	CHEBI
 610	chlorotrianisene	has role	CHEBI:35610	antineoplastic agent	CHEBI
 568	celecoxib	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
-983	econazole	has role	CHEBI:35718	antifungal agent	CHEBI
 271	azelastine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 271	azelastine	has role	CHEBI:50857	anti-allergic agent	CHEBI
 271	azelastine	has role	CHEBI:49167	anti-asthmatic drug	CHEBI
@@ -7100,7 +7008,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1817	misoprostol	has role	CHEBI:50691	abortifacient	CHEBI
 2054	pantoprazole	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 563	ceftizoxime	has role	CHEBI:36047	antibacterial drug	CHEBI
-1709	meropenem	has role	CHEBI:33282	antibacterial agent	CHEBI
 1709	meropenem	has role	CHEBI:36047	antibacterial drug	CHEBI
 2337	quetiapine	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 2337	quetiapine	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
@@ -7118,6 +7025,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 437	buspirone	has role	CHEBI:35941	serotonergic agonist	CHEBI
 437	buspirone	has role	CHEBI:35717	sedative	CHEBI
 437	buspirone	has role	CHEBI:35474	anxiolytic drug	CHEBI
+1242	fosfluconazole	has role	CHEBI:50266	prodrug	CHEBI
 2491	sufentanil	has role	CHEBI:35482	opioid analgesic	CHEBI
 2491	sufentanil	has role	CHEBI:55322	mu-opioid receptor agonist	CHEBI
 2491	sufentanil	has role	CHEBI:60807	anaesthesia adjuvant	CHEBI
@@ -7127,9 +7035,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3584	terazosin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 3584	terazosin	has role	CHEBI:35674	antihypertensive agent	CHEBI
 3584	terazosin	has role	CHEBI:37890	alpha-adrenergic antagonist	CHEBI
-2675	tioconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 2675	tioconazole	has role	CHEBI:35441	antiinfective agent	CHEBI
-2675	tioconazole	has role	CHEBI:77884	EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor	CHEBI
 1895	nemonapride	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
 1895	nemonapride	has role	CHEBI:35941	serotonergic agonist	CHEBI
 1895	nemonapride	has role	CHEBI:65191	second generation antipsychotic	CHEBI
@@ -7138,10 +7044,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1942	nisoldipine	has role	CHEBI:50427	platelet aggregation inhibitor	CHEBI
 1942	nisoldipine	has role	CHEBI:35554	cardiovascular drug	CHEBI
 2754	trimethobenzamide	has role	CHEBI:50919	antiemetic	CHEBI
-3017	benzalkonium	has role	CHEBI:33282	antibacterial agent	CHEBI
-3017	benzalkonium	has role	CHEBI:48219	disinfectant	CHEBI
 3017	benzalkonium	has role	CHEBI:27780	detergent	CHEBI
 3017	benzalkonium	has role	CHEBI:48218	antiseptic drug	CHEBI
+2873	zopiclone	has role	CHEBI:35488	central nervous system depressant	CHEBI
+2873	zopiclone	has role	CHEBI:35717	sedative	CHEBI
 1068	eszopiclone	has role	CHEBI:35717	sedative	CHEBI
 1068	eszopiclone	has role	CHEBI:35488	central nervous system depressant	CHEBI
 581	cetirizine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
@@ -7149,7 +7055,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 341	bepotastine	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 341	bepotastine	has role	CHEBI:50857	anti-allergic agent	CHEBI
 1286	gemifloxacin	has role	CHEBI:36047	antibacterial drug	CHEBI
-1286	gemifloxacin	has role	CHEBI:22582	antibiotic	CHEBI
 2553	tadalafil	has role	CHEBI:35620	vasodilator agent	CHEBI
 556	cefprozil	has role	CHEBI:36047	antibacterial drug	CHEBI
 115	alfuzosin	has role	CHEBI:35610	antineoplastic agent	CHEBI
@@ -7190,12 +7095,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2470	spiperone	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 2470	spiperone	has role	CHEBI:37890	alpha-adrenergic antagonist	CHEBI
 2470	spiperone	has role	CHEBI:35476	antipsychotic agent	CHEBI
-574	cefalotin	has role	CHEBI:22582	antibiotic	CHEBI
 574	cefalotin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2838	ergocalciferol	has role	CHEBI:50733	nutraceutical	CHEBI
 2838	ergocalciferol	has role	CHEBI:50646	bone density conservation agent	CHEBI
 2838	ergocalciferol	has role	CHEBI:33288	rodenticide	CHEBI
-2495	sulconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 2525	sulfasalazine	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 2525	sulfasalazine	has role	CHEBI:35441	antiinfective agent	CHEBI
 2525	sulfasalazine	has role	CHEBI:55324	gastrointestinal drug	CHEBI
@@ -7224,14 +7127,12 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2877	zuclopenthixol	has role	CHEBI:65190	first generation antipsychotic	CHEBI
 1854	moxifloxacin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2006	oxacillin	has role	CHEBI:36047	antibacterial drug	CHEBI
-2006	oxacillin	has role	CHEBI:33282	antibacterial agent	CHEBI
 3531	roflumilast	has role	CHEBI:49167	anti-asthmatic drug	CHEBI
 1723	metergoline	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 1723	metergoline	has role	CHEBI:51065	dopamine agonist	CHEBI
 2113	perphenazine	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
 2113	perphenazine	has role	CHEBI:50919	antiemetic	CHEBI
 2113	perphenazine	has role	CHEBI:37930	phenothiazine antipsychotic drug	CHEBI
-2710	tosufloxacin	has role	CHEBI:22582	antibiotic	CHEBI
 2710	tosufloxacin	has role	CHEBI:35441	antiinfective agent	CHEBI
 316	bentiromide	has role	CHEBI:33893	reagent	CHEBI
 316	bentiromide	has role	CHEBI:47867	indicator	CHEBI
@@ -7242,15 +7143,13 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 331	benzquinamide	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 331	benzquinamide	has role	CHEBI:48876	muscarinic antagonist	CHEBI
 331	benzquinamide	has role	CHEBI:35476	antipsychotic agent	CHEBI
-1612	lovastatin	has role	CHEBI:35679	antilipemic drug	CHEBI
+1612	lovastatin	has role	CHEBI:50266	prodrug	CHEBI
+1612	lovastatin	has role	CHEBI:35821	anticholesteremic drug	CHEBI
 1612	lovastatin	has role	CHEBI:35610	antineoplastic agent	CHEBI
-1612	lovastatin	has role	CHEBI:35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	CHEBI
-572	cefaloglycin	has role	CHEBI:22582	antibiotic	CHEBI
 1887	nebivolol	has role	CHEBI:35530	beta-adrenergic antagonist	CHEBI
 1887	nebivolol	has role	CHEBI:35620	vasodilator agent	CHEBI
 1887	nebivolol	has role	CHEBI:35674	antihypertensive agent	CHEBI
 1587	lisinopril	has role	CHEBI:35674	antihypertensive agent	CHEBI
-250	astromicin	has role	CHEBI:33282	antibacterial agent	CHEBI
 2709	toremifene	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2709	toremifene	has role	CHEBI:50837	estrogen antagonist	CHEBI
 2709	toremifene	has role	CHEBI:50646	bone density conservation agent	CHEBI
@@ -7261,12 +7160,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 522	carvedilol	has role	CHEBI:35530	beta-adrenergic antagonist	CHEBI
 522	carvedilol	has role	CHEBI:35674	antihypertensive agent	CHEBI
 522	carvedilol	has role	CHEBI:37890	alpha-adrenergic antagonist	CHEBI
-1582	lincomycin	has role	CHEBI:33281	antimicrobial agent	CHEBI
 1364	hexachlorophene	has role	CHEBI:48218	antiseptic drug	CHEBI
 1364	hexachlorophene	has role	CHEBI:22153	acaricide	CHEBI
-1364	hexachlorophene	has role	CHEBI:24127	fungicide	CHEBI
-1364	hexachlorophene	has role	CHEBI:33286	agrochemical	CHEBI
-1364	hexachlorophene	has role	CHEBI:33282	antibacterial agent	CHEBI
+1364	hexachlorophene	has role	CHEBI:86328	antifungal agrochemical	CHEBI
 2448	sitagliptin	has role	CHEBI:35526	hypoglycemic agent	CHEBI
 2740	trifluoperazine	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
 2740	trifluoperazine	has role	CHEBI:50919	antiemetic	CHEBI
@@ -7277,11 +7173,12 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1810	miltefosine	has role	CHEBI:67079	anti-inflammatory agent	CHEBI
 1810	miltefosine	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1810	miltefosine	has role	CHEBI:35820	antiprotozoal drug	CHEBI
-1810	miltefosine	has role	CHEBI:35718	antifungal agent	CHEBI
 183	amlodipine	has role	CHEBI:35674	antihypertensive agent	CHEBI
 183	amlodipine	has role	CHEBI:35620	vasodilator agent	CHEBI
-294	beclomethasone dipropionate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
-294	beclomethasone dipropionate	has role	CHEBI:49167	anti-asthmatic drug	CHEBI
+294	beclometasone dipropionate	has role	CHEBI:49167	anti-asthmatic drug	CHEBI
+294	beclometasone dipropionate	has role	CHEBI:50266	prodrug	CHEBI
+294	beclometasone dipropionate	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
+294	beclometasone dipropionate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
 1125	ezetimibe	has role	CHEBI:35821	anticholesteremic drug	CHEBI
 1125	ezetimibe	has role	CHEBI:35679	antilipemic drug	CHEBI
 562	ceftibuten	has role	CHEBI:36047	antibacterial drug	CHEBI
@@ -7291,10 +7188,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2389	risperidone	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 2389	risperidone	has role	CHEBI:37890	alpha-adrenergic antagonist	CHEBI
 2389	risperidone	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
-1229	fluvastatin	has role	CHEBI:35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	CHEBI
-1229	fluvastatin	has role	CHEBI:35679	antilipemic drug	CHEBI
+1229	fluvastatin	has role	CHEBI:35821	anticholesteremic drug	CHEBI
 59	acetophenazine	has role	CHEBI:37930	phenothiazine antipsychotic drug	CHEBI
-450	butoconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 87	adapalene	has role	CHEBI:50177	dermatologic drug	CHEBI
 87	adapalene	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 648	cinalukast	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
@@ -7302,10 +7197,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 648	cinalukast	has role	CHEBI:49159	leukotriene antagonist	CHEBI
 465	calcipotriene	has role	CHEBI:50748	antipsoriatic	CHEBI
 3018	benzethonium	has role	CHEBI:48218	antiseptic drug	CHEBI
-3018	benzethonium	has role	CHEBI:48219	disinfectant	CHEBI
-3018	benzethonium	has role	CHEBI:33282	antibacterial agent	CHEBI
-3018	benzethonium	has role	CHEBI:22587	antiviral agent	CHEBI
-3018	benzethonium	has role	CHEBI:35718	antifungal agent	CHEBI
 2865	ziprasidone	has role	CHEBI:35471	psychotropic drug	CHEBI
 2865	ziprasidone	has role	CHEBI:37956	histamine antagonist	CHEBI
 2865	ziprasidone	has role	CHEBI:48876	muscarinic antagonist	CHEBI
@@ -7329,11 +7220,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 47	acemetacin	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 47	acemetacin	has role	CHEBI:50266	prodrug	CHEBI
 47	acemetacin	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
-3309	isoconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 3309	isoconazole	has role	CHEBI:36047	antibacterial drug	CHEBI
 1800	miconazole	has role	CHEBI:35610	antineoplastic agent	CHEBI
-1800	miconazole	has role	CHEBI:35718	antifungal agent	CHEBI
-2777	trovafloxacin	has role	CHEBI:22582	antibiotic	CHEBI
 2777	trovafloxacin	has role	CHEBI:36047	antibacterial drug	CHEBI
 573	cefaloridine	has role	CHEBI:36047	antibacterial drug	CHEBI
 3135	desonide	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
@@ -7360,14 +7248,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1937	nimodipine	has role	CHEBI:35620	vasodilator agent	CHEBI
 1937	nimodipine	has role	CHEBI:35554	cardiovascular drug	CHEBI
 2445	simvastatin	has role	CHEBI:50266	prodrug	CHEBI
-2445	simvastatin	has role	CHEBI:35679	antilipemic drug	CHEBI
-2445	simvastatin	has role	CHEBI:35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	CHEBI
 1592	lofepramine	has role	CHEBI:35469	antidepressant	CHEBI
 305	bendroflumethiazide	has role	CHEBI:35498	diuretic	CHEBI
 305	bendroflumethiazide	has role	CHEBI:35674	antihypertensive agent	CHEBI
 2707	topotecan	has role	CHEBI:35610	antineoplastic agent	CHEBI
-2214	pitavastatin	has role	CHEBI:35821	anticholesteremic drug	CHEBI
-2214	pitavastatin	has role	CHEBI:35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	CHEBI
 732	conivaptan	has role	CHEBI:59680	vasopressin  receptor antagonist	CHEBI
 1610	losartan	has role	CHEBI:35674	antihypertensive agent	CHEBI
 1610	losartan	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
@@ -7378,7 +7262,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1037	eprosartan	has role	CHEBI:61016	angiotensin receptor antagonist	CHEBI
 1037	eprosartan	has role	CHEBI:35674	antihypertensive agent	CHEBI
 2239	pravastatin	has role	CHEBI:35821	anticholesteremic drug	CHEBI
-2239	pravastatin	has role	CHEBI:35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	CHEBI
 878	difenoxin	has role	CHEBI:55323	antidiarrhoeal drug	CHEBI
 2794	unoprostone isopropyl	has role	CHEBI:35674	antihypertensive agent	CHEBI
 2794	unoprostone isopropyl	has role	CHEBI:50266	prodrug	CHEBI
@@ -7400,9 +7283,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2073	pemetrexed	has role	CHEBI:35610	antineoplastic agent	CHEBI
 550	cefoxitin	has role	CHEBI:36047	antibacterial drug	CHEBI
 1842	moracizine	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
+2359	ranolazine	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 1481	irbesartan	has role	CHEBI:35674	antihypertensive agent	CHEBI
 1481	irbesartan	has role	CHEBI:61016	angiotensin receptor antagonist	CHEBI
-3408	oxiconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 3408	oxiconazole	has role	CHEBI:35441	antiinfective agent	CHEBI
 2866	zofenopril	has role	CHEBI:35623	anticonvulsant	CHEBI
 2866	zofenopril	has role	CHEBI:35457	EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor	CHEBI
@@ -7436,22 +7319,17 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1211	flupentixol	has role	CHEBI:35474	anxiolytic drug	CHEBI
 1211	flupentixol	has role	CHEBI:35469	antidepressant	CHEBI
 1211	flupentixol	has role	CHEBI:65190	first generation antipsychotic	CHEBI
-1115	etravirine	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
-1115	etravirine	has role	CHEBI:22587	antiviral agent	CHEBI
 279	aztreonam	has role	CHEBI:36047	antibacterial drug	CHEBI
 2806	valsartan	has role	CHEBI:35674	antihypertensive agent	CHEBI
 2806	valsartan	has role	CHEBI:61016	angiotensin receptor antagonist	CHEBI
 720	cloxacillin	has role	CHEBI:36047	antibacterial drug	CHEBI
-720	cloxacillin	has role	CHEBI:33282	antibacterial agent	CHEBI
 4118	pazopanib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4118	pazopanib	has role	CHEBI:67170	anti-angiogenic agent	CHEBI
 1212	fluphenazine	has role	CHEBI:37930	phenothiazine antipsychotic drug	CHEBI
 1212	fluphenazine	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
-2434	sertaconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 2434	sertaconazole	has role	CHEBI:36047	antibacterial drug	CHEBI
 2434	sertaconazole	has role	CHEBI:59683	antipruritic drug	CHEBI
 2434	sertaconazole	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
-2434	sertaconazole	has role	CHEBI:77884	EC 1.14.13.70 (sterol 14alpha-demethylase) inhibitor	CHEBI
 2547	suxibuzone	has role	CHEBI:35842	antirheumatic drug	CHEBI
 2547	suxibuzone	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 2547	suxibuzone	has role	CHEBI:49110	peripheral nervous system drug	CHEBI
@@ -7478,7 +7356,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 942	dofetilide	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 1727	metacycline	has role	CHEBI:36047	antibacterial drug	CHEBI
 2611	tetracycline	has role	CHEBI:36047	antibacterial drug	CHEBI
-2611	tetracycline	has role	CHEBI:22582	antibiotic	CHEBI
 2611	tetracycline	has role	CHEBI:35820	antiprotozoal drug	CHEBI
 961	doxycycline	has role	CHEBI:38068	antimalarial	CHEBI
 961	doxycycline	has role	CHEBI:36047	antibacterial drug	CHEBI
@@ -7506,7 +7383,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 954	doxazosin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 954	doxazosin	has role	CHEBI:35620	vasodilator agent	CHEBI
 954	doxazosin	has role	CHEBI:59844	antihyperplasia drug	CHEBI
-855	dibekacin	has role	CHEBI:33282	antibacterial agent	CHEBI
 1382	homofenazine	has role	CHEBI:37930	phenothiazine antipsychotic drug	CHEBI
 1382	homofenazine	has role	CHEBI:35474	anxiolytic drug	CHEBI
 460	cabergoline	has role	CHEBI:51065	dopamine agonist	CHEBI
@@ -7522,26 +7398,19 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1751	methotrexate	has role	CHEBI:50177	dermatologic drug	CHEBI
 1751	methotrexate	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1751	methotrexate	has role	CHEBI:35842	antirheumatic drug	CHEBI
-3526	ribostamycin	has role	CHEBI:22582	antibiotic	CHEBI
 3526	ribostamycin	has role	CHEBI:36047	antibacterial drug	CHEBI
 530	cefazolin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2815	verapamil	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 2815	verapamil	has role	CHEBI:35620	vasodilator agent	CHEBI
 2815	verapamil	has role	CHEBI:35674	antihypertensive agent	CHEBI
-1166	fenticonazole	has role	CHEBI:35718	antifungal agent	CHEBI
 1166	fenticonazole	has role	CHEBI:36047	antibacterial drug	CHEBI
 546	cefotaxime	has role	CHEBI:36047	antibacterial drug	CHEBI
-799	delavirdine	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 799	delavirdine	has role	CHEBI:36044	antiviral drug	CHEBI
 3253	fumagillin	has role	CHEBI:48422	angiogenesis inhibitor	CHEBI
 3253	fumagillin	has role	CHEBI:35820	antiprotozoal drug	CHEBI
 3253	fumagillin	has role	CHEBI:36047	antibacterial drug	CHEBI
-3253	fumagillin	has role	CHEBI:35718	antifungal agent	CHEBI
-3253	fumagillin	has role	CHEBI:22582	antibiotic	CHEBI
 249	astemizole	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 249	astemizole	has role	CHEBI:50857	anti-allergic agent	CHEBI
-577	cerivastatin	has role	CHEBI:35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	CHEBI
-577	cerivastatin	has role	CHEBI:35679	antilipemic drug	CHEBI
 277	azlocillin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2172	pimozide	has role	CHEBI:37955	H1-receptor antagonist	CHEBI
 2172	pimozide	has role	CHEBI:48279	serotonergic antagonist	CHEBI
@@ -7558,6 +7427,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2459	sorafenib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2459	sorafenib	has role	CHEBI:48422	angiogenesis inhibitor	CHEBI
 802	demeclocycline	has role	CHEBI:36047	antibacterial drug	CHEBI
+280	bacampicillin	has role	CHEBI:50266	prodrug	CHEBI
 660	cisapride	has role	CHEBI:35941	serotonergic agonist	CHEBI
 660	cisapride	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 660	cisapride	has role	CHEBI:55324	gastrointestinal drug	CHEBI
@@ -7602,7 +7472,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 127	almitrine	has role	CHEBI:35337	central nervous system stimulant	CHEBI
 1619	lymecycline	has role	CHEBI:35820	antiprotozoal drug	CHEBI
 1619	lymecycline	has role	CHEBI:36047	antibacterial drug	CHEBI
-1619	lymecycline	has role	CHEBI:22582	antibiotic	CHEBI
 624	chlortetracycline	has role	CHEBI:35820	antiprotozoal drug	CHEBI
 624	chlortetracycline	has role	CHEBI:39442	fluorescent probe	CHEBI
 624	chlortetracycline	has role	CHEBI:36047	antibacterial drug	CHEBI
@@ -7610,7 +7479,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2406	rosuvastatin	has role	CHEBI:35679	antilipemic drug	CHEBI
 2406	rosuvastatin	has role	CHEBI:67079	anti-inflammatory agent	CHEBI
 2406	rosuvastatin	has role	CHEBI:77307	cardioprotective agent	CHEBI
-2406	rosuvastatin	has role	CHEBI:35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	CHEBI
 535	cefepime	has role	CHEBI:36047	antibacterial drug	CHEBI
 2443	silymarin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2443	silymarin	has role	CHEBI:62868	hepatoprotective agent	CHEBI
@@ -7647,13 +7515,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 924	dipyridamole	has role	CHEBI:50427	platelet aggregation inhibitor	CHEBI
 924	dipyridamole	has role	CHEBI:35620	vasodilator agent	CHEBI
 597	chlorhexidine	has role	CHEBI:35441	antiinfective agent	CHEBI
-597	chlorhexidine	has role	CHEBI:33282	antibacterial agent	CHEBI
-200	amprenavir	has role	CHEBI:35660	HIV protease inhibitor	CHEBI
 200	amprenavir	has role	CHEBI:36044	antiviral drug	CHEBI
 1517	ixabepilone	has role	CHEBI:35610	antineoplastic agent	CHEBI
 91	adenosine triphosphate	has role	CHEBI:50733	nutraceutical	CHEBI
-113	alexidine	has role	CHEBI:33282	antibacterial agent	CHEBI
-702	clomocycline	has role	CHEBI:22582	antibiotic	CHEBI
 702	clomocycline	has role	CHEBI:36047	antibacterial drug	CHEBI
 702	clomocycline	has role	CHEBI:35820	antiprotozoal drug	CHEBI
 538	cefmenoxime	has role	CHEBI:36047	antibacterial drug	CHEBI
@@ -7670,7 +7534,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2269	probucol	has role	CHEBI:35821	anticholesteremic drug	CHEBI
 2187	piperacillin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2593	tenofovir disoproxil	has role	CHEBI:50266	prodrug	CHEBI
-2593	tenofovir disoproxil	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 2593	tenofovir disoproxil	has role	CHEBI:36044	antiviral drug	CHEBI
 544	ceforanide	has role	CHEBI:36047	antibacterial drug	CHEBI
 1851	latamoxef	has role	CHEBI:36047	antibacterial drug	CHEBI
@@ -7684,8 +7547,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1932	nilotinib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2396	rocuronium	has role	CHEBI:51372	neuromuscular agent	CHEBI
 2396	rocuronium	has role	CHEBI:51371	muscle relaxant	CHEBI
-1527	ketoconazole	has role	CHEBI:35718	antifungal agent	CHEBI
-2599	terconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 558	cefsulodin	has role	CHEBI:36047	antibacterial drug	CHEBI
 230	aprepitant	has role	CHEBI:35469	antidepressant	CHEBI
 230	aprepitant	has role	CHEBI:50919	antiemetic	CHEBI
@@ -7693,30 +7554,23 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1795	mezlocillin	has role	CHEBI:36047	antibacterial drug	CHEBI
 4119	romidepsin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 542	cefonicid	has role	CHEBI:36047	antibacterial drug	CHEBI
-1030	epirubicin	has role	CHEBI:22582	antibiotic	CHEBI
 1030	epirubicin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 559	ceftazidime	has role	CHEBI:36047	antibacterial drug	CHEBI
 392	bosentan	has role	CHEBI:35674	antihypertensive agent	CHEBI
 392	bosentan	has role	CHEBI:51451	endothelin receptor antagonist	CHEBI
 119	aliskiren	has role	CHEBI:35674	antihypertensive agent	CHEBI
 235	arbekacin	has role	CHEBI:36047	antibacterial drug	CHEBI
-235	arbekacin	has role	CHEBI:22582	antibiotic	CHEBI
-235	arbekacin	has role	CHEBI:33282	antibacterial agent	CHEBI
 564	ceftriaxone	has role	CHEBI:36047	antibacterial drug	CHEBI
 3417	pantethine	has role	CHEBI:50733	nutraceutical	CHEBI
 4112	dronedarone	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
-555	cefpodoxime proxetil	has role	CHEBI:36047	antibacterial drug	CHEBI
 2811	vecuronium	has role	CHEBI:48878	nicotinic antagonist	CHEBI
 2811	vecuronium	has role	CHEBI:51372	neuromuscular agent	CHEBI
 2811	vecuronium	has role	CHEBI:51371	muscle relaxant	CHEBI
-257	atorvastatin	has role	CHEBI:35679	antilipemic drug	CHEBI
-257	atorvastatin	has role	CHEBI:35664	EC 1.1.1.34/EC 1.1.1.88 (hydroxymethylglutaryl-CoA reductase) inhibitor	CHEBI
 792	deferoxamine	has role	CHEBI:50247	antidote	CHEBI
 3500	protoporphyrin	has role	CHEBI:47868	photosensitizing agent	CHEBI
 1245	fosinopril	has role	CHEBI:35457	EC 3.4.15.1 (peptidyl-dipeptidase A) inhibitor	CHEBI
 1245	fosinopril	has role	CHEBI:50266	prodrug	CHEBI
 1245	fosinopril	has role	CHEBI:35674	antihypertensive agent	CHEBI
-1893	nelfinavir	has role	CHEBI:35660	HIV protease inhibitor	CHEBI
 1893	nelfinavir	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2052	pancuronium	has role	CHEBI:48878	nicotinic antagonist	CHEBI
 2052	pancuronium	has role	CHEBI:48873	cholinergic antagonist	CHEBI
@@ -7729,7 +7583,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1043	ergotamine	has role	CHEBI:35941	serotonergic agonist	CHEBI
 1043	ergotamine	has role	CHEBI:35569	alpha-adrenergic agonist	CHEBI
 4021	porfimer	has role	CHEBI:50177	dermatologic drug	CHEBI
-4021	porfimer	has role	CHEBI:22587	antiviral agent	CHEBI
 4021	porfimer	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4021	porfimer	has role	CHEBI:47868	photosensitizing agent	CHEBI
 888	dihydroergotamine	has role	CHEBI:35941	serotonergic agonist	CHEBI
@@ -7740,7 +7593,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2004	ouabain	has role	CHEBI:38147	cardiotonic drug	CHEBI
 2004	ouabain	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 541	cefodizime	has role	CHEBI:36047	antibacterial drug	CHEBI
-157	amikacin	has role	CHEBI:22582	antibiotic	CHEBI
 157	amikacin	has role	CHEBI:36047	antibacterial drug	CHEBI
 1240	fosamprenavir	has role	CHEBI:50266	prodrug	CHEBI
 3368	myrophine	has role	CHEBI:50266	prodrug	CHEBI
@@ -7748,10 +7600,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1836	montelukast	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 1836	montelukast	has role	CHEBI:49167	anti-asthmatic drug	CHEBI
 1836	montelukast	has role	CHEBI:49159	leukotriene antagonist	CHEBI
-2084	penimepicycline	has role	CHEBI:22582	antibiotic	CHEBI
 1112	etoposide	has role	CHEBI:35610	antineoplastic agent	CHEBI
 3274	hematoporphyrin	has role	CHEBI:47868	photosensitizing agent	CHEBI
-3609	tipranavir	has role	CHEBI:35660	HIV protease inhibitor	CHEBI
 3609	tipranavir	has role	CHEBI:36044	antiviral drug	CHEBI
 326	benzonatate	has role	CHEBI:38867	anaesthetic	CHEBI
 326	benzonatate	has role	CHEBI:51177	antitussive	CHEBI
@@ -7767,10 +7617,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 887	dihydroergocristine	has role	CHEBI:37890	alpha-adrenergic antagonist	CHEBI
 887	dihydroergocristine	has role	CHEBI:35620	vasodilator agent	CHEBI
 552	cefpiramide	has role	CHEBI:36047	antibacterial drug	CHEBI
-1437	indinavir	has role	CHEBI:35660	HIV protease inhibitor	CHEBI
 851	diatrizoate	has role	CHEBI:37338	radioopaque medium	CHEBI
-1896	framycetin	has role	CHEBI:33282	antibacterial agent	CHEBI
-1896	framycetin	has role	CHEBI:22582	antibiotic	CHEBI
 1896	framycetin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2067	paromomycin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2067	paromomycin	has role	CHEBI:35820	antiprotozoal drug	CHEBI
@@ -7783,7 +7630,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1789	metrizoic acid	has role	CHEBI:37338	radioopaque medium	CHEBI
 1452	iodamide	has role	CHEBI:37338	radioopaque medium	CHEBI
 1601	lopinavir	has role	CHEBI:36044	antiviral drug	CHEBI
-1601	lopinavir	has role	CHEBI:35660	HIV protease inhibitor	CHEBI
 2369	rescinnamine	has role	CHEBI:35674	antihypertensive agent	CHEBI
 176	amiodarone	has role	CHEBI:35554	cardiovascular drug	CHEBI
 39	acarbose	has role	CHEBI:35526	hypoglycemic agent	CHEBI
@@ -7794,20 +7640,16 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 403	bromocriptine	has role	CHEBI:51065	dopamine agonist	CHEBI
 2590	teniposide	has role	CHEBI:35610	antineoplastic agent	CHEBI
 3944	etoposide phosphate	has role	CHEBI:35610	antineoplastic agent	CHEBI
-2422	saquinavir	has role	CHEBI:35660	HIV protease inhibitor	CHEBI
 2422	saquinavir	has role	CHEBI:36044	antiviral drug	CHEBI
 2588	temoporfin	has role	CHEBI:47868	photosensitizing agent	CHEBI
 2830	viomycin	has role	CHEBI:33231	antitubercular agent	CHEBI
+549	cefotiam hexetil	has role	CHEBI:36047	antibacterial drug	CHEBI
 549	cefotiam hexetil	has role	CHEBI:50266	prodrug	CHEBI
-3483	posaconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 3483	posaconazole	has role	CHEBI:36335	trypanocidal drug	CHEBI
-254	atazanavir	has role	CHEBI:35660	HIV protease inhibitor	CHEBI
 254	atazanavir	has role	CHEBI:36044	antiviral drug	CHEBI
-1513	itraconazole	has role	CHEBI:35718	antifungal agent	CHEBI
 2816	verteporfin	has role	CHEBI:47868	photosensitizing agent	CHEBI
 2816	verteporfin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2391	ritonavir	has role	CHEBI:36044	antiviral drug	CHEBI
-2391	ritonavir	has role	CHEBI:35660	HIV protease inhibitor	CHEBI
 668	clarithromycin	has role	CHEBI:36047	antibacterial drug	CHEBI
 2826	vindesine	has role	CHEBI:35610	antineoplastic agent	CHEBI
 1464	iopamidol	has role	CHEBI:37338	radioopaque medium	CHEBI
@@ -7816,7 +7658,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2827	vinorelbine	has role	CHEBI:35610	antineoplastic agent	CHEBI
 882	digoxin	has role	CHEBI:38070	anti-arrhythmia drug	CHEBI
 882	digoxin	has role	CHEBI:38147	cardiotonic drug	CHEBI
-2379	rifaximin	has role	CHEBI:22582	antibiotic	CHEBI
 2379	rifaximin	has role	CHEBI:71031	orphan drug	CHEBI
 2379	rifaximin	has role	CHEBI:55324	gastrointestinal drug	CHEBI
 1468	iopromide	has role	CHEBI:37338	radioopaque medium	CHEBI
@@ -7828,20 +7669,21 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 939	docetaxel	has role	CHEBI:47868	photosensitizing agent	CHEBI
 939	docetaxel	has role	CHEBI:38068	antimalarial	CHEBI
 1461	iohexol	has role	CHEBI:37338	radioopaque medium	CHEBI
+4028	virginiamycin	has role	CHEBI:36047	antibacterial drug	CHEBI
 1518	josamycin	has role	CHEBI:36047	antibacterial drug	CHEBI
 1040	eptifibatide	has role	CHEBI:50427	platelet aggregation inhibitor	CHEBI
 1040	eptifibatide	has role	CHEBI:50249	anticoagulant	CHEBI
 925	dirithromycin	has role	CHEBI:50266	prodrug	CHEBI
 2471	Spiramycin I	has role	CHEBI:36047	antibacterial drug	CHEBI
-2471	Spiramycin I	has role	CHEBI:22582	antibiotic	CHEBI
 2280	proglumetacin	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 2280	proglumetacin	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 2280	proglumetacin	has role	CHEBI:35493	antipyretic	CHEBI
 2280	proglumetacin	has role	CHEBI:50266	prodrug	CHEBI
 2376	rifabutin	has role	CHEBI:33231	antitubercular agent	CHEBI
 2044	paclitaxel	has role	CHEBI:35610	antineoplastic agent	CHEBI
-3489	pristinamycin	has role	CHEBI:22582	antibiotic	CHEBI
 3489	pristinamycin	has role	CHEBI:36047	antibacterial drug	CHEBI
+3217	evans blue	has role	CHEBI:77178	histological dye	CHEBI
+3217	evans blue	has role	CHEBI:51217	fluorochrome	CHEBI
 3972	ivermectin	has role	CHEBI:73333	scabicide	CHEBI
 3972	ivermectin	has role	CHEBI:35443	anthelminthic drug	CHEBI
 3972	ivermectin	has role	CHEBI:35820	antiprotozoal drug	CHEBI
@@ -7850,13 +7692,9 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2378	rifapentine	has role	CHEBI:33231	antitubercular agent	CHEBI
 2378	rifapentine	has role	CHEBI:35816	leprostatic drug	CHEBI
 2472	Spiramycin II	has role	CHEBI:36047	antibacterial drug	CHEBI
-2472	Spiramycin II	has role	CHEBI:22582	antibiotic	CHEBI
 2446	sirolimus	has role	CHEBI:35705	immunosuppressive agent	CHEBI
-2446	sirolimus	has role	CHEBI:35718	antifungal agent	CHEBI
 2446	sirolimus	has role	CHEBI:35610	antineoplastic agent	CHEBI
 2446	sirolimus	has role	CHEBI:36047	antibacterial drug	CHEBI
-2446	sirolimus	has role	CHEBI:22582	antibiotic	CHEBI
-197	amphotericin B	has role	CHEBI:35718	antifungal agent	CHEBI
 197	amphotericin B	has role	CHEBI:35820	antiprotozoal drug	CHEBI
 661	cisatracurium	has role	CHEBI:51371	muscle relaxant	CHEBI
 661	cisatracurium	has role	CHEBI:48878	nicotinic antagonist	CHEBI
@@ -7877,12 +7715,10 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 817	desmopressin	has role	CHEBI:35846	renal agent	CHEBI
 817	desmopressin	has role	CHEBI:33295	diagnostic agent	CHEBI
 2223	plicamycin	has role	CHEBI:35610	antineoplastic agent	CHEBI
-2977	caspofungin	has role	CHEBI:35718	antifungal agent	CHEBI
 2977	caspofungin	has role	CHEBI:35441	antiinfective agent	CHEBI
 1358	heparin	has role	CHEBI:50249	anticoagulant	CHEBI
 4304	dapagliflozin	has role	CHEBI:35526	hypoglycemic agent	CHEBI
 2958	gonadorelin	has role	CHEBI:63533	gonadotropin releasing hormone agonist	CHEBI
-760	ciclosporin	has role	CHEBI:35718	antifungal agent	CHEBI
 760	ciclosporin	has role	CHEBI:35842	antirheumatic drug	CHEBI
 760	ciclosporin	has role	CHEBI:50177	dermatologic drug	CHEBI
 760	ciclosporin	has role	CHEBI:35705	immunosuppressive agent	CHEBI
@@ -7891,7 +7727,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 1559	leuprorelin	has role	CHEBI:63533	gonadotropin releasing hormone agonist	CHEBI
 1472	ioxaglic acid	has role	CHEBI:37338	radioopaque medium	CHEBI
 1798	micafungin	has role	CHEBI:35441	antiinfective agent	CHEBI
-1798	micafungin	has role	CHEBI:35718	antifungal agent	CHEBI
 2966	suramin	has role	CHEBI:35444	antinematodal drug	CHEBI
 2966	suramin	has role	CHEBI:36335	trypanocidal drug	CHEBI
 2968	triptorelin	has role	CHEBI:63533	gonadotropin releasing hormone agonist	CHEBI
@@ -7901,17 +7736,13 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2975	histrelin	has role	CHEBI:63533	gonadotropin releasing hormone agonist	CHEBI
 35	abarelix	has role	CHEBI:49020	hormone antagonist	CHEBI
 35	abarelix	has role	CHEBI:35610	antineoplastic agent	CHEBI
-281	bacitracin	has role	CHEBI:33282	antibacterial agent	CHEBI
 583	cetrorelix	has role	CHEBI:59229	GnRH antagonist	CHEBI
 583	cetrorelix	has role	CHEBI:35610	antineoplastic agent	CHEBI
 3302	iodixanol	has role	CHEBI:37338	radioopaque medium	CHEBI
 783	daptomycin	has role	CHEBI:36047	antibacterial drug	CHEBI
 731	colistimethate sodium	has role	CHEBI:50266	prodrug	CHEBI
-4116	telavancin	has role	CHEBI:22582	antibiotic	CHEBI
 4116	telavancin	has role	CHEBI:36047	antibacterial drug	CHEBI
-777	dalbavancin	has role	CHEBI:22582	antibiotic	CHEBI
 777	dalbavancin	has role	CHEBI:36047	antibacterial drug	CHEBI
-2998	teicoplanin	has role	CHEBI:22582	antibiotic	CHEBI
 2998	teicoplanin	has role	CHEBI:36047	antibacterial drug	CHEBI
 385	bivalirudin	has role	CHEBI:35232	radiopharmaceutical	CHEBI
 385	bivalirudin	has role	CHEBI:50249	anticoagulant	CHEBI
@@ -7950,12 +7781,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4137	paliperidone	has role	CHEBI:63726	neuroprotective agent	CHEBI
 4138	gentian violet	has role	CHEBI:77178	histological dye	CHEBI
 4138	gentian violet	has role	CHEBI:48218	antiseptic drug	CHEBI
-4138	gentian violet	has role	CHEBI:33282	antibacterial agent	CHEBI
-4138	gentian violet	has role	CHEBI:35718	antifungal agent	CHEBI
 4138	gentian violet	has role	CHEBI:35443	anthelminthic drug	CHEBI
-4142	sulfadiazine silver	has role	CHEBI:22582	antibiotic	CHEBI
 4142	sulfadiazine silver	has role	CHEBI:36047	antibacterial drug	CHEBI
-4143	darunavir	has role	CHEBI:35660	HIV protease inhibitor	CHEBI
 4143	darunavir	has role	CHEBI:36044	antiviral drug	CHEBI
 4144	sodium lauryl sulfate	has role	CHEBI:27780	detergent	CHEBI
 4145	lutein	has role	CHEBI:77182	food colouring	CHEBI
@@ -7983,14 +7810,13 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4168	lurasidone	has role	CHEBI:48279	serotonergic antagonist	CHEBI
 4168	lurasidone	has role	CHEBI:65191	second generation antipsychotic	CHEBI
 4169	ceftaroline fosamil	has role	CHEBI:50266	prodrug	CHEBI
-4169	ceftaroline fosamil	has role	CHEBI:22582	antibiotic	CHEBI
 4169	ceftaroline fosamil	has role	CHEBI:36047	antibacterial drug	CHEBI
 4171	eribulin	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4172	boceprevir	has role	CHEBI:36044	antiviral drug	CHEBI
 4173	telaprevir	has role	CHEBI:36044	antiviral drug	CHEBI
-4174	rilpivirine	has role	CHEBI:53756	HIV-1 reverse transcriptase inhibitor	CHEBI
 4175	linagliptin	has role	CHEBI:35526	hypoglycemic agent	CHEBI
-4176	abiraterone	has role	CHEBI:35610	antineoplastic agent	CHEBI
+4176	abiraterone acetate	has role	CHEBI:50266	prodrug	CHEBI
+4176	abiraterone acetate	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4177	gabapentin enacarbil	has role	CHEBI:50266	prodrug	CHEBI
 4177	gabapentin enacarbil	has role	CHEBI:35623	anticonvulsant	CHEBI
 4178	vandetanib	has role	CHEBI:35610	antineoplastic agent	CHEBI
@@ -8003,7 +7829,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4185	vemurafenib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4227	vismodegib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4228	ivacaftor	has role	CHEBI:71031	orphan drug	CHEBI
-4254	threonine	has role	CHEBI:50733	nutraceutical	CHEBI
 4256	carbon dioxide	has role	CHEBI:78433	refrigerant	CHEBI
 4256	carbon dioxide	has role	CHEBI:46787	solvent	CHEBI
 4256	carbon dioxide	has role	CHEBI:35620	vasodilator agent	CHEBI
@@ -8013,7 +7838,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4259	cineole	has role	CHEBI:35617	flavouring agent	CHEBI
 4263	potassium nitrate	has role	CHEBI:33287	fertilizer	CHEBI
 4264	carbamide	has role	CHEBI:64577	flour treatment agent	CHEBI
-4266	phenol	has role	CHEBI:48219	disinfectant	CHEBI
 4266	phenol	has role	CHEBI:48218	antiseptic drug	CHEBI
 4268	allantoin	has role	CHEBI:73336	vulnerary	CHEBI
 4269	zinc acetate	has role	CHEBI:74783	astringent	CHEBI
@@ -8030,7 +7854,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4293	magnesium oxide	has role	CHEBI:65265	antacid	CHEBI
 4296	potassium iodide	has role	CHEBI:77035	expectorant	CHEBI
 4298	apixaban	has role	CHEBI:50249	anticoagulant	CHEBI
-4300	elvitegravir	has role	CHEBI:67268	HIV-1 integrase inhibitor	CHEBI
 4305	avanafil	has role	CHEBI:35620	vasodilator agent	CHEBI
 4318	afatinib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4321	alginic acid	has role	CHEBI:50248	hematologic agent	CHEBI
@@ -8043,11 +7866,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4332	propanol	has role	CHEBI:48356	protic solvent	CHEBI
 4335	clofezone	has role	CHEBI:49201	anti-ulcer drug	CHEBI
 4340	alogliptin	has role	CHEBI:35526	hypoglycemic agent	CHEBI
-4344	zinc chloride	has role	CHEBI:48219	disinfectant	CHEBI
 4344	zinc chloride	has role	CHEBI:74783	astringent	CHEBI
 4354	bioallethrin	has role	CHEBI:39116	pyrethroid ester insecticide	CHEBI
-4357	anidulafungin	has role	CHEBI:35718	antifungal agent	CHEBI
-4357	anidulafungin	has role	CHEBI:22582	antibiotic	CHEBI
 4359	bosutinib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4363	chloroform	has role	CHEBI:78433	refrigerant	CHEBI
 4363	chloroform	has role	CHEBI:35470	central nervous system drug	CHEBI
@@ -8056,7 +7876,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4372	triaziquone	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4374	lorcaserin	has role	CHEBI:50507	appetite depressant	CHEBI
 4375	demecolcine	has role	CHEBI:35610	antineoplastic agent	CHEBI
-4376	dequalinium	has role	CHEBI:35718	antifungal agent	CHEBI
 4376	dequalinium	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4376	dequalinium	has role	CHEBI:48218	antiseptic drug	CHEBI
 4378	decamethrin	has role	CHEBI:39116	pyrethroid ester insecticide	CHEBI
@@ -8086,10 +7905,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4417	diethyl ether	has role	CHEBI:78433	refrigerant	CHEBI
 4417	diethyl ether	has role	CHEBI:38870	inhalation anaesthetic	CHEBI
 4418	diethyltoluamide	has role	CHEBI:71692	insect repellent	CHEBI
-4424	candicidin	has role	CHEBI:35718	antifungal agent	CHEBI
 4445	carbamide peroxide	has role	CHEBI:33893	reagent	CHEBI
-4445	carbamide peroxide	has role	CHEBI:48219	disinfectant	CHEBI
-4452	clobetasol propionate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
+4461	manganese sulfate	has role	CHEBI:50733	nutraceutical	CHEBI
 4466	eosin	has role	CHEBI:51217	fluorochrome	CHEBI
 4466	eosin	has role	CHEBI:77178	histological dye	CHEBI
 4468	esketamine	has role	CHEBI:35480	analgesic	CHEBI
@@ -8103,7 +7920,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4483	carfilzomib	has role	CHEBI:52726	proteasome inhibitor	CHEBI
 4484	aclidinium bromide	has role	CHEBI:48876	muscarinic antagonist	CHEBI
 4484	aclidinium bromide	has role	CHEBI:35523	bronchodilator agent	CHEBI
-4485	diflorasone diacetate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
 4493	alclometasone dipropionate	has role	CHEBI:35472	anti-inflammatory drug	CHEBI
 4498	paliperidone palmitate	has role	CHEBI:37890	alpha-adrenergic antagonist	CHEBI
 4498	paliperidone palmitate	has role	CHEBI:48561	dopaminergic antagonist	CHEBI
@@ -8120,8 +7936,8 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4519	potassium citrate	has role	CHEBI:35498	diuretic	CHEBI
 4520	potassium hydrogencarbonate	has role	CHEBI:64049	food acidity regulator	CHEBI
 4520	potassium hydrogencarbonate	has role	CHEBI:77971	raising agent	CHEBI
-4520	potassium hydrogencarbonate	has role	CHEBI:24127	fungicide	CHEBI
-4520	potassium hydrogencarbonate	has role	CHEBI:33286	agrochemical	CHEBI
+4520	potassium hydrogencarbonate	has role	CHEBI:86328	antifungal agrochemical	CHEBI
+4521	manganese chloride	has role	CHEBI:50733	nutraceutical	CHEBI
 4523	quinine	has role	CHEBI:35481	non-narcotic analgesic	CHEBI
 4523	quinine	has role	CHEBI:38068	antimalarial	CHEBI
 4523	quinine	has role	CHEBI:51371	muscle relaxant	CHEBI
@@ -8132,7 +7948,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4554	fluticasone furoate	has role	CHEBI:50266	prodrug	CHEBI
 4554	fluticasone furoate	has role	CHEBI:50857	anti-allergic agent	CHEBI
 4554	fluticasone furoate	has role	CHEBI:49167	anti-asthmatic drug	CHEBI
-4555	fosfonet	has role	CHEBI:22587	antiviral agent	CHEBI
 4582	ioxitalamic acid	has role	CHEBI:37338	radioopaque medium	CHEBI
 4587	levoverbenone	has role	CHEBI:77035	expectorant	CHEBI
 4601	diosmetin	has role	CHEBI:35610	antineoplastic agent	CHEBI
@@ -8151,7 +7966,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4634	teriflunomide	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 4635	Choline C-11	has role	CHEBI:35207	radioactive tracer	CHEBI
 4639	oftasceine	has role	CHEBI:51217	fluorochrome	CHEBI
-4642	dodecanoic acid	has role	CHEBI:33282	antibacterial agent	CHEBI
 4645	glycolic acid	has role	CHEBI:50176	keratolytic drug	CHEBI
 4664	benzoic acid	has role	CHEBI:65256	antimicrobial food preservative	CHEBI
 4674	naproxcinod	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
@@ -8174,18 +7988,14 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4715	cabozantinib	has role	CHEBI:50266	prodrug	CHEBI
 4716	ponatinib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4711	spiramycin	has role	CHEBI:36047	antibacterial drug	CHEBI
-4711	spiramycin	has role	CHEBI:22582	antibiotic	CHEBI
 4718	teduglutide	has role	CHEBI:50267	protective agent	CHEBI
-4720	tricaprylin	has role	CHEBI:35623	anticonvulsant	CHEBI
 4721	lomitapide	has role	CHEBI:35821	anticholesteremic drug	CHEBI
 4728	tenidap	has role	CHEBI:35475	non-steroidal anti-inflammatory drug	CHEBI
 4730	tetramethrin	has role	CHEBI:39116	pyrethroid ester insecticide	CHEBI
-4732	thioctic acid	has role	CHEBI:50733	nutraceutical	CHEBI
-4733	thiomersal	has role	CHEBI:24127	fungicide	CHEBI
-4733	thiomersal	has role	CHEBI:48219	disinfectant	CHEBI
+4733	thiomersal	has role	CHEBI:86327	antifungal drug	CHEBI
+4733	thiomersal	has role	CHEBI:48218	antiseptic drug	CHEBI
 4741	bedaquiline	has role	CHEBI:33231	antitubercular agent	CHEBI
 4778	ridaforolimus	has role	CHEBI:35610	antineoplastic agent	CHEBI
-4790	sodium hypochlorite	has role	CHEBI:48219	disinfectant	CHEBI
 4791	masitinib	has role	CHEBI:35610	antineoplastic agent	CHEBI
 4791	masitinib	has role	CHEBI:35842	antirheumatic drug	CHEBI
 4799	vilanterol	has role	CHEBI:35522	beta-adrenergic agonist	CHEBI
@@ -9062,7 +8872,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 2999	pyrantel	PA	D000969	Antinematodal Agents	MeSH
 2338	mepacrine	PA	D000969	Antinematodal Agents	MeSH
 2966	suramin	PA	D000969	Antinematodal Agents	MeSH
-24	buphenyl	PA	D000970	Antineoplastic Agents	MeSH
+24	phenylbutanoic acid	PA	D000970	Antineoplastic Agents	MeSH
 1708	mercaptopurine	PA	D000970	Antineoplastic Agents	MeSH
 2985	acemannan	PA	D000970	Antineoplastic Agents	MeSH
 80	aclarubicin	PA	D000970	Antineoplastic Agents	MeSH
@@ -9119,7 +8929,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 677	clinafloxacin	PA	D000970	Antineoplastic Agents	MeSH
 691	clofarabine	PA	D000970	Antineoplastic Agents	MeSH
 758	cyclophosphamide	PA	D000970	Antineoplastic Agents	MeSH
-766	cyproterone	PA	D000970	Antineoplastic Agents	MeSH
+766	cyproterone acetate	PA	D000970	Antineoplastic Agents	MeSH
 770	cytarabine	PA	D000970	Antineoplastic Agents	MeSH
 4801	dabrafenib	PA	D000970	Antineoplastic Agents	MeSH
 773	dacarbazine	PA	D000970	Antineoplastic Agents	MeSH
@@ -11745,7 +11555,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 797	algestone acetophenide	PA	D003270	Contraceptive Agents	MeSH
 570	ormeloxifene	PA	D003270	Contraceptive Agents	MeSH
 600	chlormadinone	PA	D003270	Contraceptive Agents	MeSH
-766	cyproterone	PA	D003270	Contraceptive Agents	MeSH
+766	cyproterone acetate	PA	D003270	Contraceptive Agents	MeSH
 818	desogestrel	PA	D003270	Contraceptive Agents	MeSH
 871	dienogest	PA	D003270	Contraceptive Agents	MeSH
 904	dimethisterone	PA	D003270	Contraceptive Agents	MeSH
@@ -11797,7 +11607,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3175	elcometrine	PA	D003271	Contraceptive Agents, Female	MeSH
 2538	sulprostone	PA	D003271	Contraceptive Agents, Female	MeSH
 2968	triptorelin	PA	D003271	Contraceptive Agents, Female	MeSH
-766	cyproterone	PA	D003272	Contraceptive Agents, Male	MeSH
+766	cyproterone acetate	PA	D003272	Contraceptive Agents, Male	MeSH
 871	dienogest	PA	D003272	Contraceptive Agents, Male	MeSH
 1328	gossypol	PA	D003272	Contraceptive Agents, Male	MeSH
 1598	lonidamine	PA	D003272	Contraceptive Agents, Male	MeSH
@@ -12779,7 +12589,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 875	diethylstilbestrol	PA	D004968	Estrogens, Non-Steroidal	MeSH
 1368	hexestrol	PA	D004968	Estrogens, Non-Steroidal	MeSH
 2860	zeranol	PA	D004968	Estrogens, Non-Steroidal	MeSH
-4720	tricaprylin	PA	D005079	Excipients	MeSH
 2771	trometamol	PA	D005079	Excipients	MeSH
 3006	aptiganel	PA	D018683	Excitatory Amino Acid Agents	MeSH
 514	caroverine	PA	D018683	Excitatory Amino Acid Agents	MeSH
@@ -13652,7 +13461,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 600	chlormadinone	PA	D006727	Hormone Antagonists	MeSH
 700	clomifene	PA	D006727	Hormone Antagonists	MeSH
 719	clotrimazole	PA	D006727	Hormone Antagonists	MeSH
-766	cyproterone	PA	D006727	Hormone Antagonists	MeSH
+766	cyproterone acetate	PA	D006727	Hormone Antagonists	MeSH
 779	danazol	PA	D006727	Hormone Antagonists	MeSH
 3130	delmadinone acetate	PA	D006727	Hormone Antagonists	MeSH
 871	dienogest	PA	D006727	Hormone Antagonists	MeSH
@@ -13831,7 +13640,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 700	clomifene	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 719	clotrimazole	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 4516	tetracosactide	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
-766	cyproterone	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
+766	cyproterone acetate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 779	danazol	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 3130	delmadinone acetate	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
 818	desogestrel	PA	D006730	Hormones, Hormone Substitutes, and Hormone Antagonists	MeSH
@@ -16096,7 +15905,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 4024	propylene glycol	PA	D010592	Pharmaceutic Aids	MeSH
 2307	propylparaben	PA	D010592	Pharmaceutic Aids	MeSH
 4733	thiomersal	PA	D010592	Pharmaceutic Aids	MeSH
-4720	tricaprylin	PA	D010592	Pharmaceutic Aids	MeSH
 2771	trometamol	PA	D010592	Pharmaceutic Aids	MeSH
 4086	ethanolamine oleate	PA	D019999	Pharmaceutical Solutions	MeSH
 4105	icodextrin	PA	D019999	Pharmaceutical Solutions	MeSH
@@ -16105,7 +15913,6 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 3550	sodium tetradecyl sulfate	PA	D019999	Pharmaceutical Solutions	MeSH
 3591	tetryzoline	PA	D019999	Pharmaceutical Solutions	MeSH
 4024	propylene glycol	PA	D014677	Pharmaceutical Vehicles	MeSH
-4720	tricaprylin	PA	D014677	Pharmaceutical Vehicles	MeSH
 2771	trometamol	PA	D014677	Pharmaceutical Vehicles	MeSH
 201	amrinone	PA	D058987	Phosphodiesterase 3 Inhibitors	MeSH
 644	cilostazol	PA	D058987	Phosphodiesterase 3 Inhibitors	MeSH
@@ -16713,7 +16520,7 @@ DRUG_ID	DRUG_NAME	TYPE	CLASS_SOURCE_ID	CLASS	SOURCE
 600	chlormadinone	PA	D012102	Reproductive Control Agents	MeSH
 700	clomifene	PA	D012102	Reproductive Control Agents	MeSH
 753	cyclofenil	PA	D012102	Reproductive Control Agents	MeSH
-766	cyproterone	PA	D012102	Reproductive Control Agents	MeSH
+766	cyproterone acetate	PA	D012102	Reproductive Control Agents	MeSH
 3126	demoxytocin	PA	D012102	Reproductive Control Agents	MeSH
 818	desogestrel	PA	D012102	Reproductive Control Agents	MeSH
 871	dienogest	PA	D012102	Reproductive Control Agents	MeSH

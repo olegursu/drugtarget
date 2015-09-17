@@ -1,4 +1,23 @@
 DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
+164	aminoglutethimide	Secondary malignant neoplasm of female breast	C0346993	94297009	
+5022	flibanserin	Lack or loss of sexual desire	C0020594	270903007	DOID:13868
+5023	triheptanoin	Glucose transporter protein type 1 deficiency syndrome	C2919264	445252005	
+5024	dibotermin alfa	Degeneration of intervertebral disc	C0158266	77547008	
+5024	dibotermin alfa	Fracture of tibia	C0040185	31978002	
+3327	lonafarnib	Viral hepatitis D	C0011226	707341005	DOID:2047
+5025	sargramostim	Prevention of Neutropenia from Cancer Chemotherapy	C1827687	425229001	
+5026	oprelvekin	Thrombocytopenic Disorder	C0040034	302215000	DOID:1588
+5000	evolocumab	Heterozygous Hypercholesterolemia	C0342882	238079002	
+5000	evolocumab	Homozygous Familial Hypercholesterolemia	C0342881	238078005	
+295	befunolol	Ocular Hypertension	C0028840	4210003	DOID:9282
+295	befunolol	Open Angle Glaucoma	C0017612	84494001	DOID:1067
+5027	rolapitant	Chemotherapy-induced nausea and vomiting	C0401160	236084000	
+2193	pipotiazine palmitate	Schizophrenia	C0036341	58214004	
+1211	flupentixol	Schizophrenia	C0036341	58214004	
+2112	perospirone	Schizophrenia	C0036341	58214004	
+945	domperidone	Nausea and Vomiting	C0027498	16932000	
+516	carfenazine	Chronic Schizophrenia	C0221765	83746006	
+1712	mesoridazine	Schizophrenia	C0036341	58214004	
 1222	fluspirilene	Schizophrenia	C0036341	58214004	
 5016	alirocumab	Hypercholesterolemia	C0020443	13644009	
 5016	alirocumab	Complex dyslipidemia	C3875286	109041000119107	
@@ -114,7 +133,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4164	liraglutide	Weight Loss	C0043096	89362005	
 4157	lercanidipine	Hypertension	C0020538	38341003	DOID:10763
 2655	tibolone	Post-Menopausal Osteoporosis Prevention	C0029458	102447009	
-2655	tibolone	Post-Menopausal Symptoms			
 4924	pembrolizumab	Metastatic Malignant Melanoma	C0860594	443493003	
 2864	zipeprol	Cough	C0010200	49727002	
 4150	rimonabant	Obesity	C0028754	414916001	DOID:9970
@@ -170,7 +188,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2782	tulobuterol	Bronchial Asthma	C0004096	195967001	DOID:2841
 2782	tulobuterol	Pulmonary Emphysema	C0034067	87433001	
 1987	olprinone	Acute heart failure	C0264714	56675007	
-294	beclomethasone dipropionate	Vasomotor Rhinitis	C0035460	8229003	DOID:4730
+294	beclometasone dipropionate	Vasomotor Rhinitis	C0035460	8229003	DOID:4730
 429	bunazosin	Essential hypertension	C0085580	59621000	DOID:10825
 641	cilazapril	Hypertension	C0020538	38341003	DOID:10763
 2760	tripamide	Essential hypertension	C0085580	59621000	DOID:10825
@@ -232,10 +250,10 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4865	mebanazine	Depression	C0011581	35489007	DOID:2848
 3632	methylchromone	Angina	C0002962	194828000	
 4382	mirabegron	Bladder Hyperactivity	C0403643	236633002	
-4857	estrone sulphate	Atrophic Vaginitis associated with Menopause			
-4857	estrone sulphate	Hypoestrogenism Due To Bilateral Oophorectomy			
-3355	methyl nicotinate	Mild Arthritic Pain			
-3627	trichloroacetic acid	External Condylomata Acuminata			
+4857	estrone sulphate	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
+4857	estrone sulphate	Hypoestrogenism Due To Bilateral Oophorectomy	C0271578	16041008	
+3355	methyl nicotinate	Mild Arthritic Pain	C0003862	57676002	
+3627	trichloroacetic acid	External Condylomata Acuminata	C0009663	240542006	DOID:11168
 4866	ceritinib	Anaplastic Lymphoma Kinase Positive Non-Small Cell Lung Cancer	C0007131	254637007	DOID:3908
 2201	piretanide	Edema	C0013604	267038008	
 2201	piretanide	Hypertension	C0020538	38341003	DOID:10763
@@ -257,7 +275,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4835	ethacizine	Supraventricular Arrhythmias	C0428974	72654001	
 4836	afamelanotide	Erythropoietic Protoporphyria	C0162568	51022005	DOID:13270
 4495	aluminium chlorohydrate	Hyperhidrosis	C0020458	312230002	
-4839	aprotinin	Prevention of Perioperative Blood Loss			
+4839	aprotinin	Prevention of Perioperative Blood Loss	C0019080	50960005	
 4840	bemiparin	Pulmonary Embolism	C0034065	59282003	DOID:9477
 4840	bemiparin	Deep Venous Thrombosis	C0149871	128053003	
 4842	calcium glubionate	Hypocalcemia	C0020598	5291005	
@@ -273,7 +291,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4830	empagliflozin	Type 2 Diabetes Mellitus	C0011860	44054006	DOID:9352
 4799	vilanterol	Bronchial Asthma	C0004096	195967001	DOID:2841
 4554	fluticasone furoate	Bronchial Asthma	C0004096	195967001	DOID:2841
-4831	vintafolide	Platinum Resistant Ovarian Carcinoma			
+4831	vintafolide	Platinum Resistant Ovarian Carcinoma	C0346161	254849005	
 971	droxidopa	Symptomatic Neurogenic Orthostatic Hypotension			
 2303	propranolol	Proliferating Infantile Haemangioma			
 4825	laquinimod	Relapsing and Remitting Multiple Sclerosis	C0751967	426373005	DOID:2378
@@ -311,7 +329,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4413	dibromotyrosine	Hyperthyroidism	C0020550	34486009	DOID:7998
 4412	diamorphine	Severe Pain	C0278140	76948002	
 715	clortermine	Anorexia	C0003125	56882008	DOID:8689
-2223	plicamycin	Refractory Malignant Tumor of Testis			
+2223	plicamycin	Refractory Malignant Tumor of Testis	C0153594	363449006	DOID:2998
 4788	mercurochrome	Antiseptic	C0443072	261276004	
 4752	levobetaxolol	Open Angle Glaucoma	C0017612	84494001	DOID:1067
 4752	levobetaxolol	Ocular Hypertension	C0028840	4210003	DOID:9282
@@ -325,7 +343,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4807	riociguat	Chronic Thromboembolic Pulmonary Hypertension	C2363973	233947005	
 4807	riociguat	Pulmonary Hypertensive Arterial Disease	C2973725	11399002	
 4808	ipidacrine	Alzheimer's Disease	C0002395	26929004	DOID:10652
-2703	tolperisone	Muscle Spasm	C0037763	45352006	
+2703	tolperisone	Muscle Spasm	C0026838	221360009	
 4809	macitentan	Pulmonary Hypertensive Arterial Disease	C2973725	11399002	
 2173	pinacidil	Hypertension	C0020538	38341003	DOID:10763
 958	doxifluridine	Primary Malignant Neoplasm of Gastrointestinal Tract	C1306632	363745004	
@@ -372,7 +390,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4794	gramicidin	Bacterial Keratoconjunctivitis			
 4794	gramicidin	Blepharoconjunctivitis	C0005743	68659002	DOID:2456
 4794	gramicidin	Bacterial Keratitis	C0854211	314557000	
-4785	sinecatechins	External Condylomata Acuminata			
+4785	sinecatechins	External Condylomata Acuminata	C0009663	240542006	DOID:11168
 4785	sinecatechins	Perianal Condylomata Acuminata	C0343730	266114001	
 4779	sodium picosulfate	Preparation for Colonoscopy			
 4717	benzylpenicilloyl polylysine	Hypersensitivity Drug Reactions			
@@ -386,7 +404,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4727	tacalcitol	Plaque Psoriasis	C0406317	200965009	
 4723	succinimide	Hyperoxaluria	C0020501	17901006	DOID:2977
 579	ceruletide	Diagnostic Aid for Biliary Tract			
-4797	sodium nitrite	Cyanide Toxicity			
+4797	sodium nitrite	Cyanide Toxicity	C0238080	66207005	
 4790	sodium hypochlorite	Skin and Skin Structure Infection	C0178299	19824006	
 4684	perampanel	Partial Onset Seizure	C0014547	29753000	DOID:2234
 4665	brilliant green	Prevention of Infection in the Umbilical Cord Area of Newborn			
@@ -399,7 +417,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2878	ziconotide	Spinal Pain	C0423673	48926009	
 4184	ticagrelor	Peripheral Vascular Disease	C0085096	400047006	
 4192	tafamidis	Amyloidosis	C0002726	17602002	DOID:9120
-4190	ruxolitinib	Myeloproliferative Disorders			
+4190	ruxolitinib	Myeloproliferative Disorders	C0027022	425333006	DOID:4960
 4188	deferiprone	beta-Thalassemia	C0005283	65959000	DOID:12241
 4188	deferiprone	Iron Overload	C0282193	60737008	
 4799	vilanterol	Chronic Bronchitis	C0008677	63480004	DOID:6132
@@ -413,7 +431,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2960	mifamurtide	Osteosarcoma of Bone	C0585442	307576001	DOID:3347
 4473	prepopik	Preparation for Colonoscopy			
 3391	noxytiolin	Bladder Infection	C0600041	236620008	
-205	amyl nitrite	Cyanide Toxicity			
+205	amyl nitrite	Cyanide Toxicity	C0238080	66207005	
 3229	fumaric acid	Psoriasis	C0033860	9014002	DOID:8893
 1921	nicotinyl alcohol	Meniere's Disease	C0025281	13445001	DOID:9849
 1921	nicotinyl alcohol	Hyperlipidemia	C0020473	55822004	DOID:1168
@@ -422,7 +440,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4677	omacetaxine mepesuccinate	Chronic Myelocytic Leukemia	C0023473	92818009	DOID:8552
 4180	fidaxomicin	Clostridium Infections	C0343386	186431008	
 4148	epicriptine	Senile Dementia	C0011268	15662003	
-4148	epicriptine	Mild to Moderate Alzheimer's Type Dementia			
+4148	epicriptine	Mild to Moderate Alzheimer's Type Dementia	C0002395	26929004	DOID:10652
 3131	delmopinol	Dental Plaque	C0011389	4522001	
 433	bupranolol	Glaucoma	C0017601	23986001	DOID:1686
 433	bupranolol	Hypertension	C0020538	38341003	DOID:10763
@@ -446,7 +464,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1672	melatonin	Sleep Initiation and Maintenance Disorders	C0021603	194437008	
 4745	glycerol phenylbutyrate	Urea Cycle Disorders	C0154246	36444000	DOID:9267
 4745	glycerol phenylbutyrate	Ammonia Scavenger			
-24	buphenyl	Urea Cycle Disorders	C0154246	36444000	DOID:9267
+24	phenylbutanoic acid	Urea Cycle Disorders	C0154246	36444000	DOID:9267
 4746	pomalidomide	Multiple Myeloma	C0026764	109989006	DOID:9538
 4483	carfilzomib	Multiple Myeloma	C0026764	109989006	DOID:9538
 4747	mipomersen	Homozygous Familial Hypercholesterolemia	C0342881	238078005	
@@ -481,7 +499,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 527	cefamandole	Enterobacter Peritonitis	C0341503	197171003	
 527	cefamandole	Proteus Pneumonia	C1260917	195888009	
 556	cefprozil	Bronchitis with Bacterial Exacerbations			
-559	ceftazidime	Pseudomonas Aeruginosa Septicemia			
+559	ceftazidime	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
 550	cefoxitin	Bacterial Septicemia	C0684256	10001005	
 555	cefpodoxime proxetil	Acute Maxillary Moraxella Catarrhalis Sinusitis	C0275556	75498004	
 555	cefpodoxime proxetil	Skin and Skin Structure Infection	C0178299	19824006	
@@ -505,7 +523,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 197	amphotericin B	Aspergillosis	C0004030	65553006	DOID:13564
 197	amphotericin B	Esophageal Candidiasis	C0239295	20639004	DOID:13146
 197	amphotericin B	Yaws	C0043388	70647001	DOID:10371
-257	atorvastatin	Chronic Angina Pectoris			
+257	atorvastatin	Chronic Angina Pectoris	C0002962	194828000	
 242	aripiprazole	Bipolar Disorder in Remission	C0270425	85248005	
 289	barbital	Tetanus Adjunct Treatment			
 279	aztreonam	Infectious Disease of Abdomen	C1112209	128070006	
@@ -595,13 +613,13 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1759	methylclothiazide	Hypertension	C0020538	38341003	DOID:10763
 1747	methocarbamol	Muscle Spasm with Pain			
 1790	metronidazole	Intra-Abdominal Peptococcus Abscess			
-1790	metronidazole	Liver Abscess Amebiasis due to Entamoeba Histolytica			
+1790	metronidazole	Liver Abscess Amebiasis due to Entamoeba Histolytica	C0023886	75119003	
 1790	metronidazole	Skin and Skin Structure Fusobacterium Infection			
 1814	minoxidil	Hypertension	C0020538	38341003	DOID:10763
 1795	mezlocillin	Bacterial Septicemia	C0684256	10001005	
 1797	mibefradil	Hypertension	C0020538	38341003	DOID:10763
 1904	nevirapine	HIV Infection	C0019693	86406008	DOID:526
-1876	nalmefene	Opioid Toxicity			
+1876	nalmefene	Opioid Toxicity	C0412850	241749009	
 1981	ofloxacin	Complicated Proteus UTI			
 1967	norfloxacin	Bronchitis with Bacterial Exacerbations			
 1981	ofloxacin	Pyelonephritis	C0034186	45816000	DOID:11400
@@ -716,7 +734,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 348	betamethasone	Plaque Psoriasis	C0406317	200965009	
 435	bupropion	Nicotine Dependence	C0028043	56294008	DOID:0050742
 1960	norepinephrine	Acute Asthma Attack	C0347950	266364000	
-1962	norethisterone	Hypoestrogenism Due To Bilateral Oophorectomy			
+1962	norethisterone	Hypoestrogenism Due To Bilateral Oophorectomy	C0271578	16041008	
 2041	oxytetracycline	Rocky Mountain Spotted Fever	C0035793	186772009	
 2029	oxycodone	Peptic Ulcer	C0030920	13200003	DOID:750
 1028	epinephrine	Allergic Reactions			
@@ -746,7 +764,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1579	lidocaine	Local Anesthesia for Procedures			
 1533	lactic acid	Cardiac Arrest	C0018790	410429000	
 1688	pecazine	Angioedema	C0002994	41291007	DOID:1558
-1709	meropenem	Pseudomonas Aeruginosa Peritonitis			
+1709	meropenem	Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 1662	medrysone	Acne Rosacea Keratitis	C0035854	398909004	DOID:8881
 1662	medrysone	Post-Op Ocular Inflammation			
 1647	mechlorethamine	Polycythemia Vera	C0032463	109992005	DOID:8432
@@ -760,7 +778,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1738	methapyrilene	Vasomotor Rhinitis	C0035460	8229003	DOID:4730
 1836	montelukast	Asthma Prevention	C1318955	406162001	
 1786	metoprolol	Hypertension	C0020538	38341003	DOID:10763
-1883	naproxen	Mild Arthritic Pain			
+1883	naproxen	Mild Arthritic Pain	C0003862	57676002	
 1981	ofloxacin	Acute Maxillary Moraxella Catarrhalis Sinusitis	C0275556	75498004	
 1981	ofloxacin	Complicated E. Coli UTI	C0577708	301011002	
 1967	norfloxacin	Pseudomonas Aeruginosa Pneumonia	C0155860	41381004	
@@ -794,7 +812,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2835	nicotinic acid	Mineral Deficiency	C0687148	111379007	
 2042	oxytocin	Abortion	C0156543	363681007	
 2146	phenylephrine	Cough	C0010200	49727002	
-2187	piperacillin	Pseudomonas Aeruginosa Peritonitis			
+2187	piperacillin	Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 2187	piperacillin	Proteus Septicemia	C0577690	300986008	
 2187	piperacillin	Acute Gonococcal Endometritis	C0153196	65295003	DOID:7527
 2253	prednisone	Systemic Dermatomyositis			
@@ -842,7 +860,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 198	ampicillin	E. Coli Septicemia	C0276088	9323009	
 198	ampicillin	Biliary Tract Infection	C0008311	82403002	DOID:9446
 210	anastrozole	Hormone Receptor Positive Breast Cancer	C1562029	417181009	
-279	aztreonam	Klebsiella Pneumoniae Bronchitis			
+279	aztreonam	Klebsiella Pneumoniae Bronchitis	C0343402	186435004	
 280	bacampicillin	Acute Lower Genitourinary Gonorrhea	C0018081	15628003	DOID:7551
 276	azithromycin	Streptococcal Tonsillitis	C0275804	41582007	
 304	bendazol	Echinococcus Granulosus Infection of the Lung	C0153290	75388006	
@@ -976,7 +994,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2807	vancomycin	Staphylococcus Epidermidis Skin and Skin Structure Infection			
 2777	trovafloxacin	Haemophilus Influenzae Pneumonia	C0276026	70036007	
 2795	uracil mustard	Non-Hodgkin's Lymphoma	C0024305	118601006	
-2795	uracil mustard	Palliative Treatment of Polycythemia Vera			
+2795	uracil mustard	Palliative Treatment of Polycythemia Vera	C0032463	109992005	DOID:8432
 2774	tropicamide	Perioperative Mydriasis			
 3282	hydroquinone	Facial Hyperpigmentation			
 3135	desonide	Seborrheic Dermatitis	C0036508	50563003	DOID:8741
@@ -1041,7 +1059,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 279	aztreonam	Citrobacter Urinary Tract Infection			
 279	aztreonam	Enterobacter Cloacae Urinary Tract Infection			
 277	azlocillin	Enterobacter Pneumonia			
-342	bepridil	Chronic Angina Pectoris			
+342	bepridil	Chronic Angina Pectoris	C0002962	194828000	
 348	betamethasone	Ocular Disorders	C0015397	371405004	DOID:5614
 334	benzyl alcohol	Administration of Local Anesthesia	C0002921	386761002	
 304	bendazol	Trichinosis	C0040896	88264003	DOID:9784
@@ -1416,7 +1434,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 52	acetaminophen	Muscle Spasm with Pain			
 66	acetylcysteine	General Anesthesia Adjunct	C0002915	50697003	
 74	acetylsalicylic acid	Unstable Angina Pectoris	C0948089	394659003	
-157	amikacin	Pseudomonas Aeruginosa Peritonitis			
+157	amikacin	Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 936	calcium dobesilate	Adrenogenital Disorder	C0701163	267395000	
 936	calcium dobesilate	Exfoliative Dermatitis	C0011606	399992009	
 936	calcium dobesilate	Acquired Thrombocytopenia	C0154301	74576004	DOID:11126
@@ -1603,7 +1621,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1967	norfloxacin	Complicated Peptostreptococcus Peritonitis	C0275550	31860008	
 1967	norfloxacin	Streptococcal Septic Abortion			
 1967	norfloxacin	Pelvic Cellulitis	C0349734	280486004	
-1962	norethisterone	Atrophic Vaginitis associated with Menopause			
+1962	norethisterone	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
 539	cefmetazole	Pneumonia	C0032285	233604007	DOID:552
 535	cefepime	Streptococcal Pneumonia	C0155862	34020007	
 542	cefonicid	Skin and Skin Structure Streptococcus Agalactiae Infection			
@@ -1618,7 +1636,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2514	sulfamethoxazole	Haemophilus Influenzae Chronic Bronchitis			
 2534	sulindac	Ankylosing Spondylitis	C0038013	9631008	DOID:7147
 2553	tadalafil	Pulmonary Hypertension	C0020542	70995007	DOID:6432
-24	buphenyl	Carbamyl Phosphate Synthetase Deficiency			
+24	phenylbutanoic acid	Carbamyl Phosphate Synthetase Deficiency	C0751753	62522004	DOID:9280
 74	acetylsalicylic acid	Fever	C0015967	386661006	
 103	albendazole	Echinococcus Granulosus Infection of the Liver	C0153289	20790006	
 157	amikacin	Bacterial Urinary Tract Infection	C0729524	312124009	
@@ -1719,7 +1737,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1277	ganciclovir	Myocardial Perfusion Imaging Adjunct			
 4631	nitroprusside	Severe Uncontrolled Hypertension	C0745138	443482000	
 66	acetylcysteine	Acetaminophen Toxicity	C0237963	70273001	
-74	acetylsalicylic acid	Muscle Spasm	C0037763	45352006	
+74	acetylsalicylic acid	Muscle Spasm	C0026838	221360009	
 85	aciclovir	Suppression of Recurrent Herpes Simplex Infection			
 105	salbutamol	Acute Asthma Attack	C0347950	266364000	
 102	alatrofloxacin	Female Genital Tract Infection	C1263758	125585007	
@@ -1944,7 +1962,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1971	nortriptyline	Depression	C0011581	35489007	DOID:2848
 1981	ofloxacin	Enterococcus Complicated UTI			
 1967	norfloxacin	Enterococcus Pelvic Cellulitis			
-1999	orphenadrine	Muscle Spasm	C0037763	45352006	
+1999	orphenadrine	Muscle Spasm	C0026838	221360009	
 2013	oxaprozin	Juvenile Rheumatoid Arthritis	C3495559	410795001	
 576	cefradine	E. Coli Urinary Tract Infection	C0577708	301011002	
 576	cefradine	Skin and Skin Structure Streptoccous Pyogenes Infection	C0554628	302809008	
@@ -1977,7 +1995,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1261	fusidic acid	Bacterial Keratoconjunctivitis			
 1261	fusidic acid	Synergy for Staphylococcal Endocarditis			
 1210	fluoxymesterone	Noonan's Syndrome	C0028326	205824006	DOID:3490
-1189	fludarabine	Progressive Chronic Lymphocytic Leukemia			
+1189	fludarabine	Progressive Chronic Lymphocytic Leukemia	C0023434	92814006	
 1164	fentanyl	Local Anesthesia Adjunct	C0002921	386761002	
 1336	guaifenesin	Fever	C0015967	386661006	
 1329	granisetron	Chemotherapy-induced nausea and vomiting	C0401160	236084000	
@@ -2029,7 +2047,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1452	iodamide	CT Scan of Brain	C0202691	408754009	
 1574	levorphanol	Administration of Local Anesthesia	C0002921	386761002	
 2330	pyridostigmine	Myasthenia Gravis	C0026896	91637004	DOID:437
-2392	rivastigmine	Mild to Moderate Alzheimer's Type Dementia			
+2392	rivastigmine	Mild to Moderate Alzheimer's Type Dementia	C0002395	26929004	DOID:10652
 2376	rifabutin	Prevention of Mycobacterium Avium Complex Disease			
 2456	sofalcone	Serum Sickness	C0036830	72284000	
 866	dicloxacillin	Staphylococcal Pneumonia	C0032308	22754005	
@@ -2085,7 +2103,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 3909	clindamycin phosphate	Anaerobic Tubo-Ovarian Abscess			
 3909	clindamycin phosphate	Acne Vulgaris	C0001144	88616000	
 4072	ascorbic acid	Dyschromia	C0151907	3253007	
-3481	podophyllotoxin	External Condylomata Acuminata			
+3481	podophyllotoxin	External Condylomata Acuminata	C0009663	240542006	DOID:11168
 3325	lodoxamide	Vernal Conjunctivitis	C0009773	318316003	DOID:2474
 3601	thiram	Idiopathic Thrombocytopenic Purpura	C0043117	32273002	DOID:8924
 1407	ibuprofen	Rheumatoid Arthritis	C0003873	69896004	DOID:7148
@@ -2422,7 +2440,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1967	norfloxacin	E. Coli Septicemia	C0276088	9323009	
 1967	norfloxacin	Klebsiella Pneumoniae Chronic Bronchitis			
 1981	ofloxacin	Bladder Infection	C0600041	236620008	
-1968	norgestimate	Atrophic Vaginitis associated with Menopause			
+1968	norgestimate	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
 1949	nitrofurantoin	Enterobacter Cystitis			
 2033	oxymetholone	Hypoplastic Anemia	C0178416	41614006	
 563	ceftizoxime	Pneumonia	C0032285	233604007	DOID:552
@@ -2441,7 +2459,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1210	fluoxymesterone	Bilateral Anorchia			
 1316	glycerol	Angina	C0002962	194828000	
 1280	gatifloxacin	Complicated Proteus UTI			
-4348	calcium gluconate	Mild Arthritic Pain			
+4348	calcium gluconate	Mild Arthritic Pain	C0003862	57676002	
 4293	magnesium oxide	Hypocalcemia	C0020598	5291005	
 4523	quinine	Plasmodium Falciparum Malaria	C0024535	62676009	DOID:14067
 1990	omeprazole	Duodenal Ulcer due to H. Pylori			
@@ -2461,7 +2479,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 734	cortisone	Congenital Adrenal Hyperplasia	C0001627	237751000	
 1358	heparin	Hip Surgery Deep Vein Thrombosis Prevention	C2585945	439993001	
 1395	hydroxychloroquine	Plasmodium Falciparum Malaria Prevention			
-1429	imiquimod	External Condylomata Acuminata			
+1429	imiquimod	External Condylomata Acuminata	C0009663	240542006	DOID:11168
 1426	imipenem	Diabetic Foot Infection			
 74	acetylsalicylic acid	Cough	C0010200	49727002	
 150	amcinonide	Contact Dermatitis	C0011616	40275004	DOID:2773
@@ -2493,11 +2511,11 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 183	amlodipine	Hypertension	C0020538	38341003	DOID:10763
 183	amlodipine	Angina Pectoris Prevention			
 198	ampicillin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
-255	atenolol	Chronic Angina Pectoris			
+255	atenolol	Chronic Angina Pectoris	C0002962	194828000	
 260	atropine	Constipation	C0009806	14760008	DOID:2089
 279	aztreonam	Klebsiella Pneumoniae Septicemia			
 2326	pseudoephedrine	Allergic Conjunctivitis	C0009766	473460002	DOID:11204
-2415	salicylamide	Mild Arthritic Pain			
+2415	salicylamide	Mild Arthritic Pain	C0003862	57676002	
 2363	remifentanil	Local Anesthesia Adjunct	C0002921	386761002	
 2456	sofalcone	Adrenocortical Insufficiency	C0405580	386584007	DOID:10493
 916	diphenhydramine	Sneezing	C0037383	76067001	
@@ -2581,7 +2599,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2823	vinblastine	Gestational Trophoblastic Neoplasm	C1135868	609519004	DOID:3590
 2826	vindesine	Pertussis	C0043167	27836007	
 1261	fusidic acid	Actinomycosis	C0001261	11817007	DOID:8478
-1261	fusidic acid	Pseudomonas Aeruginosa Septicemia			
+1261	fusidic acid	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
 1261	fusidic acid	Pseudomonas Aeruginosa Pneumonia	C0155860	41381004	
 1261	fusidic acid	E. Coli Osteomyelitis			
 1208	fluorometholone	Corneal Ulcer	C0010043	91514001	DOID:8463
@@ -2736,7 +2754,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 56	acetazolamide	Absence Epilepsy	C0014553	79631006	DOID:1825
 141	altretamine	Ovarian Carcinoma	C1140680	363443007	DOID:2394
 157	amikacin	Bone Infections	C2242472	111253001	
-183	amlodipine	Chronic Angina Pectoris			
+183	amlodipine	Chronic Angina Pectoris	C0002962	194828000	
 725	codeine	Rhinitis	C0035455	70076002	DOID:4483
 734	cortisone	Pseudomonas Aeruginosa Otitis Externa	C0395818	232230009	
 734	cortisone	Proctitis	C0033246	3951002	DOID:3127
@@ -3195,7 +3213,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4405	colesevelam	Hypercholesterolemia	C0020443	13644009	
 4347	benzathine benzylpenicillin	Erysipelas	C0014733	44653001	DOID:11330
 4288	magnesium carbonate	Calcium Phosphate Renal Calculi			
-968	drospirenone	Atrophic Vaginitis associated with Menopause			
+968	drospirenone	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
 924	dipyridamole	Myocardial Perfusion Imaging Adjunct			
 939	docetaxel	Locally Advanced Breast Carcinoma			
 939	docetaxel	Non-Small Cell Lung Cancer	C0007131	254637007	DOID:3908
@@ -3251,7 +3269,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2815	verapamil	Hypertension	C0020538	38341003	DOID:10763
 2815	verapamil	Prinzmetal Angina	C0002963	87343002	
 2777	trovafloxacin	Enterococcus Postpartum Infection			
-2777	trovafloxacin	Complicated Pseudomonas Aeruginosa Peritonitis			
+2777	trovafloxacin	Complicated Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 2794	unoprostone isopropyl	Open Angle Glaucoma	C0017612	84494001	DOID:1067
 88	adefovir dipivoxil	Chronic Type B Viral Hepatitis	C0524909	61977001	
 157	amikacin	Complicated Urinary Tract Infections			
@@ -3340,10 +3358,10 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4392	cisplatin	Diphtheria Prevention			
 4392	cisplatin	Acute Streptococcus Pneumoniae Bacterial Sinusitis	C0275556	75498004	
 4383	calcium lactate	Hypocalcemia Prevention	C0020598	5291005	
-614	chlorphenesin carbamate	Muscle Spasm	C0037763	45352006	
+614	chlorphenesin carbamate	Muscle Spasm	C0026838	221360009	
 659	ciprofloxacin	Bladder Infection	C0600041	236620008	
 659	ciprofloxacin	Haemophilus Parainfluenzae Pneumonia			
-659	ciprofloxacin	Complicated Pseudomonas Aeruginosa Peritonitis			
+659	ciprofloxacin	Complicated Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 659	ciprofloxacin	Pseudomonas Aeruginosa Otitis Externa	C0395818	232230009	
 633	ciclesonide	Bronchial Asthma	C0004096	195967001	DOID:2841
 678	clindamycin	Staphylococcus Aureus Osteomyelitis	C1997728	428783003	
@@ -3513,7 +3531,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 232	aprobarbital	Severe Anxiety	C0231403	80583007	
 260	atropine	Pain	C0030193	22253000	
 289	barbital	Status Epilepticus	C0038220	230456007	DOID:1824
-279	aztreonam	Pseudomonas Aeruginosa Septicemia			
+279	aztreonam	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
 2239	pravastatin	Myocardial Infarction Prevention			
 2284	promazine	Pruritus of Skin	C0033774	418363000	
 2286	promethazine	Atopic Rhinitis	C2607914	61582004	
@@ -3585,7 +3603,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4411	dexchlorpheniramine	Urticaria	C0042109	126485001	
 4456	hydrocortisone succinate	Tendonitis	C0039503	34840004	DOID:971
 1821	mitoxantrone	Acute Myeloid Leukemia	C0023467	91861009	DOID:9119
-1786	metoprolol	Chronic Angina Pectoris			
+1786	metoprolol	Chronic Angina Pectoris	C0002962	194828000	
 1981	ofloxacin	Morganella Morganii Urinary Tract Infection			
 1981	ofloxacin	Staphylococcus Cystitis			
 1967	norfloxacin	Moraxella Catarrhalis Pneumonia			
@@ -3767,8 +3785,8 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2656	ticarcillin	Complicated Urinary Tract Infections			
 2684	tobramycin	Bacterial Conjunctivitis	C0009768	128350005	DOID:9700
 2638	thiotepa	Non-Hodgkin's Lymphoma	C0024305	118601006	
-2656	ticarcillin	Pseudomonas Aeruginosa Septicemia			
-2684	tobramycin	Pseudomonas Aeruginosa Septicemia			
+2656	ticarcillin	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
+2684	tobramycin	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
 2684	tobramycin	Klebsiella Pneumoniae Osteomyelitis			
 2633	thiopental	Narcoanalysis	C1281603	302683009	
 1059	estradiol cypionate	Vasomotor Symptoms associated with Menopause	C0600142	198436008	
@@ -3882,7 +3900,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1765	naltrexone	Opioid-Induced Constipation	C0267511	21782001	
 1768	methylprednisolone	Plaque Psoriasis	C0406317	200965009	
 1751	methotrexate	Gestational Trophoblastic Neoplasm	C1135868	609519004	DOID:3590
-1747	methocarbamol	Muscle Spasm	C0037763	45352006	
+1747	methocarbamol	Muscle Spasm	C0026838	221360009	
 1738	methapyrilene	Urticaria	C0042109	126485001	
 1790	metronidazole	Acute Intestinal Amebiasis due to Entamoeba Histolytica	C0152499	39224005	
 1790	metronidazole	Bacteroides Liver Abscess			
@@ -4218,7 +4236,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 334	benzyl alcohol	Minor Skin Wound Pain			
 348	betamethasone	Status Asthmaticus	C0038218	57546000	DOID:9362
 1037	eprosartan	Hypertension	C0020538	38341003	DOID:10763
-1057	estradiol	Atrophic Vaginitis associated with Menopause			
+1057	estradiol	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
 1048	erythromycin	Rectal Chlamydia Trachomatis Infection			
 1051	erythromycin ethyl succinate	Biliary Tract Infection	C0008311	82403002	DOID:9446
 1055	esomeprazole	Rheumatoid Arthritis in Patient at High Ulcer Risk			
@@ -4559,7 +4577,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4284	silicon dioxide	Dyspepsia	C0013395	162031009	DOID:2321
 1920	nicotine	Nicotine Dependence	C0028043	56294008	DOID:0050742
 1920	nicotine	Nicotine Withdrawal Symptoms			
-1878	naloxone	Opioid Toxicity			
+1878	naloxone	Opioid Toxicity	C0412850	241749009	
 1883	naproxen	Dysmenorrhea	C0013390	266599000	
 1857	mupirocin	Methicillin-Resistant Staphylococcus Aureus Nasal Colonization			
 1981	ofloxacin	Skin and Skin Structure Providencia Infection			
@@ -4570,11 +4588,11 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4127	serine	Enterobacter Cloacae Urinary Tract Infection			
 1402	hyoscyamine	Gastrointestinal Radiography Adjunct			
 1433	indapamide	Hypertension	C0020538	38341003	DOID:10763
-4603	cobalamin	Cyanide Toxicity			
+4603	cobalamin	Cyanide Toxicity	C0238080	66207005	
 4520	potassium hydrogencarbonate	Heartburn	C0018834	16331000	
 4520	potassium hydrogencarbonate	Gastroesophageal Reflux	C0017168	235595009	DOID:8534
 4631	nitroprusside	Hypertension	C0020538	38341003	DOID:10763
-24	buphenyl	Ornithine Carbamyltransferase Deficiency			
+24	phenylbutanoic acid	Ornithine Carbamyltransferase Deficiency			
 74	acetylsalicylic acid	Myalgia	C0231528	68962001	
 74	acetylsalicylic acid	Allergic Conjunctivitis	C0009766	473460002	DOID:11204
 922	dipivefrine	Open Angle Glaucoma	C0017612	84494001	DOID:1067
@@ -4584,7 +4602,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1057	estradiol	Atrophic Urethritis	C0520577	52620003	
 1048	erythromycin	Pneumococcal Pharyngitis	C0275761	76651006	
 1051	erythromycin ethyl succinate	Bacterial Septicemia	C0684256	10001005	
-1112	etoposide	Refractory Malignant Tumor of Testis			
+1112	etoposide	Refractory Malignant Tumor of Testis	C0153594	363449006	DOID:2998
 1124	exifone	Crohn's Disease	C0010346	34000006	
 3601	thiram	Acquired Thrombocytopenia	C0154301	74576004	DOID:11126
 3601	thiram	Atopic Dermatitis	C0011615	24079001	DOID:3310
@@ -4620,7 +4638,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4265	gentamicin	Synergy for Group B Streptococcal Septicemia			
 4265	gentamicin	Skin and Skin Structure Klebsiella Infection	C0035468	72409005	DOID:11336
 4266	phenol	Skin Irritation	C0152030	367466007	
-1722	metaxalone	Muscle Spasm	C0037763	45352006	
+1722	metaxalone	Muscle Spasm	C0026838	221360009	
 1612	lovastatin	Mixed Hyperlipidemia	C0020474	267434003	DOID:13809
 268	azatadine	Anaphylaxis Adjunct			
 279	aztreonam	E. Coli Endometritis			
@@ -4652,7 +4670,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 546	cefotaxime	Serratia Pneumonia			
 1399	hydroxycarbamide	Chronic Myelocytic Leukemia	C0023473	92818009	DOID:8552
 1395	hydroxychloroquine	Systemic Lupus Erythematosus	C0024141	55464009	DOID:9074
-1506	isosorbide mononitrate	Chronic Angina Pectoris			
+1506	isosorbide mononitrate	Chronic Angina Pectoris	C0002962	194828000	
 1501	isosorbide	Acute Angina Pectoris	C0002962	194828000	
 1497	isoniazid	Acute Tuberculosis	C0275959	25629007	
 1404	ibandronic acid	Post-Menopausal Osteoporosis Prevention	C0029458	102447009	
@@ -4802,7 +4820,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 260	atropine	Reversal of Neuromuscular Blockade	C0412773	241703000	
 289	barbital	General Anesthesia Adjunct	C0002915	50697003	
 289	barbital	Lennox-Gastaut Epilepsy	C0238111	230418006	
-279	aztreonam	Pseudomonas Aeruginosa Peritonitis			
+279	aztreonam	Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 280	bacampicillin	Urinary Tract Infections	C0042029	68566005	
 277	azlocillin	Urinary Tract Infections	C0042029	68566005	
 1046	ertapenem	Complicated Bacterial Peritonitis			
@@ -4879,7 +4897,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1574	levorphanol	General Anesthesia Adjunct	C0002915	50697003	
 40	acebutolol	Ventricular Premature Beats	C0151636	17338001	
 157	amikacin	Infectious Disease of Abdomen	C1112209	128070006	
-157	amikacin	Pseudomonas Aeruginosa Septicemia			
+157	amikacin	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
 192	amoxicillin	Haemophilus Influenzae Chronic Bronchitis			
 192	amoxicillin	Pneumococcal Acute Otitis Media			
 192	amoxicillin	Haemophilus Parainfluenzae Pneumonia			
@@ -4945,7 +4963,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 936	calcium dobesilate	Systemic Lupus Erythematosus	C0024141	55464009	DOID:9074
 1813	minocycline	Psittacosis	C0029291	75116005	DOID:11262
 1786	metoprolol	Myocardial Reinfarction Prevention			
-1865	nadolol	Chronic Angina Pectoris			
+1865	nadolol	Chronic Angina Pectoris	C0002962	194828000	
 1967	norfloxacin	Complicated Proteus UTI			
 1981	ofloxacin	Escherichia Coli Pneumonia	C0276089	51530003	
 463	caffeine	Cluster Headache	C0009088	193031009	
@@ -5086,7 +5104,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4266	phenol	Mouth Irritation			
 593	chlorcyclizine	Allergic Rhinitis	C2607914	61582004	
 581	cetirizine	Chronic Idiopathic Urticaria	C0578870	302162004	
-613	chlorphenesin	Muscle Spasm	C0037763	45352006	
+613	chlorphenesin	Muscle Spasm	C0026838	221360009	
 616	chlorphenamine	Dermatographic Urticaria	C0343065	7632005	DOID:743
 632	cyclacillin	Bronchitis	C0006277	32398004	DOID:6132
 678	clindamycin	Clostridium Perfringens Gas Gangrene	C0343500	266093005	
@@ -5168,7 +5186,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 667	cladribine	Hairy Cell Leukemia	C0023443	118613001	DOID:285
 704	clonidine	Increased Intraocular Pressure after Ocular Procedure			
 725	codeine	Rhinorrhea	C1260880	64531003	
-2551	tacrine	Mild to Moderate Alzheimer's Type Dementia			
+2551	tacrine	Mild to Moderate Alzheimer's Type Dementia	C0002395	26929004	DOID:10652
 2514	sulfamethoxazole	Nocardiosis	C0028242	29227009	DOID:2312
 2611	tetracycline	Genitourinary Chlamydia Trachomatis Infection	C1997322	428015005	
 2592	tenofovir	HIV Infection	C0019693	86406008	DOID:526
@@ -5307,7 +5325,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4200	magnesium chloride	Hypomagnesemia	C0151723	190855004	
 4201	calcium chloride	Hypermagnesemia	C0151714	66978005	
 4174	rilpivirine	HIV Infection	C0019693	86406008	DOID:526
-4176	abiraterone	Metastatic Castration-Resistant Prostate Cancer			
+4176	abiraterone acetate	Metastatic Castration-Resistant Prostate Cancer			
 4265	gentamicin	Citrobacter Pneumonia			
 4246	Polymyxin B	Otitis Externa	C0029878	3135009	DOID:9463
 4247	neomycin	Hepatic Coma	C0019147	72836002	DOID:12550
@@ -5422,7 +5440,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1967	norfloxacin	Urinary Tract Infections	C0042029	68566005	
 1967	norfloxacin	Skin and Skin Structure Klebsiella Infection	C0035468	72409005	DOID:11336
 439	secbutabarbital	Insomnia	C0917801	193462001	
-463	caffeine	Mild Arthritic Pain			
+463	caffeine	Mild Arthritic Pain	C0003862	57676002	
 470	camphor	Back Pain	C0004604	161891005	
 494	pentoxyverine	Vasomotor Rhinitis	C0035460	8229003	DOID:4730
 492	carbenicillin	Urinary Tract Infections	C0042029	68566005	
@@ -6006,7 +6024,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 279	aztreonam	Aerobic Gram-Negative Bacteremia			
 2152	phenytoin	Epilepsy	C0014544	84757009	DOID:1826
 2152	phenytoin	Bipolar Disorder in Remission	C0270425	85248005	
-2187	piperacillin	Pseudomonas Aeruginosa Septicemia			
+2187	piperacillin	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
 2303	propranolol	Myocardial Reinfarction Prevention			
 2303	propranolol	Life-Threatening Ventricular Tachycardia			
 2284	promazine	Sneezing	C0037383	76067001	
@@ -6089,7 +6107,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2661	tigecycline	Complicated Skin and Skin Structure Streptococcus Pyogenes Infection			
 2684	tobramycin	Enterobacter Osteomyelitis			
 2684	tobramycin	Synergy for P. Aeruginosa Infection in Cystic Fibrosis			
-2683	tizanidine	Muscle Spasm	C0037763	45352006	
+2683	tizanidine	Muscle Spasm	C0026838	221360009	
 2727	triamcinolone diacetate	Angioedema	C0002994	41291007	DOID:1558
 2745	trihexyphenidyl	Arteriosclerotic Parkinsonism			
 2727	triamcinolone diacetate	Cerebral Edema	C0006114	2032001	DOID:4724
@@ -6142,7 +6160,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 564	ceftriaxone	Gram-Negative Aerobic Bacillary Pneumonia			
 562	ceftibuten	Bronchitis with Bacterial Exacerbations			
 2271	procaine	Syphilis	C0039128	76272004	
-2279	progesterone	Atrophic Vaginitis associated with Menopause			
+2279	progesterone	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
 2271	procaine	Pneumococcal Pneumonia	C0155862	233607000	
 2326	pseudoephedrine	Flu-Like Symptoms	C0392171	315642008	
 2377	rifampicin	Meningococcus Carrier	C0421162	170486006	
@@ -6537,7 +6555,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 678	clindamycin	Staphylococcal Pneumonia	C0032308	22754005	
 678	clindamycin	Anaerobic Pelvic Cellulitis			
 669	clavulanic acid	Staphylococcus Aureus Joint Infection			
-669	clavulanic acid	Pseudomonas Aeruginosa Septicemia			
+669	clavulanic acid	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
 666	citric acid	Dyspepsia	C0013395	162031009	DOID:2321
 711	clorazepate	Partial Epilepsy Treatment Adjunct			
 708	clopidogrel	Acute Coronary Syndrome	C0948089	394659003	
@@ -6575,7 +6593,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1388	hydrocortisone	Serum Sickness	C0036830	72284000	
 1388	hydrocortisone	Hodgkin's Lymphoma	C0019829	118599009	DOID:8567
 1388	hydrocortisone	Proteus Mirabilis Otitis Externa	C0021355	86981007	DOID:9463
-1505	isosorbide dinitrate	Chronic Angina Pectoris			
+1505	isosorbide dinitrate	Chronic Angina Pectoris	C0002962	194828000	
 1519	kanamycin	Urinary Tract Infections	C0042029	68566005	
 1527	ketoconazole	Paracoccidioidomycosis	C0030409	59925007	DOID:12662
 1527	ketoconazole	Disseminated Candidiasis	C0153252	70572005	
@@ -6603,7 +6621,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 349	betamethasone acetate	Severe Adrenal Insufficiency	C0151467	24867002	
 349	betamethasone acetate	Erythroblastic Anemia			
 348	betamethasone	Mycosis Fungoides	C0026948	118618005	DOID:8691
-463	caffeine	Muscle Spasm	C0037763	45352006	
+463	caffeine	Muscle Spasm	C0026838	221360009	
 956	doxepin	Insomnia	C0917801	193462001	
 942	dofetilide	Prevention of Recurrent Atrial Fibrillation	C0004238	49436004	
 966	droperidol	Post-Operative Nausea and Vomiting			
@@ -6710,7 +6728,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1790	metronidazole	Peptococcus Endometritis			
 1795	mezlocillin	Genitourinary Tract Infections			
 1854	moxifloxacin	Moraxella Catarrhalis Chronic Bronchitis			
-294	beclomethasone dipropionate	Rhinitis	C0035455	70076002	DOID:4483
+294	beclometasone dipropionate	Rhinitis	C0035455	70076002	DOID:4483
 333	benzatropine	Idiopathic Parkinsonism	C0030567	49049000	DOID:14330
 349	betamethasone acetate	Laryngeal Edema	C0023052	51599000	
 349	betamethasone acetate	Status Asthmaticus	C0038218	57546000	DOID:9362
@@ -6722,7 +6740,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2456	sofalcone	Multiple Sclerosis	C0026769	24700007	DOID:2377
 886	dihydrocodeine	Nasal Congestion	C0027424	68235000	
 867	dicoumarol	Thrombotic Disorder	C0040053	439127006	
-946	donepezil	Mild to Moderate Alzheimer's Type Dementia			
+946	donepezil	Mild to Moderate Alzheimer's Type Dementia	C0002395	26929004	DOID:10652
 960	doxorubicin	Small Cell Lung Carcinoma	C0149925	254632001	DOID:5409
 960	doxorubicin	Acute Lymphoid Leukemia	C0023449	91857003	DOID:9952
 941	docusate sodium	Iron Deficiency Anemia	C0162316	87522002	
@@ -6826,7 +6844,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 824	dexamethasone	Non-infectious Posterior Uveitis			
 830	dexbrompheniramine	Cold Symptoms	C0009443	82272006	DOID:10459
 842	dextromethorphan	Rhinorrhea	C1260880	64531003	
-852	diazepam	Muscle Spasm	C0037763	45352006	
+852	diazepam	Muscle Spasm	C0026838	221360009	
 3097	choline	Pain	C0030193	22253000	
 2989	calcitonin (salmon synthetic)	Paget's Disease of Bone	C0029401	2089002	DOID:5408
 3070	articaine	Administration of Local Anesthesia by Infiltration	C0198813	44596000	
@@ -6887,13 +6905,13 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2823	vinblastine	Non-Hodgkin's Lymphoma	C0024305	118601006	
 2834	riboflavin	Vitamin Deficiency Prevention			
 2825	vincristine	Neuroblastoma	C0027819	432328008	DOID:769
-1059	estradiol cypionate	Hypoestrogenism Due To Bilateral Oophorectomy			
+1059	estradiol cypionate	Hypoestrogenism Due To Bilateral Oophorectomy	C0271578	16041008	
 1261	fusidic acid	Recrudescent Typhus	C0006181	47761007	DOID:11254
 1261	fusidic acid	Synergy for Bacterial Meningitis			
 1261	fusidic acid	Klebsiella Complicated UTI			
 1225	fluticasone propionate	Pruritus Ani	C0033775	90446007	
 1240	fosamprenavir	HIV Infection	C0019693	86406008	DOID:526
-1261	fusidic acid	Pseudomonas Aeruginosa Peritonitis			
+1261	fusidic acid	Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 4491	ferrous gluconate	Iron Deficiency Anemia	C0162316	87522002	
 4493	alclometasone dipropionate	Granuloma Annulare	C0085074	65508009	DOID:3777
 4459	procaine benzylpenicillin	Upper Respiratory Pneumococcal Infection			
@@ -6939,7 +6957,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1124	exifone	Organ Transplant Rejection	C0345468	213148006	
 4240	zinc oxide	Diaper Rash	C0011974	91487003	DOID:2770
 4198	sodium chloride	Nasal Congestion	C0027424	68235000	
-4265	gentamicin	Pseudomonas Aeruginosa Septicemia			
+4265	gentamicin	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
 4265	gentamicin	Synergy for Neonatal Meningitis			
 4265	gentamicin	Peritonitis	C0031154	48661000	
 4265	gentamicin	Neonatal Meningitis	C0456107	276674008	
@@ -6997,7 +7015,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4624	phenylacetic acid	Hyperammonemia	C0220994	9360008	
 4512	lithium citrate	Bipolar Disorder in Remission	C0270425	85248005	
 4517	magnesium aspartate	Hypokalemia Prevention			
-4518	sodium thiosulfate	Cyanide Toxicity			
+4518	sodium thiosulfate	Cyanide Toxicity	C0238080	66207005	
 1845	morphine	Postoperative Pain from Lower Extremity Orthopedic Procedures			
 1782	metoclopramide	Chemotherapy-induced nausea and vomiting	C0401160	236084000	
 1883	naproxen	Fever	C0015967	386661006	
@@ -7060,7 +7078,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 694	clofibrate	Hyperlipidemia	C0020473	55822004	DOID:1168
 734	cortisone	Adrenogenital Disorder	C0701163	267395000	
 734	cortisone	Ankylosing Spondylitis	C0038013	9631008	DOID:7147
-751	cyclobenzaprine	Muscle Spasm	C0037763	45352006	
+751	cyclobenzaprine	Muscle Spasm	C0026838	221360009	
 758	cyclophosphamide	Diphtheria Prevention			
 765	cyproheptadine	Allergic Rhinitis	C2607914	61582004	
 769	cysteine	Respiratory Cystic Fibrosis	C0392164	86555001	
@@ -7356,7 +7374,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4357	anidulafungin	Esophageal Candidiasis	C0239295	20639004	DOID:13146
 4454	testosterone cypionate	Cryptorchidism	C0010417	204878001	DOID:11383
 4307	sennosides	Constipation	C0009806	14760008	DOID:2089
-4309	hydroxocobalamin	Cyanide Toxicity			
+4309	hydroxocobalamin	Cyanide Toxicity	C0238080	66207005	
 4647	fluorometholone acetate	Corneal Abrasion	C0010032	85848002	
 1981	ofloxacin	Gram-Negative Aerobic Bacillary Pneumonia			
 1981	ofloxacin	Proteus Prostatitis			
@@ -7506,7 +7524,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2725	triamcinolone	Cutaneous Candidiasis	C0006846	49883006	
 2725	triamcinolone	Pruritus Ani	C0033775	90446007	
 2725	triamcinolone	Primary Adrenocortical Insufficiency	C0001403	373662000	DOID:13774
-1064	estradiol valerate	Hypoestrogenism Due To Bilateral Oophorectomy			
+1064	estradiol valerate	Hypoestrogenism Due To Bilateral Oophorectomy	C0271578	16041008	
 1261	fusidic acid	Skin and Skin Structure Enterobacter Infection			
 1261	fusidic acid	Citrobacter Pneumonia			
 1264	gabapentin	Restless Legs Syndrome	C0035258	32914008	DOID:0050425
@@ -7515,7 +7533,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4347	benzathine benzylpenicillin	Streptococcal Pneumonia	C0155862	34020007	
 4288	magnesium carbonate	Hiatal Hernia with Reflux Esophagitis			
 4309	hydroxocobalamin	Prevention of Vitamin B12 Deficiency			
-4510	magnesium salicylate	Mild Arthritic Pain			
+4510	magnesium salicylate	Mild Arthritic Pain	C0003862	57676002	
 4548	flumetasone	Lichen Simplex Chronicus	C0149922	53891004	
 824	dexamethasone	Contact Dermatitis	C0011616	40275004	DOID:2773
 819	desoximetasone	Scalp Psoriasis	C0406326	238608008	
@@ -7539,7 +7557,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1286	gemifloxacin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
 1280	gatifloxacin	Staphylococcus Aureus Skin and Skin Structure Infection	C1318973	406602003	
 1379	homatropine	Constipation	C0009806	14760008	DOID:2089
-52	acetaminophen	Mild Arthritic Pain			
+52	acetaminophen	Mild Arthritic Pain	C0003862	57676002	
 66	acetylcysteine	Respiratory Cystic Fibrosis	C0392164	86555001	
 74	acetylsalicylic acid	Slow Progression of Coronary Artery Disease			
 74	acetylsalicylic acid	Nasal Congestion	C0027424	68235000	
@@ -7588,7 +7606,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 281	bacitracin	Blepharoconjunctivitis	C0005743	68659002	DOID:2456
 279	aztreonam	E. Coli Septicemia	C0276088	9323009	
 279	aztreonam	Skin and Skin Structure Citrobacter Infection			
-294	beclomethasone dipropionate	Nasal Polyp	C0027430	52756005	
+294	beclometasone dipropionate	Nasal Polyp	C0027430	52756005	
 384	bitolterol	Bronchial Asthma	C0004096	195967001	DOID:2841
 348	betamethasone	Acute Lymphoid Leukemia	C0023449	91857003	DOID:9952
 349	betamethasone acetate	Trichinosis	C0040896	88264003	DOID:9784
@@ -7614,7 +7632,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 489	carbamazepine	Manic Bipolar Disorder	C0338873	191618007	
 489	carbamazepine	Bipolar Disorder in Remission	C0270425	85248005	
 546	cefotaxime	Enterobacter Pneumonia			
-535	cefepime	Complicated Pseudomonas Aeruginosa Peritonitis			
+535	cefepime	Complicated Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 527	cefamandole	Klebsiella Pneumonia	C0343402	186435004	
 1191	fludrocortisone acetate	Primary Adrenocortical Insufficiency	C0001403	373662000	DOID:13774
 1280	gatifloxacin	Acute Gonococcal Cervicitis	C0153195	20943002	DOID:10615
@@ -7724,7 +7742,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1813	minocycline	Acute Gonococcal Urethritis	C0275652	29864006	
 1872	naftifine	Tinea Pedis	C0040259	6020002	DOID:12403
 1868	nafarelin	Endometriosis	C0014175	129103003	DOID:289
-294	beclomethasone dipropionate	Bronchial Asthma	C0004096	195967001	DOID:2841
+294	beclometasone dipropionate	Bronchial Asthma	C0004096	195967001	DOID:2841
 349	betamethasone acetate	Mycosis Fungoides	C0026948	118618005	DOID:8691
 349	betamethasone acetate	Tendonitis	C0039503	34840004	DOID:971
 349	betamethasone acetate	Erythema Multiforme	C0014742	36715001	
@@ -7760,7 +7778,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 563	ceftizoxime	Staphylococcus Aureus Septicemia	C2887088	448417001	
 2492	sulbactam	Skin and Skin Structure Bacteroides Fragilis Infection			
 124	allopurinol	Chemotherapy-Induced Hyperuricemia			
-124	allopurinol	Urate Renal Calculi			
+124	allopurinol	Urate Renal Calculi	C0558595	274401005	
 192	amoxicillin	Enterococcus Genitourinary Tract Infection			
 184	amobarbital	Local Anesthesia Adjunct	C0002921	386761002	
 198	ampicillin	Pneumococcal Meningitis	C0025295	51169003	
@@ -7932,7 +7950,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 550	cefoxitin	E. Coli Pelvic Inflammatory Disease			
 547	cefotetan	Klebsiella Pneumoniae Peritonitis			
 2525	sulfasalazine	Ulcerative Colitis	C0009324	64766004	DOID:8577
-2466	sparfloxacin	Klebsiella Pneumoniae Bronchitis			
+2466	sparfloxacin	Klebsiella Pneumoniae Bronchitis	C0343402	186435004	
 2611	tetracycline	Superficial Ocular Infection			
 2597	terbinafine	Tinea Capitis	C0040250	5441008	
 2725	triamcinolone	Post Traumatic Osteoarthritis	C2894027	699262001	
@@ -8015,7 +8033,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2187	piperacillin	Skin and Skin Structure Klebsiella Infection	C0035468	72409005	DOID:11336
 2253	prednisone	Psoriasis	C0033860	9014002	DOID:8893
 2253	prednisone	Multiple Sclerosis	C0026769	24700007	DOID:2377
-2303	propranolol	Chronic Angina Pectoris			
+2303	propranolol	Chronic Angina Pectoris	C0002962	194828000	
 2271	procaine	Erysipeloid	C1276801	400105005	
 2271	procaine	Diphtheria	C0012546	397428000	
 2271	procaine	Streptococcal Pneumonia	C0155862	34020007	
@@ -8043,7 +8061,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2392	rivastigmine	Dementia associated with Parkinson's Disease	C1828079	425390006	
 2403	ropivacaine	Regional Anesthesia for Labor Pain			
 2387	risedronic acid	Osteoporosis	C0029456	64859006	DOID:11476
-2342	quinestrol	Atrophic Vaginitis associated with Menopause			
+2342	quinestrol	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
 2456	sofalcone	Synovitis due to Osteoarthritis			
 2445	simvastatin	Prevention of Cerebrovascular Accident			
 2445	simvastatin	Arteriosclerotic Vascular Disease	C0003850	72092001	DOID:2349
@@ -8281,7 +8299,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1967	norfloxacin	Complicated Skin and Skin Structure E. Coli Infection			
 1949	nitrofurantoin	Enterococcus Urinary Tract Infection			
 2033	oxymetholone	Congenital Hypoplastic Anemia	C1260899	88854002	DOID:1339
-3944	etoposide phosphate	Refractory Malignant Tumor of Testis			
+3944	etoposide phosphate	Refractory Malignant Tumor of Testis	C0153594	363449006	DOID:2998
 1316	glycerol	Corneal Edema	C0010037	27194006	DOID:11030
 1316	glycerol	Rectal Pain	C0034886	77880009	
 1379	homatropine	Bowel Evacuation	C0426639	249515001	
@@ -8463,7 +8481,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 466	calcitriol	Hypophosphatemia	C0085682	4996001	
 499	carbinoxamine	Cold Symptoms	C0009443	82272006	DOID:10459
 513	levocarnitine	Carnitine Deficiency	C1142132	421784001	
-509	carisoprodol	Muscle Spasm	C0037763	45352006	
+509	carisoprodol	Muscle Spasm	C0026838	221360009	
 2245	prednisolone	Polymyalgia Rheumatica	C0032533	65323003	DOID:853
 2245	prednisolone	Bacterial Conjunctivitis	C0009768	128350005	DOID:9700
 2243	prednicarbate	Seborrheic Dermatitis	C0036508	50563003	DOID:8741
@@ -8627,7 +8645,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1045	erlotinib	Pancreatic Adenocarcinoma	C0281361	700423003	DOID:4074
 1046	ertapenem	Moraxella Catarrhalis Pneumonia			
 1125	ezetimibe	Heterozygous Hypercholesterolemia	C0342882	238079002	
-1082	ethinylestradiol	Atrophic Vaginitis associated with Menopause			
+1082	ethinylestradiol	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
 1124	exifone	Psoriasis	C0033860	9014002	DOID:8893
 1079	etebenecid	Iridocyclitis	C0022073	77971008	DOID:1407
 1079	etebenecid	Superficial Ocular Infection			
@@ -8762,7 +8780,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2758	trimipramine	Depression	C0011581	35489007	DOID:2848
 2726	triamcinolone acetonide	Systemic Lupus Erythematosus	C0024141	55464009	DOID:9074
 2767	troglitazone	Type 2 Diabetes Mellitus	C0011860	44054006	DOID:9352
-2770	trolnitrate	Muscle Spasm	C0037763	45352006	
+2770	trolnitrate	Muscle Spasm	C0026838	221360009	
 1064	estradiol valerate	Metastatic Prostate Carcinoma			
 1261	fusidic acid	Lymphogranuloma Venereum	C0024286	186946009	DOID:13819
 1219	flurbiprofen	Rheumatoid Arthritis	C0003873	69896004	DOID:7148
@@ -8850,7 +8868,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 936	calcium dobesilate	Skin Rash	C0015230	271807003	
 988	edrophonium	Neuromuscular Block due to Nondepolarizing Drug			
 1013	enoxacin	Urinary Tract Infections	C0042029	68566005	
-1057	estradiol	Hypoestrogenism Due To Bilateral Oophorectomy			
+1057	estradiol	Hypoestrogenism Due To Bilateral Oophorectomy	C0271578	16041008	
 1048	erythromycin	Pharyngitis due to Streptococcus Pyogenes	C0554628	302809008	
 4213	hydrocortisone acetate	Adrenogenital Disorder	C0701163	267395000	
 4198	sodium chloride	Dry Nose	C0231919	42201002	
@@ -8861,7 +8879,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4142	sulfadiazine silver	Burn Wound Infections			
 1768	methylprednisolone	Progressive Diffuse Large B-Cell Lymphoma			
 1764	methylergometrine	Postpartum Hemorrhage	C0032797	47821001	
-1728	methadone	Opioid Withdrawal Symptoms			
+1728	methadone	Opioid Withdrawal Symptoms	C0029104	87132004	
 1845	morphine	Pain	C0030193	22253000	
 1790	metronidazole	Acne Rosacea	C0035854	398909004	DOID:8881
 1790	metronidazole	Brain Abscess	C0006105	441806004	
@@ -9037,7 +9055,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1967	norfloxacin	Acute Gonococcal Cervicitis	C0153195	20943002	DOID:10615
 1967	norfloxacin	Complicated Urinary Tract Infections			
 1949	nitrofurantoin	Staphylococcus Aureus Urinary Tract Infection			
-626	chlorzoxazone	Muscle Spasm	C0037763	45352006	
+626	chlorzoxazone	Muscle Spasm	C0026838	221360009	
 678	clindamycin	Bone Infections	C2242472	111253001	
 704	clonidine	Attention Deficit Hyperactivity Disorder	C1263846	406506008	
 1402	hyoscyamine	Sialorrhea	C0037036	53827007	
@@ -9090,7 +9108,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 819	desoximetasone	Allergic Dermatitis	C0011615	24079001	DOID:3310
 830	dexbrompheniramine	Sneezing	C0037383	76067001	
 912	dinoprost	Incomplete Abortion	C0000810	156072005	
-870	dienestrol	Atrophic Vaginitis associated with Menopause			
+870	dienestrol	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
 1967	norfloxacin	Prevotella Postpartum Infection			
 1967	norfloxacin	Complicated Bacterial Peritonitis			
 520	carteolol	Ocular Hypertension	C0028840	4210003	DOID:9282
@@ -9626,13 +9644,13 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1277	ganciclovir	Cytomegalovirus Retinitis	C0206178	22455005	
 1358	heparin	Prevention of Ischemic Complications of Non-Q Wave MI			
 4592	magnesium lactate	Constipation	C0009806	14760008	DOID:2089
-52	acetaminophen	Muscle Spasm	C0037763	45352006	
+52	acetaminophen	Muscle Spasm	C0026838	221360009	
 2187	piperacillin	Bacteroides Septicemia	C0276064	79587009	
 2187	piperacillin	Bacteroides Joint Infection			
 2188	piperazine	Ascariasis	C0003950	2435008	DOID:456
 2245	prednisolone	Cerebral Edema	C0006114	2032001	DOID:4724
 2245	prednisolone	Severe Ocular Inflammation			
-780	dantrolene	Muscle Spasm	C0037763	45352006	
+780	dantrolene	Muscle Spasm	C0026838	221360009	
 780	dantrolene	Muscle Spasticity of Spinal Origin	C1562430	416830008	
 824	dexamethasone	Multiple Sclerosis	C0026769	24700007	DOID:2377
 824	dexamethasone	Bursitis	C0006444	84017003	DOID:2965
@@ -9699,7 +9717,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2661	tigecycline	Streptococcal Pneumonia	C0155862	34020007	
 2661	tigecycline	Complicated Skin and Skin Structure Enterococcus Faecalis Infection			
 4219	sodium phosphate	Autoimmune Disease	C0004364	85828009	
-4265	gentamicin	Pseudomonas Aeruginosa Peritonitis			
+4265	gentamicin	Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 4253	macrogol	Constipation	C0009806	14760008	DOID:2089
 4476	ammonium lactate	Pruritus of Skin	C0033774	418363000	
 1813	minocycline	Q Fever	C0034362	186788009	DOID:11100
@@ -9742,7 +9760,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1912	niclosamide	Diphyllobothrium Infections			
 1854	moxifloxacin	Streptococcal Pneumonia	C0155862	34020007	
 1981	ofloxacin	Diarrhea due to E. Coli			
-1981	ofloxacin	Complicated Pseudomonas Aeruginosa Peritonitis			
+1981	ofloxacin	Complicated Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 1967	norfloxacin	Skin and Skin Structure Infection	C0178299	19824006	
 1967	norfloxacin	Morganella Morganii Urinary Tract Infection			
 1967	norfloxacin	Acute Gonococcal Urethritis	C0275652	29864006	
@@ -9860,7 +9878,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2684	tobramycin	Staphylococcal Pneumonia	C0032308	22754005	
 2646	levothyroxine	Goiter	C0018021	3716002	DOID:12176
 2684	tobramycin	Providencia Complicated UTI			
-2671	tinidazole	Liver Abscess Amebiasis due to Entamoeba Histolytica			
+2671	tinidazole	Liver Abscess Amebiasis due to Entamoeba Histolytica	C0023886	75119003	
 2763	triprolidine	Allergic Conjunctivitis	C0009766	473460002	DOID:11204
 2727	triamcinolone diacetate	Rheumatoid Arthritis	C0003873	69896004	DOID:7148
 2727	triamcinolone diacetate	Juvenile Rheumatoid Arthritis	C3495559	410795001	
@@ -9879,7 +9897,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4526	aluminum carbonate	Dyspepsia	C0013395	162031009	DOID:2321
 854	diazoxide	Hypertensive Emergencies			
 859	cinchocaine	Minor Skin Wound Pain			
-897	diltiazem	Chronic Angina Pectoris			
+897	diltiazem	Chronic Angina Pectoris	C0002962	194828000	
 901	dimenhydrinate	Vertigo	C0042571	399153001	
 965	drostanolone propionate	Herpes Zoster Keratitis	C1275687	397573005	
 961	doxycycline	Bronchitis	C0006277	32398004	DOID:6132
@@ -9896,7 +9914,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1358	heparin	Prevention of Cardiac Ischemia in Unstable Angina			
 1375	histamine	Desensitization to Allergens	C0162352	182678001	
 1490	isocarboxazid	Major Depressive Disorder	C1269683	370143000	
-24	buphenyl	Citrullinemia	C0175683	398680004	DOID:9273
+24	phenylbutanoic acid	Citrullinemia	C0175683	398680004	DOID:9273
 52	acetaminophen	Toothache	C0040460	27355003	
 74	acetylsalicylic acid	Cold Symptoms	C0009443	82272006	DOID:10459
 74	acetylsalicylic acid	Sneezing	C0037383	76067001	
@@ -9989,7 +10007,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1967	norfloxacin	Acute Lower Genitourinary Gonorrhea	C0018081	15628003	DOID:7551
 1977	nystatin	Cutaneous Candidiasis	C0006846	49883006	
 1981	ofloxacin	Moraxella Catarrhalis Pneumonia			
-1967	norfloxacin	Complicated Pseudomonas Aeruginosa Peritonitis			
+1967	norfloxacin	Complicated Pseudomonas Aeruginosa Peritonitis	C0276075	11218009	
 1981	ofloxacin	Chlamydia Trachomatis Urethritis	C1278807	179101003	
 1952	glyceryl trinitrate	Perioperative Hypertension	C3661921	434711000124103	
 556	cefprozil	Streptococcus Pneumoniae Chronic Bronchitis			
@@ -10064,7 +10082,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1738	methapyrilene	Rhinorrhea	C1260880	64531003	
 1813	minocycline	Urinary Tract Infections	C0042029	68566005	
 1805	mifepristone	Abortion	C0156543	363681007	
-1802	midazolam	Sedation in Pediatric Patients			
+1802	midazolam	Sedation in Pediatric Patients	C0344106	72641008	
 1782	metoclopramide	Gastrointestinal Radiography Adjunct			
 1782	metoclopramide	Prevention of Post-Operative Nausea and Vomiting			
 279	aztreonam	Klebsiella Pneumonia	C0343402	186435004	
@@ -10275,7 +10293,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1392	hydroflumethiazide	Edema	C0013604	267038008	
 1388	hydrocortisone	Gingival Disorders			
 1388	hydrocortisone	Ulcerative Colitis	C0009324	64766004	DOID:8577
-1501	isosorbide	Chronic Angina Pectoris			
+1501	isosorbide	Chronic Angina Pectoris	C0002962	194828000	
 1452	iodamide	Diagnostic Radiography	C1962945	363680008	
 197	amphotericin B	Gingivostomatitis	C0149704	20607006	
 260	atropine	Gastrointestinal Radiography Adjunct			
@@ -10401,13 +10419,13 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1990	omeprazole	Gastroesophageal Reflux	C0017168	235595009	DOID:8534
 2120	phenazopyridine	Urinary Tract Irritation			
 2129	phenindamine	Sneezing	C0037383	76067001	
-629	cianidanol	External Condylomata Acuminata			
+629	cianidanol	External Condylomata Acuminata	C0009663	240542006	DOID:11168
 678	clindamycin	Anaerobic Endometritis			
 4606	clocortolone pivalate	Skin Rash	C0015230	271807003	
 734	cortisone	Autoimmune Disease	C0004364	85828009	
 734	cortisone	Skin Inflammation	C0011603	182782007	DOID:2723
 2835	nicotinic acid	Hyperlipidemia	C0020473	55822004	DOID:1168
-2815	verapamil	Chronic Angina Pectoris			
+2815	verapamil	Chronic Angina Pectoris	C0002962	194828000	
 2826	vindesine	Syphilis	C0039128	76272004	
 3050	butacaine	Urinary Urge Incontinence	C0150045	87557004	
 82	acrivastine	Cold Symptoms	C0009443	82272006	DOID:10459
@@ -10437,7 +10455,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 224	antazoline	Allergic Rhinitis	C2607914	61582004	
 279	aztreonam	Lower Respiratory Infections	C0149725	50417007	
 276	azithromycin	Skin and Skin Structure Streptococcus Agalactiae Infection			
-294	beclomethasone dipropionate	Allergic Rhinitis	C2607914	61582004	
+294	beclometasone dipropionate	Allergic Rhinitis	C2607914	61582004	
 348	betamethasone	Thyroiditis	C0040147	82119001	DOID:7166
 348	betamethasone	Non-Hodgkin's Lymphoma	C0024305	118601006	
 2253	prednisone	Gouty Arthritis	C0003868	48440001	DOID:13189
@@ -10474,7 +10492,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2402	ropinirole	Restless Legs Syndrome	C0035258	32914008	DOID:0050425
 2406	rosuvastatin	Hypertriglyceridemia	C0020557	302870006	
 2384	rimexolone	Post-Op Ocular Inflammation			
-2359	ranolazine	Chronic Angina Pectoris			
+2359	ranolazine	Chronic Angina Pectoris	C0002962	194828000	
 1024	ephedrine	Rhinitis	C0035455	70076002	DOID:4483
 1024	ephedrine	Nasal Congestion	C0027424	68235000	
 974	dyclonine	Mouth Irritation			
@@ -10554,7 +10572,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2726	triamcinolone acetonide	Discoid Lupus Erythematosus	C0024138	200938002	
 2770	trolnitrate	Toothache	C0040460	27355003	
 2770	trolnitrate	Headache Disorder	C0393735	230461009	
-2770	trolnitrate	Mild Arthritic Pain			
+2770	trolnitrate	Mild Arthritic Pain	C0003862	57676002	
 2769	troleandomycin	Pneumococcal Pneumonia	C0155862	233607000	
 2826	vindesine	Rheumatic Fever Prevention			
 1342	guanethidine	Hypertension	C0020538	38341003	DOID:10763
@@ -10568,7 +10586,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2271	procaine	Regional Anesthesia for Surgery			
 2331	mepyramine	Cough	C0010200	49727002	
 780	dantrolene	Malignant Hyperthermia Prevention			
-774	dactinomycin	Refractory Malignant Tumor of Testis			
+774	dactinomycin	Refractory Malignant Tumor of Testis	C0153594	363449006	DOID:2998
 824	dexamethasone	Uveitis	C0042164	128473001	DOID:13141
 824	dexamethasone	Diffuse Large B-Cell Lymphoma	C0079744	109969005	
 824	dexamethasone	Anterior Uveitis	C0042165	410692006	DOID:1407
@@ -10655,7 +10673,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1967	norfloxacin	Proteus Prostatitis			
 1967	norfloxacin	Complicated E. Coli Peritonitis			
 1967	norfloxacin	Skin and Skin Structure Citrobacter Infection			
-1922	nifedipine	Chronic Angina Pectoris			
+1922	nifedipine	Chronic Angina Pectoris	C0002962	194828000	
 1963	norethindrone acetate	Acne Vulgaris	C0001144	88616000	
 2006	oxacillin	Staphylococcus Infections	C0038160	56038003	
 2836	pyridoxine	Tuberculosis Prevention			
@@ -10700,7 +10718,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1569	levofloxacin	Proteus Urinary Tract Infection	C0577709	301012009	
 1569	levofloxacin	Haemophilus Influenzae Pneumonia	C0276026	70036007	
 1714	mestranol	Female Hypogonadism	C0271578	16041008	
-1659	medroxyprogesterone	Atrophic Vaginitis associated with Menopause			
+1659	medroxyprogesterone	Atrophic Vaginitis associated with Menopause	C0221392	52441000	DOID:11968
 1649	meclozine	Motion Sickness	C0026603	37031009	DOID:2951
 4433	calcium glucoheptonate	Cardiac Arrest	C0018790	410429000	
 4456	hydrocortisone succinate	Systemic Dermatomyositis			
@@ -10709,7 +10727,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1585	liothyronine	Diagnostic Test for Thyroid Dysfunction			
 1606	lorazepam	Panic Disorder	C0030319	371631005	DOID:594
 1751	methotrexate	Osteosarcoma of Bone	C0585442	307576001	DOID:3347
-4519	potassium citrate	Urate Renal Calculi			
+4519	potassium citrate	Urate Renal Calculi	C0558595	274401005	
 4554	fluticasone furoate	Chronic Non-Allergic Rhinitis			
 1225	fluticasone propionate	Allergic Dermatitis	C0011615	24079001	DOID:3310
 1790	metronidazole	Intra-Abdominal Abscess	C0243001	75100008	
@@ -10966,7 +10984,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1261	fusidic acid	Synergy for Citrobacter Meningitis			
 1236	fondaparinux	Deep Vein Thrombosis Prevention	C2585945	439993001	
 1261	fusidic acid	Staphylococcus Aureus Skin and Skin Structure Infection	C1318973	406602003	
-1272	galantamine	Mild to Moderate Alzheimer's Type Dementia			
+1272	galantamine	Mild to Moderate Alzheimer's Type Dementia	C0002395	26929004	DOID:10652
 2095	pentobarbital	Severe Anxiety	C0231403	80583007	
 2083	phenoxymethylpenicillin	Scarlet Fever	C0036285	30242009	DOID:8596
 2083	phenoxymethylpenicillin	Skin and Skin Structure Infection	C0178299	19824006	
@@ -10975,7 +10993,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 725	codeine	Allergic Rhinitis	C2607914	61582004	
 722	clozapine	Suicidal Behavior in Schizophrenia			
 734	cortisone	Cyclitis	C0010543	17657000	
-758	cyclophosphamide	Progressive Chronic Lymphocytic Leukemia			
+758	cyclophosphamide	Progressive Chronic Lymphocytic Leukemia	C0023434	92814006	
 758	cyclophosphamide	Neuroblastoma	C0027819	432328008	DOID:769
 2777	trovafloxacin	Bacteroides Septic Abortion			
 2798	valaciclovir	Herpes Genitalis	C0019342	33839006	DOID:8704
@@ -11014,7 +11032,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1569	levofloxacin	Moraxella Catarrhalis Pneumonia			
 1533	lactic acid	Allergic Dermatitis	C0011615	24079001	DOID:3310
 2271	procaine	Life-Threatening Ventricular Tachycardia			
-2328	pyrazinamide	Tuberculosis Meningitis			
+2328	pyrazinamide	Tuberculosis Meningitis	C0041318	58437007	
 2406	rosuvastatin	Primary Dysbetalipoproteinemia	C0020479	398796005	DOID:3145
 2456	sofalcone	Dacryocystitis	C0010930	85777005	DOID:9938
 2456	sofalcone	Uveitis	C0042164	128473001	DOID:13141
@@ -11172,7 +11190,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1817	misoprostol	Prevention of CMV Disease After Organ Transplant			
 1790	metronidazole	Colorectal Perioperative Infection			
 1800	miconazole	Oropharyngeal Candidiasis			
-1797	mibefradil	Chronic Angina Pectoris			
+1797	mibefradil	Chronic Angina Pectoris	C0002962	194828000	
 563	ceftizoxime	E. Coli Septicemia	C0276088	9323009	
 564	ceftriaxone	H. Influenzae Meningitis			
 564	ceftriaxone	Acute Otitis Media Infection	C0729586	312218008	
@@ -11199,7 +11217,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1967	norfloxacin	Enterococcus Postpartum Infection			
 1967	norfloxacin	Bacteroides Septic Abortion			
 1967	norfloxacin	Chronic Tubotympanic Suppurative Otitis Media	C0155440	87665008	DOID:14435
-1967	norfloxacin	Klebsiella Pneumoniae Bronchitis			
+1967	norfloxacin	Klebsiella Pneumoniae Bronchitis	C0343402	186435004	
 1952	glyceryl trinitrate	Unstable Angina Pectoris	C0948089	394659003	
 1932	nilotinib	Chronic Phase Chronic Myeloid Leukemia	C0023474	413847001	
 659	ciprofloxacin	Pseudomonas Aeruginosa Osteomyelitis			
@@ -11225,7 +11243,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1523	ketamine	Administration of General Anesthesia			
 1452	iodamide	Peripheral Arteriography			
 58	acetohydroxamic acid	Urinary Tract Infections	C0042029	68566005	
-74	acetylsalicylic acid	Mild Arthritic Pain			
+74	acetylsalicylic acid	Mild Arthritic Pain	C0003862	57676002	
 74	acetylsalicylic acid	Arthritic Pain			
 102	alatrofloxacin	Chlamydia Trachomatis Pelvic Inflammatory Disease	C0520777	188463006	
 102	alatrofloxacin	Staphylococcus Aureus Bronchitis			
@@ -11257,7 +11275,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 279	aztreonam	Proteus Pneumonia	C1260917	195888009	
 280	bacampicillin	Acute Otitis Media Infection	C0729586	312218008	
 276	azithromycin	Acute exacerbation of chronic bronchitis	C0856695	425748003	
-294	beclomethasone dipropionate	Asthma Prevention	C1318955	406162001	
+294	beclometasone dipropionate	Asthma Prevention	C1318955	406162001	
 348	betamethasone	Tenosynovitis	C0039520	67801009	DOID:970
 348	betamethasone	Genital Organ Pruritus	C0033777	267802000	
 2146	phenylephrine	Cycloplegia	C0235238	68158006	DOID:10033
@@ -11894,7 +11912,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 845	glucose	Acute Lower Genitourinary Gonorrhea	C0018081	15628003	DOID:7551
 566	cefuroxime axetil	Acute Lower Genitourinary Gonorrhea	C0018081	15628003	DOID:7551
 566	cefuroxime axetil	Lyme Disease	C0024198	23502006	DOID:11729
-4663	benzoin	External Condylomata Acuminata			
+4663	benzoin	External Condylomata Acuminata	C0009663	240542006	DOID:11168
 1076	ethanol	HIV Infection	C0019693	86406008	DOID:526
 731	colistimethate sodium	Enterobacter Infection			
 731	colistimethate sodium	Pseudomonas Aeruginosa Infections			
@@ -11907,7 +11925,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 845	glucose	Providencia Septicemia			
 845	glucose	Proteus Septicemia	C0577690	300986008	
 845	glucose	Klebsiella Pneumoniae Septicemia			
-845	glucose	Pseudomonas Aeruginosa Septicemia			
+845	glucose	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
 845	glucose	E. Coli Septicemia	C0276088	9323009	
 845	glucose	Haemophilus Septicemia			
 845	glucose	Enterobacter Septicemia	C3163829	449082003	
@@ -12054,7 +12072,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4909	alemtuzumab	Relapsing remitting multiple sclerosis	C0751967	426373005	DOID:2378
 1873	naftopidil	Benign Prostatic Hypertrophy	C1739363	266569009	DOID:2883
 2796	urapidil	Hypertensive emergency	C0745136	132721000119104	
-2799	valdecoxib	Postoperative Acute Pain	C2215257		
+2799	valdecoxib	Postoperative Acute Pain	C2215257	107401000119105	
 4910	felypressin	Local Anesthesia Adjunct	C0002921	386761002	
 50	aceprometazine	Insomnia	C0917801	193462001	
 2750	trimetazidine	Angina	C0002962	194828000	
@@ -12260,3 +12278,17 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 5011	aldesleukin	Acute Myeloid Leukemia	C0023467	91861009	DOID:9119
 5011	aldesleukin	Metastatic renal cell carcinoma	C0278678	702392008	
 5011	aldesleukin	Metastatic Malignant Melanoma	C0860594	443493003	
+2202	piribedil	Parkinsonism	C0242422	32798002	DOID:13548
+2775	tropisetron	Chemotherapy-induced nausea and vomiting	C0401160	236084000	
+5028	sebelipase alfa	Wolman's disease	C0043208	82500001	DOID:14497
+5029	uridine triacetate	Hereditary orotic aciduria	C0220987	16242007	
+5030	alglucosidase alfa	Lysosomal alpha-1,4-glucosidase deficiency - infantile onset	C0342751	237968007	DOID:2752
+5031	mogamulizumab	Peripheral T-cell Lymphoma	C0079774	109977009	
+4168	lurasidone	Depression associated with Manic Depressive Disorder	C0005587	191627008	DOID:3312
+4731	thiocolchicoside	Muscle Spasm	C0026838	221360009	
+5033	hyaluronidase	Subcutaneous clysis of patient for fluid administration	C0204837	113154008	
+5034	protamine sulfate	Heparin overdose	C0573789	296926001	
+5032	menadiol sodium diphosphate	Obstructive Hyperbilirubinemia	C0022354	59848001	DOID:13603
+5032	menadiol sodium diphosphate	Hemorrhage	C0019080	50960005	
+5035	ergoloid mesylates	Dementia	C0497327	52448006	
+5036	sodium phosphate (32P)	Polycythemia Vera	C0032463	109992005	DOID:8432
