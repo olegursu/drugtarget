@@ -39,3 +39,13 @@ TYPE            |type according to source: FDA - Mechanism of Action (MOA), Phys
 CLASS_SOURCE_ID |class identifier provided by source
 CLASS           |pharmacologic class
 SOURCE          |source of classification: MeSH http://www.nlm.nih.gov/mesh/pa_abt.html, FDA http://www.fda.gov/ForIndustry/DataStandards/StructuredProductLabeling/ucm162549.htm, and CHEBI https://www.ebi.ac.uk/chebi/
+
+###LINCS Mappings
+
+**Field**       |**Description**
+----------------|----------------------------------------------------
+SMILES          |SMILES code for LINCS compounds
+DRUG_ID         |unique identifier assigned to each active ingredient
+SM_LINCS_ID     |LINCS compound id
+DRUG_NAME       |WHO INN name assigned to active ingredient, where available http://www.who.int/medicines/services/inn/en/
+
