@@ -776,7 +776,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 824	dexamethasone	Branch Retinal Vein Occlusion with Macular Edema	C0339507	232048009	
 839	dexrazoxane	Extravasation Injury from Anthracycline Injection			
 863	dichlorophen	Narrow Angle Glaucoma	C0017605	392291006	DOID:13550
-845	glucose	Hypocalcemic Tetany	C0151940	190869004	
 961	doxycycline	Skin and Skin Structure Infection	C0178299	19824006	
 962	doxylamine	Cough	C0010200	49727002	
 962	doxylamine	Sinus Headache	C0037195	4969004	
@@ -1308,8 +1307,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 819	desoximetasone	Genital Organ Pruritus	C0033777	267802000	
 838	dexpanthenol	Disorder of Skin	C0037274	95320005	DOID:37
 830	dexbrompheniramine	Dermatographic Urticaria	C0343065	7632005	DOID:743
-845	glucose	Hypokalemia	C0020621	43339004	
-845	glucose	Hypermagnesemia	C0151714	66978005	
 916	diphenhydramine	Allergic Conjunctivitis	C0009766	473460002	DOID:11204
 916	diphenhydramine	Vasomotor Rhinitis	C0035460	8229003	DOID:4730
 960	doxorubicin	Hodgkin's Lymphoma	C0019829	118599009	DOID:8567
@@ -2698,8 +2695,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 802	demeclocycline	Chancroid	C0007947	266143009	DOID:13778
 824	dexamethasone	Punctate Keratitis	C0259799	42513006	DOID:12197
 824	dexamethasone	Tenosynovitis	C0039520	67801009	DOID:970
-845	glucose	Hypokalemia Prevention			
-845	glucose	Hypocalcemia	C0020598	5291005	
 2868	zoledronic acid	Osteoporosis	C0029456	64859006	DOID:11476
 3909	clindamycin phosphate	Skin and Skin Structure Streptoccous Pyogenes Infection	C0554628	302809008	
 3909	clindamycin phosphate	Bone Infections	C2242472	111253001	
@@ -3461,7 +3456,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 842	dextromethorphan	Vasomotor Rhinitis	C0035460	8229003	DOID:4730
 852	diazepam	Anxiety	C0003467	48694002	
 852	diazepam	Preoperative Anxiety			
-845	glucose	Disorder of Electrolytes	C1704431	237840007	
 916	diphenhydramine	Vertigo	C0042571	399153001	
 888	dihydroergotamine	Vascular Headache	C0042376	128187005	
 2840	colecalciferol	Rickets	C0035579	41345002	DOID:10609
@@ -3888,7 +3882,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2456	sofalcone	Pruritus Ani	C0033775	90446007	
 2456	sofalcone	Discoid Lupus Erythematosus	C0024138	200938002	
 852	diazepam	Acute Repetitive Seizures	C0014544	84757009	DOID:1826
-845	glucose	Juvenile Rheumatoid Arthritis	C3495559	410795001	
 886	dihydrocodeine	Cold Symptoms	C0009443	82272006	DOID:10459
 867	dicoumarol	Myocardial Infarction	C0027051	22298006	DOID:5844
 961	doxycycline	Cholera	C0008354	63650001	DOID:1498
@@ -4541,7 +4534,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1358	heparin	Disseminated Intravascular Coagulation	C0012739	67406007	DOID:11247
 2456	sofalcone	Adrenogenital Disorder	C0701163	267395000	DOID:0050811
 2456	sofalcone	Disorder of Musculoskeletal System	C0026857	928000	DOID:17
-845	glucose	Hypocalcemia Prevention	C0020598	5291005	
 965	drostanolone propionate	Post-Op Ocular Inflammation			
 962	doxylamine	Insomnia	C0917801	193462001	
 962	doxylamine	Cold Symptoms	C0009443	82272006	DOID:10459
@@ -5122,7 +5114,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 824	dexamethasone	Transfusion Reaction Urticaria			
 839	dexrazoxane	Doxorubicin Induced Cardiomyopathy			
 865	diclofenac	Post-Op Ocular Inflammation			
-845	glucose	Cardiac Arrest	C0018790	410429000	DOID:0060319
 4072	ascorbic acid	Iron Deficiency Anemia	C0162316	87522002	
 546	cefotaxime	Staphylococcus Pelvic Inflammatory Disease			
 535	cefepime	Bacterial Pneumonia	C0004626	53084003	DOID:874
@@ -5586,7 +5577,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2424	scopolamine	Irritable Bowel Syndrome	C0022104	10743008	DOID:9778
 842	dextromethorphan	Cold Symptoms	C0009443	82272006	DOID:10459
 852	diazepam	Alcohol Withdrawal Syndrome	C0236663	191480000	
-845	glucose	Hyperkalemia	C0020461	14140009	
 3185	esaprazole	Pathological Gastric Hypersecretory Condition			
 3185	esaprazole	Manic Bipolar Disorder	C0338873	191618007	
 3017	benzalkonium	Minor Skin Wound Pain			
@@ -6521,7 +6511,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 817	desmopressin	Von Willebrand's Disease	C0042974	128105004	DOID:12531
 802	demeclocycline	Gingivostomatitis	C0149704	20607006	
 786	daunorubicin	Acute Monocytic Leukemia	C0023465	413442004	DOID:8864
-845	glucose	Rheumatoid Arthritis	C0003873	69896004	DOID:7148
 846	dextrothyroxine	Hyperlipidemia	C0020473	55822004	DOID:1168
 3333	meclocycline	Urinary Tract Infections	C0042029	68566005	
 3333	meclocycline	Actinomycosis	C0001261	11817007	DOID:8478
@@ -8860,7 +8849,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2271	procaine	Upper Respiratory Pneumococcal Infection			
 2276	procyclidine	Postencephalitic Parkinsonism	C0030568	19972008	DOID:14332
 2320	protriptyline	Depression	C0011581	35489007	DOID:2848
-845	glucose	Neonatal Apnea	C0232058	13094009	
 916	diphenhydramine	Allergic Reactions			
 867	dicoumarol	Cerebral Thromboembolism Prevention	C0007780	75543006	DOID:4372
 960	doxorubicin	Neuroblastoma	C0027819	432328008	DOID:769
@@ -11461,10 +11449,8 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4804	palifermin	Prevention of Radiation Therapy-Induced Mucositis			
 4804	palifermin	Prevention of Chemotherapy-Induced Mucositis	C1274988	403666006	
 2512	sulfamethizole	Bacterial Urinary Tract Infection	C0729524	312124009	
-845	glucose	Bacterial Urinary Tract Infection	C0729524	312124009	
 566	cefuroxime axetil	Bacterial Urinary Tract Infection	C0729524	312124009	
 347	betaine	Bacterial Urinary Tract Infection	C0729524	312124009	
-845	glucose	Bacterial Meningitis	C0085437	95883001	DOID:9470
 4742	bleomycin	Diffuse Large B-Cell Lymphoma	C0079744	109969005	
 4742	bleomycin	Follicular B-Cell Non-Hodgkin's Lymphoma	C0024301	308121000	
 3097	choline	COPD Associated with Chronic Bronchitis			
@@ -11474,7 +11460,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2836	pyridoxine	Mineral Deficiency	C0687148	111379007	
 1921	nicotinyl alcohol	Pellagra	C0030783	418186002	DOID:8457
 4790	sodium hypochlorite	Skin Disinfection	C0204802	38883000	
-845	glucose	Maintain Patency of Indwelling Vascular Catheter			
 4250	algeldrate	Thrombosis Prevention after Percutaneous Coronary Intervention	C1532338	415070008	
 4198	sodium chloride	Thrombosis Prevention after Percutaneous Coronary Intervention	C1532338	415070008	
 2836	pyridoxine	Drug-Induced Pyridoxine Deficiency			
@@ -11503,7 +11488,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 792	deferoxamine	Chronic Iron Overload			
 4289	doconexent	Lactating Mother	C1623040	413712001	
 4289	doconexent	Pregnancy	C0032961	289908002	
-845	glucose	Prevention of Perioperative Infection			
 1860	mycophenolic acid	Prevention of Cardiac Transplant Rejection			
 1860	mycophenolic acid	Prevention of Liver Transplant Rejection			
 3152	dimethicone	Unknown Oral Substance Toxicity			
@@ -11551,14 +11535,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4072	ascorbic acid	Post-Menopausal Osteoporosis Prevention	C0029458	102447009	
 4277	iron	Osteoporosis	C0029456	64859006	DOID:11476
 4072	ascorbic acid	Osteoporosis	C0029456	64859006	DOID:11476
-845	glucose	Bone Infections	C2242472	111253001	
-845	glucose	Haemophilus Osteomyelitis			
-845	glucose	Enterobacter Osteomyelitis			
-845	glucose	E. Coli Osteomyelitis			
-845	glucose	Staphylococcus Aureus Osteomyelitis	C1997728	428783003	
-845	glucose	Streptococcus Osteomyelitis			
-845	glucose	Proteus Mirabilis Osteomyelitis			
-845	glucose	Klebsiella Pneumoniae Osteomyelitis			
 4250	algeldrate	Osteoarthritis	C0029408	396275006	DOID:381
 4207	lithium carbonate	Osteoarthritis	C0029408	396275006	DOID:381
 3851	dexibuprofen	Osteoarthritis	C0029408	396275006	DOID:381
@@ -11569,16 +11545,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4250	algeldrate	Rheumatoid Arthritis	C0003873	69896004	DOID:7148
 4207	lithium carbonate	Rheumatoid Arthritis	C0003873	69896004	DOID:7148
 3851	dexibuprofen	Rheumatoid Arthritis	C0003873	69896004	DOID:7148
-845	glucose	Infectious Disorder of Joint	C0157749	363162000	DOID:381
-845	glucose	Proteus Joint Infection			
-845	glucose	E. Coli Joint Infection			
-845	glucose	Streptococcal Joint Infection			
-845	glucose	EnterobacterJoint Infection			
-845	glucose	Klebsiella Joint Infection			
-845	glucose	Staphylococcus Aureus Joint Infection			
-845	glucose	Haemophilus Septic Arthritis			
-845	glucose	E. Coli Septic Arthritis			
-845	glucose	Septic Arthritis	C1692886	48245008	
 354	betamethasone valerate	Dermatosis of the Scalp	C0036271	402694007	DOID:3136
 4236	octinoxate	Chloasma	C0025218	36209000	
 3159	dioxybenzone	Chloasma	C0025218	36209000	
@@ -11620,61 +11586,33 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4264	carbamide	Seborrheic Dermatitis	C0036508	50563003	DOID:8741
 354	betamethasone valerate	Seborrheic Dermatitis	C0036508	50563003	DOID:8741
 351	betamethasone benzoate	Seborrheic Dermatitis	C0036508	50563003	DOID:8741
-845	glucose	Skin and Skin Structure Morganella Morganii Infection			
-845	glucose	Skin and Skin Structure Serratia Infection			
-845	glucose	Skin and Skin Structure Providencia Infection			
-845	glucose	Skin and Skin Structure Pseudomonas Aeruginosa Infection			
-845	glucose	Skin and Skin Structure Enterobacter Infection	C0014347	128945009	
-845	glucose	Skin and Skin Structure Peptostreptococcus Infection	C1096562	135341000119101	
-845	glucose	Skin and Skin Structure Klebsiella Infection	C0035468	72409005	DOID:11336
-845	glucose	Skin and Skin Structure Proteus Infection			
-845	glucose	Skin and Skin Structure E. Coli Infection	C0014836	71057007	
-845	glucose	Skin and Skin Structure Streptoccous Pyogenes Infection	C0554628	302809008	
 566	cefuroxime axetil	Skin and Skin Structure Streptoccous Pyogenes Infection	C0554628	302809008	
-845	glucose	Staphylococcus Aureus Skin and Skin Structure Infection	C1318973	406602003	
 566	cefuroxime axetil	Staphylococcus Aureus Skin and Skin Structure Infection	C1318973	406602003	
 2777	trovafloxacin	Skin and Skin Structure Infection	C0178299	19824006	
-845	glucose	Skin and Skin Structure Infection	C0178299	19824006	
 566	cefuroxime axetil	Skin and Skin Structure Infection	C0178299	19824006	
 566	cefuroxime axetil	Impetigo	C0021099	48277006	DOID:8504
 2777	trovafloxacin	Vaginal Hysterectomy Infection Prevention			
 2777	trovafloxacin	Abdominal Hysterectomy Infection Prevention	C0392618	33910007	
-845	glucose	Eclampsia of Pregnancy	C0156677	198992004	
-845	glucose	Severe Pre-Eclampsia	C0341950	46764007	DOID:10591
-845	glucose	Mild Pre-Eclampsia	C0269658	41114007	
 4250	algeldrate	Dysmenorrhea	C0013390	266599000	
 4207	lithium carbonate	Dysmenorrhea	C0013390	266599000	
 3851	dexibuprofen	Dysmenorrhea	C0013390	266599000	
-845	glucose	Endometritis	C0014179	78623009	DOID:1002
 2777	trovafloxacin	Pelvic Inflammatory Disease with Neisseria Gonorrhea			
-845	glucose	Pelvic Inflammatory Disease with Neisseria Gonorrhea			
 2777	trovafloxacin	Chlamydia Trachomatis Pelvic Inflammatory Disease	C0520777	188463006	
-845	glucose	Female Genital Tract Infection	C1263758	125585007	
-845	glucose	Inflammatory Disease of Female Pelvic Organs			
-845	glucose	Pelvic Abscess	C0030785	111367007	
-845	glucose	Salpingitis	C0036130	88157006	DOID:5733
 2777	trovafloxacin	Chronic Bacterial Prostatitis			
-845	glucose	Complicated Genitourinary Tract Infection			
 347	betaine	Enterococcus Complicated UTI			
 2512	sulfamethizole	Morganella Morganii Urinary Tract Infection			
-845	glucose	Enterobacter Complicated UTI	C0729524	312124009	
 347	betaine	Klebsiella Complicated UTI			
 347	betaine	Complicated E. Coli UTI	C0577708	301011002	
 347	betaine	Complicated Proteus UTI			
 347	betaine	Complicated UTI with Pseudomonas Aeruginosa			
 2512	sulfamethizole	Proteus Urinary Tract Infection	C0577709	301012009	
-845	glucose	Proteus Urinary Tract Infection	C0577709	301012009	
 2512	sulfamethizole	Klebsiella Urinary Tract Infection	C0520775	60867007	
-845	glucose	Klebsiella Urinary Tract Infection	C0520775	60867007	
 566	cefuroxime axetil	Klebsiella Urinary Tract Infection	C0520775	60867007	
 347	betaine	Klebsiella Urinary Tract Infection	C0520775	60867007	
 2512	sulfamethizole	E. Coli Urinary Tract Infection	C0577708	301011002	
-845	glucose	E. Coli Urinary Tract Infection	C0577708	301011002	
 566	cefuroxime axetil	E. Coli Urinary Tract Infection	C0577708	301011002	
 347	betaine	E. Coli Urinary Tract Infection	C0577708	301011002	
 2512	sulfamethizole	Enterobacter Cloacae Urinary Tract Infection	C0729524	312124009	
-845	glucose	Complicated Urinary Tract Infections			
-845	glucose	Genitourinary Tract Infections			
 4295	sodium phosphate, monobasic, monohydrate	Urinary Tract Infections	C0042029	68566005	
 2777	trovafloxacin	Urinary Tract Infections	C0042029	68566005	
 347	betaine	Bladder Infection	C0600041	236620008	
@@ -11685,10 +11623,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4443	ferric oxide	Proctitis	C0033246	3951002	DOID:3127
 4688	phenylmercuric nitrate	Rectal Pain	C0034886	77880009	
 4443	ferric oxide	Rectal Pain	C0034886	77880009	
-845	glucose	Infectious Disease of Abdomen	C1112209	128070006	
-845	glucose	Peptostreptococcus Peritonitis			
-845	glucose	Klebsiella Pneumoniae Peritonitis			
-845	glucose	E. Coli Peritonitis			
 4325	alum	Hiatal Hernia with Reflux Esophagitis			
 3152	dimethicone	Hiatal Hernia with Reflux Esophagitis			
 4325	alum	Dyspepsia	C0013395	162031009	DOID:2321
@@ -11703,11 +11637,8 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 3152	dimethicone	Gastroesophageal Reflux	C0017168	235595009	DOID:8534
 4295	sodium phosphate, monobasic, monohydrate	Bowel Evacuation	C0426639	249515001	
 2785	tyropanoate	Diagnostic Aid for Biliary Tract	C0358514	2949005	
-845	glucose	Lower Respiratory Infections	C0149725	50417007	
 566	cefuroxime axetil	Lower Respiratory Infections	C0149725	50417007	
-845	glucose	Lung Abscess	C0024110	73452002	DOID:0060317
 4742	bleomycin	Pleural Malignant Effusions			
-845	glucose	Pleural Empyema	C0014013	58554001	DOID:3798
 3097	choline	Chronic Obstructive Pulmonary Disease with Bronchospasms			
 3097	choline	Asthma-chronic obstructive pulmonary disease overlap syndrome	C4038730	10692761000119107	
 3097	choline	Pulmonary Emphysema	C0034067	87433001	
@@ -11728,22 +11659,9 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 2777	trovafloxacin	Staphylococcus Aureus Bronchitis			
 2777	trovafloxacin	Bronchitis with Bacterial Exacerbations	C0339933	233598009	
 3244	formaldehyde	Influenza Prevention	C0021400	6142004	DOID:8469
-845	glucose	Bacterial Pneumonia	C0004626	53084003	DOID:874
 566	cefuroxime axetil	Bacterial Pneumonia	C0004626	53084003	DOID:874
-845	glucose	Proteus Pneumonia	C1260917	195888009	
-845	glucose	Enterobacter Pneumonia			
-845	glucose	Serratia Pneumonia	C0085394	71120004	
-845	glucose	Gram-Negative Aerobic Bacillary Pneumonia			
-845	glucose	Escherichia Coli Pneumonia	C0276089	51530003	
-845	glucose	Anaerobic Pneumonia	C0032290	422588002	DOID:3240
-845	glucose	Staphylococcal Pneumonia	C0032308	22754005	
-845	glucose	Streptococcal Pneumonia	C0155862	34020007	
 566	cefuroxime axetil	Streptococcal Pneumonia	C0155862	34020007	
-845	glucose	Haemophilus Parainfluenzae Pneumonia			
-845	glucose	Haemophilus Influenzae Pneumonia	C0276026	70036007	
 566	cefuroxime axetil	Haemophilus Influenzae Pneumonia	C0276026	70036007	
-845	glucose	Pseudomonas Aeruginosa Pneumonia	C0155860	41381004	
-845	glucose	Klebsiella Pneumonia	C0343402	186435004	
 3485	sulfogaiacol	Nasal Congestion	C0027424	68235000	
 2128	phenicarbazide	Nasal Congestion	C0027424	68235000	
 1319	glycine	Nasal Congestion	C0027424	68235000	
@@ -11780,15 +11698,8 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4443	ferric oxide	Hemorrhoids	C0019112	70153002	DOID:9746
 1358	heparin	Deep Vein Thrombosis with Pulmonary Embolism			
 4198	sodium chloride	Deep Vein Thrombosis Prevention	C2585945	439993001	
-845	glucose	Deep Vein Thrombosis Prevention	C2585945	439993001	
-845	glucose	Deep Venous Thrombosis	C0149871	128053003	
-845	glucose	Peripheral Arterial Thromboembolism Prevention			
-845	glucose	Peripheral Arterial Embolism	C0564750	286959000	
 4250	algeldrate	Transient Cerebral Ischemia	C0007787	266257000	DOID:224
 4250	algeldrate	Cerebral Thromboembolism Prevention	C0007780	75543006	DOID:4372
-845	glucose	Ventricular Arrhythmias	C0085612	44103008	
-845	glucose	Pulmonary Thromboembolism Prevention			
-845	glucose	Pulmonary Thromboembolism	C0524702	233935004	
 1444	inositol	Slow Progression of Coronary Artery Disease			
 4250	algeldrate	Unstable Angina Pectoris	C0948089	394659003	
 4198	sodium chloride	Unstable Angina Pectoris	C0948089	394659003	
@@ -11799,9 +11710,7 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4250	algeldrate	Myocardial Reinfarction Prevention			
 1444	inositol	Myocardial Reinfarction Prevention			
 4250	algeldrate	Myocardial Infarction	C0027051	22298006	DOID:5844
-845	glucose	Open Heart Surgery Infection Prevention			
 2512	sulfamethizole	Acute Otitis Media Infection	C0729586	312218008	
-845	glucose	Acute Otitis Media Infection	C0729586	312218008	
 566	cefuroxime axetil	Acute Otitis Media Infection	C0729586	312218008	
 566	cefuroxime axetil	Moraxella Catarrhalis Acute Otitis Media			
 2512	sulfamethizole	Streptococcus Acute Otitis Media	C0271429	3110003	
@@ -11821,16 +11730,9 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 741	cromoglicic acid	Allergic Keratoconjunctivitis			
 741	cromoglicic acid	Vernal Keratoconjunctivitis	C0022577	317349009	
 3017	benzalkonium	Uveitis	C0042164	128473001	DOID:13141
-845	glucose	Meningitis due to Klebsiella	C1719906	420585007	
-845	glucose	Escherichia Coli Meningitis	C0338395	192655005	
-845	glucose	Staphylococcal Meningitis	C0154640	12166008	
-845	glucose	Streptococcal Meningitis	C0154639	4510004	DOID:11574
-845	glucose	Pneumococcal Meningitis	C0025295	51169003	
-845	glucose	H. Influenzae Meningitis			
 1571	levomethadyl acetate	Opioid Dependence	C0524662	75544000	DOID:2559
 449	butobarbital	Severe Anxiety	C0231403	80583007	
 3184	dihydroergocornine	Dementia	C0497327	52448006	
-845	glucose	Disseminated Intravascular Coagulation	C0012739	67406007	DOID:11247
 2810	vasopressin	Von Willebrand's Disease	C0042974	128105004	DOID:12531
 2810	vasopressin	Hemophilia A	C0019069	28293008	DOID:12134
 4384	levofolinic acid	Megaloblastic Anemia	C0002888	53165003	DOID:13382
@@ -11843,7 +11745,6 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 4798	potassium polystyrene sulfonate	Hyperkalemia	C0020461	14140009	
 4277	iron	Hypocalcemia	C0020598	5291005	
 4295	sodium phosphate, monobasic, monohydrate	Hypophosphatemia	C0085682	4996001	
-845	glucose	Hypomagnesemia	C0151723	190855004	
 4269	zinc acetate	Wilson's Disease	C0019202	88518009	DOID:893
 3097	choline	Hyperlipidemia	C0020473	55822004	DOID:1168
 3097	choline	Mixed Hyperlipidemia	C0020474	267434003	DOID:13809
@@ -11904,49 +11805,22 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 3613	Vitamin E	Onychomycosis due to Dermatophyte	C0040261	402134005	
 1800	miconazole	Onychomycosis due to Dermatophyte	C0040261	402134005	
 2777	trovafloxacin	Chlamydia Cervicitis			
-845	glucose	Chancroid	C0007947	266143009	DOID:13778
-845	glucose	Disseminated Gonococcal Infection			
-845	glucose	Gonococcal Endocarditis	C0153227	61048000	
-845	glucose	Gonococcal Meningitis	C0153225	151004	
 2777	trovafloxacin	Rectal Gonorrhea	C0275665	42746002	
-845	glucose	Rectal Gonorrhea	C0275665	42746002	
 566	cefuroxime axetil	Rectal Gonorrhea	C0275665	42746002	
-845	glucose	Gonococcal Pharyngitis	C0149966	74372003	
-845	glucose	Gonococcal Arthritis	C0153216	44743006	
-845	glucose	Adult Gonococcal Conjunctivitis			
 2777	trovafloxacin	Acute Gonococcal Endometritis	C0153196	65295003	DOID:7527
-845	glucose	Acute Gonococcal Endometritis	C0153196	65295003	DOID:7527
 566	cefuroxime axetil	Acute Gonococcal Endometritis	C0153196	65295003	DOID:7527
 2777	trovafloxacin	Acute Gonococcal Cervicitis	C0153195	20943002	DOID:10615
-845	glucose	Acute Gonococcal Cervicitis	C0153195	20943002	DOID:10615
 566	cefuroxime axetil	Acute Gonococcal Cervicitis	C0153195	20943002	DOID:10615
 2777	trovafloxacin	Acute Gonococcal Urethritis	C0275652	29864006	
-845	glucose	Acute Gonococcal Urethritis	C0275652	29864006	
 566	cefuroxime axetil	Acute Gonococcal Urethritis	C0275652	29864006	
-845	glucose	Acute Lower Genitourinary Gonorrhea	C0018081	15628003	DOID:7551
 566	cefuroxime axetil	Acute Lower Genitourinary Gonorrhea	C0018081	15628003	DOID:7551
 566	cefuroxime axetil	Lyme Disease	C0024198	23502006	DOID:11729
 4663	benzoin	External Condylomata Acuminata	C0009663	240542006	DOID:11168
 1076	ethanol	HIV Infection	C0019693	86406008	DOID:526
 731	colistimethate sodium	Enterobacter Infection			
 731	colistimethate sodium	Pseudomonas Aeruginosa Infections			
-845	glucose	Haemophilus Influenzae Type B Infections			
 731	colistimethate sodium	E. Coli Infections	C0014836	71057007	
 731	colistimethate sodium	Klebsiella Infections			
-845	glucose	Bacterial Septicemia	C0684256	10001005	
-845	glucose	Salmonella Septicemia	C0152486	49786009	
-845	glucose	Morganella Septicemia			
-845	glucose	Providencia Septicemia			
-845	glucose	Proteus Septicemia	C0577690	300986008	
-845	glucose	Klebsiella Pneumoniae Septicemia	C0343402	186435004	
-845	glucose	Pseudomonas Aeruginosa Septicemia	C2887096	448813005	
-845	glucose	E. Coli Septicemia	C0276088	9323009	
-845	glucose	Haemophilus Septicemia			
-845	glucose	Enterobacter Septicemia	C3163829	449082003	
-845	glucose	Staphylococcal Septicemia	C0152965	111821004	
-845	glucose	Streptococcal Septicemia	C0152964	29577008	
-845	glucose	Prevention of Meningococcal Meningitis			
-845	glucose	Meningococcal Meningitis	C0025294	192644005	
 566	cefuroxime axetil	Streptococcal Tonsillitis	C0275804	41582007	
 566	cefuroxime axetil	Pharyngitis due to Streptococcus Pyogenes	C0554628	302809008	
 2512	sulfamethizole	Gastroenteritis due to Shigella	C0013371	36188001	DOID:12385
@@ -12367,3 +12241,4 @@ DRUG_ID	DRUG_NAME	INDICATION_FDB	UMLS_CUI	SNOMEDCT_CUI	DOID
 1588	lisuride	Chronic Thromboembolic Pulmonary Hypertension	C2363973	233947005	
 1588	lisuride	Pulmonary Hypertensive Arterial Disease	C2973725	11399002	
 5091	belatacept	Kidney Transplant Rejection	C0238217	236570004	
+845	glucose	Hypoglycemia	C0020615	302866003	DOID:9993
