@@ -1,4 +1,22 @@
 DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACTION_TYPE	SOURCE	REFERENCE
+5080	CHEMBL3039514	elbasvir	Genome polyprotein	Polyprotein	P27958		POLG_HCVH	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208261Orig1s000lbl.pdf
+5080	CHEMBL3039514	elbasvir	Genome polyprotein	Polyprotein	P26663		POLG_HCVBK	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208261Orig1s000lbl.pdf
+5080	CHEMBL3039514	elbasvir	Genome polyprotein	Polyprotein	O39929		POLG_HCVED	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208261Orig1s000lbl.pdf
+5081	CHEMBL2063090	grazoprevir	Genome polyprotein	Polyprotein	P27958		POLG_HCVH	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208261Orig1s000lbl.pdf
+5081	CHEMBL2063090	grazoprevir	Genome polyprotein	Polyprotein	P26663		POLG_HCVBK	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208261Orig1s000lbl.pdf
+5081	CHEMBL2063090	grazoprevir	Genome polyprotein	Polyprotein	O39929		POLG_HCVED	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208261Orig1s000lbl.pdf
+2345	CHEMBL2105291	quingestanol acetate	Progesterone receptor	Nuclear hormone receptor	P06401	PGR	PRGR_HUMAN	AGONIST	KEGG DRUG	http://www.kegg.jp/entry/D05679
+4867		dexrabeprazole	Potassium-transporting ATPase	Transporter	P20648|P51164	ATP4A|ATP4B	ATP4A_HUMAN|ATP4B_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/2154989
+3961	CHEMBL2106370	ilaprazole	Potassium-transporting ATPase	Transporter	P20648|P51164	ATP4A|ATP4B	ATP4A_HUMAN|ATP4B_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/11304936
+642	CHEMBL452076	cilnidipine	Voltage-gated L-type calcium channel	Ion channel	Q01668|Q13936	CACNA1C|CACNA1D	CAC1C_HUMAN|CAC1D_HUMAN	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/9298526
+837	CHEMBL405355	dexniguldipine	Voltage-gated L-type calcium channel	Ion channel	Q01668|Q13936	CACNA1C|CACNA1D	CAC1C_HUMAN|CAC1D_HUMAN	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/2547493
+927	CHEMBL1199307	distigmine	Acetylcholinesterase	Enzyme	P22303	ACHE	ACES_HUMAN	INHIBITOR	KEGG DRUG	http://www.kegg.jp/entry/D01228
+1631	CHEMBL1085699	manidipine	Voltage-gated L-type calcium channel	Ion channel	Q01668|Q13936	CACNA1C|CACNA1D	CAC1C_HUMAN|CAC1D_HUMAN	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/8287905
+1934	CHEMBL517427	nilvadipine	Voltage-gated L-type calcium channel	Ion channel	Q01668|Q13936	CACNA1C|CACNA1D	CAC1C_HUMAN|CAC1D_HUMAN	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/7898101
+2960	CHEMBL2111100	mifamurtide	Nucleotide-binding oligomerization domain-containing protein 2	Cytosolic other	Q9HC29	NOD2	NOD2_HUMAN	ACTIVATOR	DRUG LABEL	http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000802/WC500026565.pdf
+5083		ixekizumab	Interleukin-17A	Cytokine	Q16552	IL17A	IL17_HUMAN	ANTIBODY BINDING	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22455413
+5085		enzastaurin	Protein kinase C beta type	Kinase	P05771	PRKCB	KPCB_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/16891464
+4099	CHEMBL2111097	levamlodipine	Voltage-gated L-type calcium channel	Ion channel	Q01668|Q13936	CACNA1C|CACNA1D	CAC1C_HUMAN|CAC1D_HUMAN	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/17213004
 5066	CHEMBL1201593	tenecteplase	Plasminogen	Enzyme	P00747	PLG	PLMN_HUMAN	ACTIVATOR	DRUG LABEL	http://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/TherapeuticBiologicApplications/UCM200875.pdf
 5067		ixazomib	Proteasome subunit beta type-5	Enzyme	P28074	PSMB5	PSB5_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/208462lbl.pdf
 5068	CHEMBL607400	brivaracetam	Synaptic vesicle glycoprotein 2A	Transporter	Q7L0J3	SV2A	SV2A_HUMAN	MODULATOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/18500360
@@ -98,7 +116,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 2825	CHEMBL501867	vincristine	Tubulin beta	Structural	P04350|P07437|P68371|Q13509|Q13885|Q3ZCM7|Q9BUF5|Q9BVA1|Q9H4B7	TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8	TBB1_HUMAN|TBB2A_HUMAN|TBB2B_HUMAN|TBB3_HUMAN|TBB4A_HUMAN|TBB4B_HUMAN|TBB5_HUMAN|TBB6_HUMAN|TBB8_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/19010832
 1517	CHEMBL1201752	ixabepilone	Tubulin beta	Structural	P04350|P07437|P68371|Q13509|Q13885|Q3ZCM7|Q9BUF5|Q9BVA1|Q9H4B7	TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8	TBB1_HUMAN|TBB2A_HUMAN|TBB2B_HUMAN|TBB3_HUMAN|TBB4A_HUMAN|TBB4B_HUMAN|TBB5_HUMAN|TBB6_HUMAN|TBB8_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/19010832
 3644	CHEMBL2110725	vinflunine	Tubulin beta	Structural	P04350|P07437|P68371|Q13509|Q13885|Q3ZCM7|Q9BUF5|Q9BVA1|Q9H4B7	TUBB|TUBB1|TUBB2A|TUBB2B|TUBB3|TUBB4A|TUBB4B|TUBB6|TUBB8	TBB1_HUMAN|TBB2A_HUMAN|TBB2B_HUMAN|TBB3_HUMAN|TBB4A_HUMAN|TBB4B_HUMAN|TBB5_HUMAN|TBB6_HUMAN|TBB8_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/19010832
-4974	CHEMBL1201581	infliximab	Tumor necrosis factor	Cytokine	P01375	TNF	TNFA_HUMAN	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/103772s5370lbl.pdf
 3185	CHEMBL1983100	esaprazole	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/8483969
 3185	CHEMBL1983100	esaprazole	Muscarinic acetylcholine receptor M5	GPCR	P08912	CHRM5	ACM5_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/8483969
 4941	CHEMBL189963	palbociclib	Cyclin-dependent kinase 4	Kinase	P11802	CDK4	CDK4_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/207103s000lbl.pdf
@@ -191,15 +208,18 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 4809	CHEMBL2103873	macitentan	Endothelin-1 receptor	GPCR	P25101	EDNRA	EDNRA_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22862294
 4809	CHEMBL2103873	macitentan	Endothelin B receptor	GPCR	P24530	EDNRB	EDNRB_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/22862294
 4305	CHEMBL1963681	avanafil	cGMP-specific 3',5'-cyclic phosphodiesterase	Enzyme	O76074	PDE5A	PDE5A_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1963681
+4791	CHEMBL1908391	masitinib	Mast/stem cell growth factor receptor Kit	Kinase	P10721	KIT	KIT_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20209107
+4791	CHEMBL1908391	masitinib	Platelet-derived growth factor receptor alpha	Kinase	P16234	PDGFRA	PGFRA_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20209107
+4791	CHEMBL1908391	masitinib	Platelet-derived growth factor receptor beta	Kinase	P09619	PDGFRB	PGFRB_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/20209107
 4283	CHEMBL1201777	tapentadol	Mu-type opioid receptor	GPCR	P35372	OPRM1	OPRM_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201777
 4283	CHEMBL1201777	tapentadol	Sodium-dependent noradrenaline transporter	Transporter	P23975	SLC6A2	SC6A2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201777
 4647	CHEMBL1201064	fluorometholone acetate	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201064
-4715	CHEMBL2105717	cabozantinib	Vascular endothelial growth factor receptor 2	Kinase	P35968	KDR	VGFR2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL2105717
-4715	CHEMBL2105717	cabozantinib	Hepatocyte growth factor receptor	Kinase	P08581	MET	MET_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL2105717
-4715	CHEMBL2105717	cabozantinib	Proto-oncogene tyrosine-protein kinase receptor Ret	Kinase	P07949	RET	RET_HUMAN	INHIBITOR	EXPERT CURATOR	
-4715	CHEMBL2105717	cabozantinib	Angiopoietin-1 receptor	Kinase	Q02763	TEK	TIE2_HUMAN	INHIBITOR	EXPERT CURATOR	
-4715	CHEMBL2105717	cabozantinib	Receptor-type tyrosine-protein kinase FLT3	Kinase	P36888	FLT3	FLT3_HUMAN	INHIBITOR	EXPERT CURATOR	
-4715	CHEMBL2105717	cabozantinib	Mast/stem cell growth factor receptor Kit	Kinase	P10721	KIT	KIT_HUMAN	INHIBITOR	EXPERT CURATOR	
+4715	CHEMBL2105717	cabozantinib	Vascular endothelial growth factor receptor 2	Kinase	P35968	KDR	VGFR2_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203756lbl.pdf
+4715	CHEMBL2105717	cabozantinib	Hepatocyte growth factor receptor	Kinase	P08581	MET	MET_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203756lbl.pdf
+4715	CHEMBL2105717	cabozantinib	Proto-oncogene tyrosine-protein kinase receptor Ret	Kinase	P07949	RET	RET_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203756lbl.pdf
+4715	CHEMBL2105717	cabozantinib	Angiopoietin-1 receptor	Kinase	Q02763	TEK	TIE2_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203756lbl.pdf
+4715	CHEMBL2105717	cabozantinib	Receptor-type tyrosine-protein kinase FLT3	Kinase	P36888	FLT3	FLT3_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203756lbl.pdf
+4715	CHEMBL2105717	cabozantinib	Mast/stem cell growth factor receptor Kit	Kinase	P10721	KIT	KIT_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/203756lbl.pdf
 4716	CHEMBL1171837	ponatinib	Tyrosine-protein kinase ABL1	Kinase	P00519	ABL1	ABL1_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1171837
 4744	CHEMBL2108184	crofelemer	Cystic fibrosis transmembrane conductance regulator	Ion channel	P13569	CFTR	CFTR_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/202292s000lbl.pdf
 4744	CHEMBL2108184	crofelemer	Anoctamin-1	Ion channel	Q5XXA6	ANO1	ANO1_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/202292s000lbl.pdf
@@ -234,8 +254,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 2544	CHEMBL535	sunitinib	Proto-oncogene tyrosine-protein kinase receptor Ret	Kinase	P07949	RET	RET_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021938s027lbl.pdf
 4801	CHEMBL2105729	dabrafenib	Serine/threonine-protein kinase B-raf	Kinase	P15056	BRAF	BRAF_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL2105729
 371	CHEMBL1200963	bimatoprost	Prostaglandin F2-alpha receptor	GPCR	P43088	PTGFR	PF2R_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200963
-961	CHEMBL1200567	doxycycline	30S ribosomal protein S4	Ribosomal protein	P0A7V8	rpsD	RS4_ECOLI	INHIBITOR	EXPERT CURATOR	
-961	CHEMBL1200567	doxycycline	30S ribosomal protein S9	Ribosomal protein	P0A7X3	rpsI	RS9_ECOLI	INHIBITOR	EXPERT CURATOR	
 1277	CHEMBL182	ganciclovir	DNA polymerase catalytic subunit	Enzyme	P04293		DPOL_HHV11	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL182
 1497	CHEMBL64	isoniazid	Enoyl-[acyl-carrier-protein] reductase [NADH]	Enzyme	P9WGR1	inhA	INHA_MYCTU	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL64
 2268	CHEMBL897	probenecid	Solute carrier family 22 member 8	Transporter	Q8TCC7	SLC22A8	S22A8_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL897
@@ -263,7 +281,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 3862	CHEMBL705	alitretinoin	Retinoic acid receptor RXR-alpha	Nuclear hormone receptor	P19793	RXRA	RXRA_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL705
 2809	CHEMBL1520	vardenafil	cGMP-specific 3',5'-cyclic phosphodiesterase	Enzyme	O76074	PDE5A	PDE5A_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1520
 2441	CHEMBL192	sildenafil	cGMP-specific 3',5'-cyclic phosphodiesterase	Enzyme	O76074	PDE5A	PDE5A_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL192
-2352	CHEMBL254316	raltegravir	Gag-Pol polyprotein	Polyprotein	P03367	gag-pol	POL_HV1BR	INHIBITOR	EXPERT CURATOR	
 2767	CHEMBL408	troglitazone	Peroxisome proliferator-activated receptor gamma	Nuclear hormone receptor	P37231	PPARG	PPARG_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL408
 2405	CHEMBL843	rosiglitazone	Peroxisome proliferator-activated receptor gamma	Nuclear hormone receptor	P37231	PPARG	PPARG_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL843
 2179	CHEMBL1715	pioglitazone	Peroxisome proliferator-activated receptor gamma	Nuclear hormone receptor	P37231	PPARG	PPARG_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1715
@@ -296,19 +313,18 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1122	CHEMBL1200374	exemestane	Aromatase	Enzyme	P11511	CYP19A1	CP19A_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200374
 210	CHEMBL1399	anastrozole	Aromatase	Enzyme	P11511	CYP19A1	CP19A_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1399
 164	CHEMBL488	aminoglutethimide	Aromatase	Enzyme	P11511	CYP19A1	CP19A_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL488
-1189	CHEMBL1568	fludarabine	DNA polymerase alpha catalytic subunit	Enzyme	P09884	POLA1	DPOLA_HUMAN	INHIBITOR	EXPERT CURATOR	
+1189	CHEMBL1568	fludarabine phosphate	DNA polymerase alpha catalytic subunit	Enzyme	P09884	POLA1	DPOLA_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/020038s033lbl.pdf
 691	CHEMBL1750	clofarabine	DNA polymerase alpha catalytic subunit	Enzyme	P09884	POLA1	DPOLA_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1750
 2609	CHEMBL117785	tetrabenazine	Synaptic vesicular amine transporter	Transporter	Q05940	SLC18A2	VMAT2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL117785
 2370	CHEMBL772	reserpine	Synaptic vesicular amine transporter	Transporter	Q05940	SLC18A2	VMAT2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL772
 1140	CHEMBL1094	felbamate	Glutamate receptor ionotropic, NMDA 2B	Ion channel	Q13224	GRIN2B	NMDE2_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1094
 2704	CHEMBL436	tolrestat	Aldose reductase	Enzyme	P15121	AKR1B1	ALDR_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/6422042
-1021	CHEMBL56337	epalrestat	Aldose reductase	Enzyme	P15121	AKR1B1	ALDR_HUMAN	INHIBITOR	EXPERT CURATOR	
+1021	CHEMBL56337	epalrestat	Aldose reductase	Enzyme	P15121	AKR1B1	ALDR_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/3025043
 1851	CHEMBL74632	latamoxef	Peptidoglycan synthase FtsI	Enzyme	P0AD68	ftsI	FTSI_ECOLI	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL74632
 564	CHEMBL161	ceftriaxone	Peptidoglycan synthase FtsI	Enzyme	P0AD68	ftsI	FTSI_ECOLI	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL161
 546	CHEMBL1010	cefotaxime	Peptidoglycan synthase FtsI	Enzyme	P0AD68	ftsI	FTSI_ECOLI	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1010
 279	CHEMBL158	aztreonam	Peptidoglycan synthase FtsI	Enzyme	P0AD68	ftsI	FTSI_ECOLI	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL158
 1137	CHEMBL1164729	febuxostat	Xanthine dehydrogenase/oxidase	Enzyme	P47989	XDH	XDH_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1164729
-989	CHEMBL223228	efavirenz	Gag-Pol polyprotein	Polyprotein	P03369	gag-pol	POL_HV1A2	INHIBITOR	EXPERT CURATOR	
 2847	CHEMBL1200879	warfarin	Vitamin K epoxide reductase complex subunit 1	Enzyme	Q9BQB6	VKORC1	VKOR1_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200879
 2130	CHEMBL711	phenindione	Vitamin K epoxide reductase complex subunit 1	Enzyme	Q9BQB6	VKORC1	VKOR1_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL711
 2351	CHEMBL81	raloxifene	Estrogen receptor beta	Nuclear hormone receptor	Q92731	ESR2	ESR2_HUMAN	MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL81
@@ -321,7 +337,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1980	CHEMBL1680	octreotide	Somatostatin receptor type 5	GPCR	P35346	SSTR5	SSR5_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1680
 1980	CHEMBL1680	octreotide	Somatostatin receptor type 3	GPCR	P32745	SSTR3	SSR3_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1680
 1980	CHEMBL1680	octreotide	Somatostatin receptor type 2	GPCR	P30874	SSTR2	SSR2_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1680
-2551	CHEMBL95	tacrine	Acetylcholinesterase	Enzyme	P22303	ACHE	ACES_HUMAN	INHIBITOR	EXPERT CURATOR	
+2551	CHEMBL95	tacrine	Acetylcholinesterase	Enzyme	P22303	ACHE	ACES_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL95
 1897	CHEMBL211471	neostigmine	Acetylcholinesterase	Enzyme	P22303	ACHE	ACES_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL211471
 946	CHEMBL502	donepezil	Acetylcholinesterase	Enzyme	P22303	ACHE	ACES_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL502
 1874	CHEMBL895	nalbuphine	Delta-type opioid receptor	GPCR	P41143	OPRD1	OPRD_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL895
@@ -419,7 +435,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 3584	CHEMBL611	terazosin	Alpha-1B adrenergic receptor	GPCR	P35368	ADRA1B	ADA1B_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL611
 2146	CHEMBL1215	phenylephrine	Alpha-1B adrenergic receptor	GPCR	P35368	ADRA1B	ADA1B_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1215
 954	CHEMBL707	doxazosin	Alpha-1B adrenergic receptor	GPCR	P35368	ADRA1B	ADA1B_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL707
-429	CHEMBL188185	bunazosin	Alpha-1B adrenergic receptor	GPCR	P35368	ADRA1B	ADA1B_HUMAN	ANTAGONIST	EXPERT CURATOR	
+429	CHEMBL188185	bunazosin	Alpha-1B adrenergic receptor	GPCR	P35368	ADRA1B	ADA1B_HUMAN	ANTAGONIST	KEGG DRUG	http://www.kegg.jp/entry/D01887
 1992	CHEMBL46	ondansetron	5-hydroxytryptamine receptor 3A	Ion channel	P46098	HTR3A	5HT3A_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL46
 1782	CHEMBL86	metoclopramide	5-hydroxytryptamine receptor 3A	Ion channel	P46098	HTR3A	5HT3A_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL86
 1329	CHEMBL1237080	granisetron	5-hydroxytryptamine receptor 3A	Ion channel	P46098	HTR3A	5HT3A_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1237080
@@ -428,7 +444,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1753	CHEMBL524	methoxamine	Alpha-1D adrenergic receptor	GPCR	P25100	ADRA1D	ADA1D_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL524
 954	CHEMBL707	doxazosin	Alpha-1D adrenergic receptor	GPCR	P25100	ADRA1D	ADA1D_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL707
 659	CHEMBL8	ciprofloxacin	DNA gyrase subunit A	Enzyme	P0AES4	gyrA	GYRA_ECOLI	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL8
-659	CHEMBL8	ciprofloxacin	DNA topoisomerase 4 subunit A	Enzyme	P0C1U9	parC	PARC_STAAU	INHIBITOR	EXPERT CURATOR	
 864	CHEMBL17	dichlorphenamide	Carbonic anhydrase 2	Enzyme	P00918	CA2	CAH2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL17
 2099	CHEMBL628	pentoxifylline	cAMP-specific 3',5'-cyclic phosphodiesterase 4B	Enzyme	Q07343	PDE4B	PDE4B_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL628
 976	CHEMBL1752	diprophylline	cAMP-specific 3',5'-cyclic phosphodiesterase 4B	Enzyme	Q07343	PDE4B	PDE4B_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1752
@@ -490,7 +505,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1225	CHEMBL1201396	fluticasone propionate	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201396
 1201	CHEMBL1512	flunisolide	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1512
 824	CHEMBL384467	dexamethasone	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL384467
-734	CHEMBL111861	cortisone	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	EXPERT CURATOR	
+734	CHEMBL111861	cortisone	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	KEGG DRUG	http://www.kegg.jp/entry/D00973
 633	CHEMBL2040682	ciclesonide	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL2040682
 419	CHEMBL1370	budesonide	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1370
 348	CHEMBL632	betamethasone	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL632
@@ -508,16 +523,16 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 2776	CHEMBL1888176	trospium	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1888176
 2677	CHEMBL258622	tiotropium bromide	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL258622
 1475	CHEMBL1464005	ipratropium	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1464005
-1402	CHEMBL1257084	hyoscyamine	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	ANTAGONIST	EXPERT CURATOR	
+1402	CHEMBL1257084	hyoscyamine	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	ANTAGONIST	KEGG DRUG	http://www.kegg.jp/entry/D00147
 584	CHEMBL168815	cevimeline	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL168815
 488	CHEMBL14	carbachol	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL14
 260	CHEMBL517712	atropine	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL517712
 4191	CHEMBL1201764	fesoterodine	Muscarinic acetylcholine receptor M2	GPCR	P08172	CHRM2	ACM2_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201764
-1402	CHEMBL1257084	hyoscyamine	Muscarinic acetylcholine receptor M2	GPCR	P08172	CHRM2	ACM2_HUMAN	ANTAGONIST	EXPERT CURATOR	
+1402	CHEMBL1257084	hyoscyamine	Muscarinic acetylcholine receptor M2	GPCR	P08172	CHRM2	ACM2_HUMAN	ANTAGONIST	KEGG DRUG	http://www.kegg.jp/entry/D00147
 260	CHEMBL517712	atropine	Muscarinic acetylcholine receptor M2	GPCR	P08172	CHRM2	ACM2_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL517712
 2424	CHEMBL1187846	scopolamine	Muscarinic acetylcholine receptor M1	GPCR	P11229	CHRM1	ACM1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1187846
 2039	CHEMBL1200906	oxyphenonium	Muscarinic acetylcholine receptor M1	GPCR	P11229	CHRM1	ACM1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200906
-1402	CHEMBL1257084	hyoscyamine	Muscarinic acetylcholine receptor M1	GPCR	P11229	CHRM1	ACM1_HUMAN	ANTAGONIST	EXPERT CURATOR	
+1402	CHEMBL1257084	hyoscyamine	Muscarinic acetylcholine receptor M1	GPCR	P11229	CHRM1	ACM1_HUMAN	ANTAGONIST	KEGG DRUG	http://www.kegg.jp/entry/D00147
 1086	CHEMBL1206	profenamine	Muscarinic acetylcholine receptor M1	GPCR	P11229	CHRM1	ACM1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1206
 763	CHEMBL1201227	cycrimine	Muscarinic acetylcholine receptor M1	GPCR	P11229	CHRM1	ACM1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201227
 584	CHEMBL168815	cevimeline	Muscarinic acetylcholine receptor M1	GPCR	P11229	CHRM1	ACM1_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL168815
@@ -675,7 +690,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 859	CHEMBL1086	cinchocaine	Sodium channel protein type 5 subunit alpha	Ion channel	Q14524	SCN5A	SCN5A_HUMAN	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1086
 830	CHEMBL1201287	dexbrompheniramine	Histamine H1 receptor	GPCR	P35367	HRH1	HRH1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201287
 801	CHEMBL1200514	demecarium	Acetylcholinesterase	Enzyme	P22303	ACHE	ACES_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200514
-678	CHEMBL1753	clindamycin	50S ribosomal protein L10	Ribosomal protein	P0A7J6	rplJ	RL10_SHIFL	INHIBITOR	EXPERT CURATOR	
 605	CHEMBL1179047	chloroprocaine	Sodium channel protein type 10 subunit alpha	Ion channel	Q9Y5Y9	SCN10A	SCNAA_HUMAN	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1179047
 579	CHEMBL1200755	ceruletide	Cholecystokinin receptor type A	GPCR	P32238	CCKAR	CCKAR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200755
 516	CHEMBL1200519	carfenazine	D(2) dopamine receptor	GPCR	P14416	DRD2	DRD2_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200519
@@ -684,7 +698,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 341	CHEMBL1201758	bepotastine	Histamine H1 receptor	GPCR	P35367	HRH1	HRH1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201758
 268	CHEMBL946	azatadine	Histamine H1 receptor	GPCR	P35367	HRH1	HRH1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL946
 223	CHEMBL1578	octatropine methylbromide	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1578
-223	CHEMBL1578	octatropine methylbromide	Muscarinic acetylcholine receptor M2	GPCR	P08172	CHRM2	ACM2_HUMAN	ANTAGONIST	EXPERT CURATOR	
 223	CHEMBL1578	octatropine methylbromide	Muscarinic acetylcholine receptor M1	GPCR	P11229	CHRM1	ACM1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1578
 222	CHEMBL712	anisindione	Vitamin K-dependent gamma-carboxylase	Enzyme	P38435	GGCX	VKGC_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL712
 209	CHEMBL1200759	anagrelide	cGMP-inhibited 3',5'-cyclic phosphodiesterase A	Enzyme	Q14432	PDE3A	PDE3A_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200759
@@ -729,7 +742,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 99	CHEMBL10878	agomelatine	5-hydroxytryptamine receptor 2C	GPCR	P28335	HTR2C	5HT2C_HUMAN	ANTAGONIST	DRUG LABEL	http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000916/WC500038317.pdf
 1097	CHEMBL1200597	etidocaine	Sodium channel protein type 2 subunit alpha	Ion channel	Q99250	SCN2A	SCN2A_HUMAN	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200597
 3312	CHEMBL471737	ivabradine	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1	Ion channel	O60741	HCN1	HCN1_HUMAN	BLOCKER	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206143Orig1s000lbl.pdf
-1024	CHEMBL211456	ephedrine	Beta-2 adrenergic receptor	GPCR	P07550	ADRB2	ADRB2_HUMAN	AGONIST	EXPERT CURATOR	
+1024	CHEMBL211456	ephedrine	Beta-2 adrenergic receptor	GPCR	P07550	ADRB2	ADRB2_HUMAN	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=556
 3312	CHEMBL471737	ivabradine	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2	Ion channel	Q9UL51	HCN2	HCN2_HUMAN	BLOCKER	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206143Orig1s000lbl.pdf
 3312	CHEMBL471737	ivabradine	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3	Ion channel	Q9P1Z3	HCN3	HCN3_HUMAN	BLOCKER	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206143Orig1s000lbl.pdf
 831	CHEMBL1908364	dexetimide	Muscarinic acetylcholine receptor M2	GPCR	P08172	CHRM2	ACM2_HUMAN	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=354
@@ -749,6 +762,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 76	CHEMBL345714	acipimox	Hydroxycarboxylic acid receptor 2	GPCR	Q8TDS4	HCAR2	HCAR2_HUMAN	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/17705685
 2994	CHEMBL266481	glucagon	Glucagon receptor	GPCR	P47871	GCGR	GLR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL266481
 2560	CHEMBL2107016	taltirelin	Thyrotropin-releasing hormone receptor	GPCR	P34981	TRHR	TRFR_HUMAN	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15931571
+806	CHEMBL493682	denopamine	Beta-1 adrenergic receptor	GPCR	P08588	ADRB1	ADRB1_HUMAN	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/12487507
 694	CHEMBL565	clofibrate	Peroxisome proliferator-activated receptor alpha	Nuclear hormone receptor	Q07869	PPARA	PPARA_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL565
 191	CHEMBL1113	amoxapine	Sodium-dependent serotonin transporter	Transporter	P31645	SLC6A4	SC6A4_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1113
 191	CHEMBL1113	amoxapine	Sodium-dependent noradrenaline transporter	Transporter	P23975	SLC6A2	SC6A2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1113
@@ -768,7 +782,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1028	CHEMBL679	epinephrine	Alpha-2A adrenergic receptor	GPCR	P08913	ADRA2A	ADA2A_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL679
 1028	CHEMBL679	epinephrine	Alpha-2B adrenergic receptor	GPCR	P18089	ADRA2B	ADA2B_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL679
 1028	CHEMBL679	epinephrine	Alpha-2C adrenergic receptor	GPCR	P18825	ADRA2C	ADA2C_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL679
-1141	CHEMBL413965	felbinac	Prostaglandin G/H synthase 1	Enzyme	P23219	PTGS1	PGH1_HUMAN	INHIBITOR	EXPERT CURATOR	
+1141	CHEMBL413965	felbinac	Prostaglandin G/H synthase 1	Enzyme	P23219	PTGS1	PGH1_HUMAN	INHIBITOR	KEGG DRUG	http://www.kegg.jp/entry/D01675
 1204	CHEMBL989	fluocinolone acetonide	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL989
 1205	CHEMBL989	fluocinonide	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL989
 1208	CHEMBL1200600	fluorometholone	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200600
@@ -776,6 +790,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1273	CHEMBL1200993	gallamine	Muscarinic acetylcholine receptor M2	GPCR	P08172	CHRM2	ACM2_HUMAN	NEGATIVE ALLOSTERIC MODULATOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/18305010
 1531	CHEMBL429	labetalol	Beta-1 adrenergic receptor	GPCR	P08588	ADRB1	ADRB1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL429
 1531	CHEMBL429	labetalol	Beta-2 adrenergic receptor	GPCR	P07550	ADRB2	ADRB2_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL429
+1588	CHEMBL157138	lisuride	5-hydroxytryptamine receptor 2B	GPCR	P41595	HTR2B	5HT2B_HUMAN	ANTAGONIST	DRUG LABEL	http://www.ema.europa.eu/docs/en_GB/document_library/Orphan_designation/2011/05/WC500106736.pdf
 1714	CHEMBL1201151	mestranol	Estrogen receptor	Nuclear hormone receptor	P03372	ESR1	ESR1_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201151
 1764	CHEMBL1201356	methylergometrine	D(1A) dopamine receptor	GPCR	P21728	DRD1	DRD1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201356
 1826	CHEMBL1373	modafinil	Sodium-dependent dopamine transporter	Transporter	Q01959	SLC6A3	SC6A3_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1373
@@ -1121,7 +1136,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1721	CHEMBL1201319	metaraminol	Alpha-1A adrenergic receptor	GPCR	P35348	ADRA1A	ADA1A_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201319
 954	CHEMBL707	doxazosin	Alpha-1A adrenergic receptor	GPCR	P35348	ADRA1A	ADA1A_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL707
 781	CHEMBL1201044	dapiprazole	Alpha-1A adrenergic receptor	GPCR	P35348	ADRA1A	ADA1A_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201044
-429	CHEMBL188185	bunazosin	Alpha-1A adrenergic receptor	GPCR	P35348	ADRA1A	ADA1A_HUMAN	ANTAGONIST	EXPERT CURATOR	
+429	CHEMBL188185	bunazosin	Alpha-1A adrenergic receptor	GPCR	P35348	ADRA1A	ADA1A_HUMAN	ANTAGONIST	KEGG DRUG	http://www.kegg.jp/entry/D01887
 2717	CHEMBL621	trazodone	5-hydroxytryptamine receptor 2C	GPCR	P28335	HTR2C	5HT2C_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL621
 4115	CHEMBL1201756	asenapine	5-hydroxytryptamine receptor 2A	GPCR	P28223	HTR2A	5HT2A_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201756
 3294	CHEMBL14376	iloperidone	5-hydroxytryptamine receptor 2A	GPCR	P28223	HTR2A	5HT2A_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL14376
@@ -1256,7 +1271,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1097	CHEMBL1200597	etidocaine	Sodium channel protein type 5 subunit alpha	Ion channel	Q14524	SCN5A	SCN5A_HUMAN	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200597
 926	CHEMBL517	disopyramide	Sodium channel protein type 5 subunit alpha	Ion channel	Q14524	SCN5A	SCN5A_HUMAN	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL517
 489	CHEMBL108	carbamazepine	Sodium channel protein type 5 subunit alpha	Ion channel	Q14524	SCN5A	SCN5A_HUMAN	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL108
-176	CHEMBL1083993	amiodarone	Sodium channel protein type 5 subunit alpha	Ion channel	Q14524	SCN5A	SCN5A_HUMAN	BLOCKER	EXPERT CURATOR	
 52	CHEMBL112	paracetamol	Cannabinoid receptor 1	GPCR	P21554	CNR1	CNR1_HUMAN	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23940628
 52	CHEMBL112	paracetamol	Transient receptor potential cation channel subfamily V member 1	Ion channel	Q8NER1	TRPV1	TRPV1_HUMAN	OPENER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL112
 2799	CHEMBL865	valdecoxib	Prostaglandin G/H synthase 2	Enzyme	P35354	PTGS2	PGH2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL865
@@ -1420,7 +1434,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1672	CHEMBL45	melatonin	Melatonin receptor type 1B	GPCR	P49286	MTNR1B	MTR1B_HUMAN	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=224
 1672	CHEMBL45	melatonin	Melatonin receptor type 1A	GPCR	P48039	MTNR1A	MTR1A_HUMAN	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=224
 2784	CHEMBL11608	tyramine	Trace amine-associated receptor 1	GPCR	Q96RJ0	TAAR1	TAAR1_HUMAN	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/21073468
-497	CHEMBL508102	carbimazole	Thyroid peroxidase	Enzyme	P07202	TPO	PERT_HUMAN	INHIBITOR	EXPERT CURATOR	
+497	CHEMBL508102	carbimazole	Thyroid peroxidase	Enzyme	P07202	TPO	PERT_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/1278093
 343	CHEMBL435883	beraprost	Prostacyclin receptor	GPCR	P43119	PTGIR	PI2R_HUMAN	AGONIST	DRUG LABEL	http://www.ema.europa.eu/docs/en_GB/document_library/Orphan_designation/2009/10/WC500005871.pdf
 1399	CHEMBL467	hydroxycarbamide	Ribonucleoside-diphosphate reductase subunit M2	Enzyme	P31350	RRM2	RIR2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL467
 1283	CHEMBL888	gemcitabine	Ribonucleoside-diphosphate reductase subunit M2	Enzyme	P31350	RRM2	RIR2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL888
@@ -1436,8 +1450,8 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 766	CHEMBL139835	cyproterone acetate	Androgen receptor	Nuclear hormone receptor	P10275	AR	ANDR_HUMAN	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2865
 2351	CHEMBL81	raloxifene	Estrogen receptor	Nuclear hormone receptor	P03372	ESR1	ESR1_HUMAN	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=2820
 1009	CHEMBL1257	enflurane	Glycine receptor subunit alpha-1	Ion channel	P23415	GLRA1	GLRA1_HUMAN	POSITIVE MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1257
-2796	CHEMBL279229	urapidil	Alpha-1B adrenergic receptor	GPCR	P35368	ADRA1B	ADA1B_HUMAN	ANTAGONIST	EXPERT CURATOR	
-2796	CHEMBL279229	urapidil	Alpha-1D adrenergic receptor	GPCR	P25100	ADRA1D	ADA1D_HUMAN	ANTAGONIST	EXPERT CURATOR	
+2796	CHEMBL279229	urapidil	Alpha-1B adrenergic receptor	GPCR	P35368	ADRA1B	ADA1B_HUMAN	ANTAGONIST	KEGG DRUG	http://www.kegg.jp/entry/D01333
+2796	CHEMBL279229	urapidil	Alpha-1D adrenergic receptor	GPCR	P25100	ADRA1D	ADA1D_HUMAN	ANTAGONIST	KEGG DRUG	http://www.kegg.jp/entry/D01333
 1958	CHEMBL273575	nomifensine	Sodium-dependent dopamine transporter	Transporter	Q01959	SLC6A3	SC6A3_HUMAN	INHIBITOR	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4792
 2201	CHEMBL349803	piretanide	Solute carrier family 12 member 1	Transporter	Q13621	SLC12A1	S12A1_HUMAN	INHIBITOR	KEGG DRUG	http://www.kegg.jp/entry/D01634
 1967	CHEMBL33	norfloxacin	DNA gyrase subunit A	Enzyme	P0AES4	gyrA	GYRA_ECOLI	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL33
@@ -1452,7 +1466,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 249	CHEMBL296419	astemizole	Histamine H1 receptor	GPCR	P35367	HRH1	HRH1_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/6114717
 2274	CHEMBL728	prochlorperazine	D(3) dopamine receptor	GPCR	P35462	DRD3	DRD3_HUMAN	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7279
 179	CHEMBL243712	amisulpride	D(3) dopamine receptor	GPCR	P35462	DRD3	DRD3_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/11740949
-2796	CHEMBL279229	urapidil	Alpha-1A adrenergic receptor	GPCR	P35348	ADRA1A	ADA1A_HUMAN	ANTAGONIST	EXPERT CURATOR	
+2796	CHEMBL279229	urapidil	Alpha-1A adrenergic receptor	GPCR	P35348	ADRA1A	ADA1A_HUMAN	ANTAGONIST	KEGG DRUG	http://www.kegg.jp/entry/D01333
 1796	CHEMBL544428	mianserin	5-hydroxytryptamine receptor 2C	GPCR	P28335	HTR2C	5HT2C_HUMAN	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=135
 1796	CHEMBL544428	mianserin	5-hydroxytryptamine receptor 2B	GPCR	P41595	HTR2B	5HT2B_HUMAN	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=135
 1796	CHEMBL544428	mianserin	5-hydroxytryptamine receptor 2A	GPCR	P28223	HTR2A	5HT2A_HUMAN	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=135
@@ -1469,10 +1483,10 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1567	CHEMBL1009	levodopa	D(1A) dopamine receptor	GPCR	P21728	DRD1	DRD1_HUMAN	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/7878037
 2652	CHEMBL365795	tiaprofenic acid	Prostaglandin G/H synthase 1	Enzyme	P23219	PTGS1	PGH1_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/6782492
 1193	CHEMBL23588	flufenamic acid	Prostaglandin G/H synthase 1	Enzyme	P23219	PTGS1	PGH1_HUMAN	INHIBITOR	KEGG DRUG	http://www.kegg.jp/entry/D01581
-1145	CHEMBL277522	fenbufen	Prostaglandin G/H synthase 1	Enzyme	P23219	PTGS1	PGH1_HUMAN	INHIBITOR	EXPERT CURATOR	
+1145	CHEMBL277522	fenbufen	Prostaglandin G/H synthase 1	Enzyme	P23219	PTGS1	PGH1_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/6356910
 2652	CHEMBL365795	tiaprofenic acid	Prostaglandin G/H synthase 2	Enzyme	P35354	PTGS2	PGH2_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/6782492
 1193	CHEMBL23588	flufenamic acid	Prostaglandin G/H synthase 2	Enzyme	P35354	PTGS2	PGH2_HUMAN	INHIBITOR	KEGG DRUG	http://www.kegg.jp/entry/D01581
-1145	CHEMBL277522	fenbufen	Prostaglandin G/H synthase 2	Enzyme	P35354	PTGS2	PGH2_HUMAN	INHIBITOR	EXPERT CURATOR	
+1145	CHEMBL277522	fenbufen	Prostaglandin G/H synthase 2	Enzyme	P35354	PTGS2	PGH2_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/6356910
 1155	CHEMBL32800	fenoterol	Beta-2 adrenergic receptor	GPCR	P07550	ADRB2	ADRB2_HUMAN	AGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=557
 569	CHEMBL27810	celiprolol	Beta-1 adrenergic receptor	GPCR	P08588	ADRB1	ADRB1_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/9205952
 360	CHEMBL314010	bevantolol	Beta-1 adrenergic receptor	GPCR	P08588	ADRB1	ADRB1_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/2858236
@@ -1495,6 +1509,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 2346	CHEMBL1201486	quinidine	Sodium channel alpha subunits; brain (Types I, II, III)	Ion channel	P35498|Q99250|Q9NY46	SCN1A|SCN2A|SCN3A	SCN1A_HUMAN|SCN2A_HUMAN|SCN3A_HUMAN	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201486
 2346	CHEMBL1201486	quinidine	Sodium channel protein type 5 subunit alpha	Ion channel	Q14524	SCN5A	SCN5A_HUMAN	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201486
 949	CHEMBL218490	dorzolamide	Carbonic anhydrase 2	Enzyme	P00918	CA2	CAH2_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL218490
+3651	CHEMBL224060	vorozole	Aromatase	Enzyme	P11511	CYP19A1	CP19A_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/7726994
 2705	CHEMBL1382	tolterodine	Muscarinic acetylcholine receptor M2	GPCR	P08172	CHRM2	ACM2_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1382
 2705	CHEMBL1382	tolterodine	Muscarinic acetylcholine receptor M3	GPCR	P20309	CHRM3	ACM3_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1382
 940	CHEMBL1200453	docosanol	Envelope glycoprotein	Membrane other	O09800|P04288|P04488|P06477|P06480|P06484|P06487|P10185|P10211|P10228|P68331|Q69091	gB|gC|gD|gE|gG|gH|gI|gJ|gK|gL|gM|gN	GB_HHV11|GC_HHV11|GD_HHV11|GE_HHV11|GG_HHV11|GH_HHV11|GI_HHV11|GJ_HHV11|GK_HHV11|GL_HHV11|GM_HHV11|GN_HHV11	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200453
@@ -1534,6 +1549,7 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1055	CHEMBL1200470	esomeprazole	Potassium-transporting ATPase	Transporter	P20648|P51164	ATP4A|ATP4B	ATP4A_HUMAN|ATP4B_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200470
 1922	CHEMBL193	nifedipine	Voltage-dependent L-type calcium channel subunit alpha-1C	Ion channel	Q13936	CACNA1C	CAC1C_HUMAN	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/17276408
 1867	CHEMBL273264	nafamostat	Trypsin-1	Enzyme	P07477	PRSS1	TRY1_HUMAN	INHIBITOR	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4262
+1867	CHEMBL273264	nafamostat	Complement C1r subcomponent	Enzyme	P00736	C1R	C1R_HUMAN	INHIBITOR	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4262
 571	CHEMBL1727	cefalexin	Bacterial penicillin-binding protein	Enzyme	P02918|P02919|P08506|P0AD65|P0AD68|P0AEB2|P24228	dacA|dacB|dacC|ftsI|mrcA|mrcB|mrdA	DACA_ECOLI|DACB_ECOLI|DACC_ECOLI|FTSI_ECOLI|PBP2_ECOLI|PBPA_ECOLI|PBPB_ECOLI	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1727
 361	CHEMBL1023	bexarotene	Retinoic acid receptor RXR-alpha	Nuclear hormone receptor	P19793	RXRA	RXRA_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1023
 361	CHEMBL1023	bexarotene	Retinoic acid receptor RXR-beta	Nuclear hormone receptor	P28702	RXRB	RXRB_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1023
@@ -1664,6 +1680,8 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 2995	CHEMBL1201666	lepirudin	Prothrombin	Enzyme	P00734	F2	THRB_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/020807s011lbl.pdf
 2990	CHEMBL1201662	desirudin	Prothrombin	Enzyme	P00734	F2	THRB_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021271s006lbl.pdf
 3249	CHEMBL1201766	fospropofol	GABA-A receptor	Ion channel	O14764|P14867|P18505|P18507|P28472|P31644|P34903|P47869|P47870|P48169|Q16445|Q8N1C3|Q99928	GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRG1|GABRG2|GABRG3	GBRA1_HUMAN|GBRA2_HUMAN|GBRA3_HUMAN|GBRA4_HUMAN|GBRA5_HUMAN|GBRA6_HUMAN|GBRB1_HUMAN|GBRB2_HUMAN|GBRB3_HUMAN|GBRD_HUMAN|GBRG1_HUMAN|GBRG2_HUMAN|GBRG3_HUMAN	POSITIVE ALLOSTERIC MODULATOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/019627s062lbl.pdf
+4855	CHEMBL1201649	conjugated estrogens	Estrogen receptor	Nuclear hormone receptor	P03372	ESR1	ESR1_HUMAN	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/21396_prempro_lbl.pdf
+4855	CHEMBL1201649	conjugated estrogens	Estrogen receptor beta	Nuclear hormone receptor	Q92731	ESR2	ESR2_HUMAN	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/21396_prempro_lbl.pdf
 4451	CHEMBL1201014	prednisolone sodium phosphate	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021959s004lbl.pdf
 4498	CHEMBL1201732	paliperidone palmitate	D(2) dopamine receptor	GPCR	P14416	DRD2	DRD2_HUMAN	ANTAGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022264s013s014lbl.pdf
 4498	CHEMBL1201732	paliperidone palmitate	5-hydroxytryptamine receptor 2A	GPCR	P28223	HTR2A	5HT2A_HUMAN	ANTAGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022264s013s014lbl.pdf
@@ -1717,7 +1735,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 798	CHEMBL589583	delapril	Angiotensin-converting enzyme	Enzyme	P12821	ACE	ACE_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/8891872
 101	CHEMBL2103775	alacepril	Angiotensin-converting enzyme	Enzyme	P12821	ACE	ACE_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/3000389
 4901	CHEMBL1201497	insulin glargine	Insulin receptor	Kinase	P06213	INSR	INSR_HUMAN	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021081s062lbl.pdf
-3341	CHEMBL261514	mestanolone	Androgen receptor	Nuclear hormone receptor	P10275	AR	ANDR_HUMAN	AGONIST	EXPERT CURATOR	
 3839	CHEMBL432162	tasosartan	Type-1 angiotensin II receptor	GPCR	P30556	AGTR1	AGTR1_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/10487332
 1229	CHEMBL333442	fluvastatin	3-hydroxy-3-methylglutaryl-coenzyme A reductase	Enzyme	P04035	HMGCR	HMDH_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020261s048,021192s021lbl.pdf
 450	CHEMBL1200398	butoconazole	Lanosterol 14-alpha demethylase	Enzyme	P10613	ERG11	CP51_CANAL	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1200398
@@ -1765,10 +1782,10 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 852	CHEMBL12	diazepam	GABA A receptor alpha-5/beta-3/gamma-3	Ion channel	P28472|P31644|Q99928	GABRA5|GABRB3|GABRG3	GBRA5_HUMAN|GBRB3_HUMAN|GBRG3_HUMAN	POSITIVE ALLOSTERIC MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL12
 4117	CHEMBL1201746	pralatrexate	Dihydrofolate reductase	Enzyme	P00374	DHFR	DYR_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1201746
 4166	CHEMBL260538	ulipristal	Progesterone receptor	Nuclear hormone receptor	P06401	PGR	PRGR_HUMAN	MODULATOR	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7460
-4181	CHEMBL41355	retigabine	Potassium voltage-gated channel subfamily KQT member 2	Ion channel	O43526	KCNQ2	KCNQ2_HUMAN	ACTIVATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL41355
-4181	CHEMBL41355	retigabine	Potassium voltage-gated channel subfamily KQT member 4	Ion channel	P56696	KCNQ4	KCNQ4_HUMAN	ACTIVATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL41355
-4181	CHEMBL41355	retigabine	Potassium voltage-gated channel subfamily KQT member 5	Ion channel	Q9NR82	KCNQ5	KCNQ5_HUMAN	ACTIVATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL41355
-4181	CHEMBL41355	retigabine	Potassium voltage-gated channel subfamily KQT member 3	Ion channel	O43525	KCNQ3	KCNQ3_HUMAN	ACTIVATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL41355
+4181	CHEMBL41355	retigabine	Potassium voltage-gated channel subfamily KQT member 2	Ion channel	O43526	KCNQ2	KCNQ2_HUMAN	OPENER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL41355
+4181	CHEMBL41355	retigabine	Potassium voltage-gated channel subfamily KQT member 4	Ion channel	P56696	KCNQ4	KCNQ4_HUMAN	OPENER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL41355
+4181	CHEMBL41355	retigabine	Potassium voltage-gated channel subfamily KQT member 5	Ion channel	Q9NR82	KCNQ5	KCNQ5_HUMAN	OPENER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL41355
+4181	CHEMBL41355	retigabine	Potassium voltage-gated channel subfamily KQT member 3	Ion channel	O43525	KCNQ3	KCNQ3_HUMAN	OPENER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL41355
 4223	CHEMBL1615374	vilazodone	Sodium-dependent serotonin transporter	Transporter	P31645	SLC6A4	SC6A4_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1615374
 4223	CHEMBL1615374	vilazodone	5-hydroxytryptamine receptor 1A	GPCR	P08908	HTR1A	5HT1A_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1615374
 4322	CHEMBL57242	azilsartan medoxomil	Type-1 angiotensin II receptor	GPCR	P30556	AGTR1	AGTR1_HUMAN	ANTAGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL57242
@@ -1788,14 +1805,14 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1873	CHEMBL142635	naftopidil	Alpha-1D adrenergic receptor	GPCR	P25100	ADRA1D	ADA1D_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/10976457
 1873	CHEMBL142635	naftopidil	Alpha-1A adrenergic receptor	GPCR	P35348	ADRA1A	ADA1A_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/10976457
 1873	CHEMBL142635	naftopidil	Alpha-1B adrenergic receptor	GPCR	P35368	ADRA1B	ADA1B_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/10976457
-3713	CHEMBL2104041	ciramadol	Mu-type opioid receptor	GPCR	P35372	OPRM1	OPRM_HUMAN	MODULATOR	EXPERT CURATOR	
-1729	CHEMBL170179	acetylmethadol	Mu-type opioid receptor	GPCR	P35372	OPRM1	OPRM_HUMAN	AGONIST	EXPERT CURATOR	
-4910	CHEMBL1908309	felypressin	Vasopressin V1a receptor	GPCR	P37288	AVPR1A	V1AR_HUMAN	AGONIST	EXPERT CURATOR	
+3713	CHEMBL2104041	ciramadol	Mu-type opioid receptor	GPCR	P35372	OPRM1	OPRM_HUMAN	MODULATOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/2572952
+1729	CHEMBL170179	acetylmethadol	Mu-type opioid receptor	GPCR	P35372	OPRM1	OPRM_HUMAN	AGONIST	KEGG DRUG	http://www.kegg.jp/entry/D04973
+4910	CHEMBL1908309	felypressin	Vasopressin V1a receptor	GPCR	P37288	AVPR1A	V1AR_HUMAN	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/18655903
 48	CHEMBL397420	acenocoumarol	Vitamin K epoxide reductase complex subunit 1	Enzyme	Q9BQB6	VKORC1	VKOR1_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/3207986
 2138	CHEMBL16694	phenprocoumon	Vitamin K epoxide reductase complex subunit 1	Enzyme	Q9BQB6	VKORC1	VKOR1_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL16694
 867	CHEMBL1466	dicoumarol	Vitamin K epoxide reductase complex subunit 1	Enzyme	Q9BQB6	VKORC1	VKOR1_HUMAN	INHIBITOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1466
 50	CHEMBL2104054	aceprometazine	Histamine H1 receptor	GPCR	P35367	HRH1	HRH1_HUMAN	ANTAGONIST	DRUG LABEL	http://www.has-sante.fr/portail/upload/docs/application/pdf/2012-09/mepronizine_ct_8952.pdf
-93	CHEMBL328250	adinazolam	GABA-A receptor	Ion channel	O14764|P14867|P18505|P18507|P28472|P31644|P34903|P47869|P47870|P48169|Q16445|Q8N1C3|Q99928	GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRG1|GABRG2|GABRG3	GBRA1_HUMAN|GBRA2_HUMAN|GBRA3_HUMAN|GBRA4_HUMAN|GBRA5_HUMAN|GBRA6_HUMAN|GBRB1_HUMAN|GBRB2_HUMAN|GBRB3_HUMAN|GBRD_HUMAN|GBRG1_HUMAN|GBRG2_HUMAN|GBRG3_HUMAN	POSITIVE ALLOSTERIC MODULATOR	EXPERT CURATOR	
+93	CHEMBL328250	adinazolam	GABA-A receptor	Ion channel	O14764|P14867|P18505|P18507|P28472|P31644|P34903|P47869|P47870|P48169|Q16445|Q8N1C3|Q99928	GABRA1|GABRA2|GABRA3|GABRA4|GABRA5|GABRA6|GABRB1|GABRB2|GABRB3|GABRD|GABRG1|GABRG2|GABRG3	GBRA1_HUMAN|GBRA2_HUMAN|GBRA3_HUMAN|GBRA4_HUMAN|GBRA5_HUMAN|GBRA6_HUMAN|GBRB1_HUMAN|GBRB2_HUMAN|GBRB3_HUMAN|GBRD_HUMAN|GBRG1_HUMAN|GBRG2_HUMAN|GBRG3_HUMAN	POSITIVE ALLOSTERIC MODULATOR	KEGG DRUG	http://www.kegg.jp/entry/D02770
 871	CHEMBL1201864	dienogest	Progesterone receptor	Nuclear hormone receptor	P06401	PGR	PRGR_HUMAN	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/022252s004lbl.pdf
 388	CHEMBL178803	blonanserin	D(2) dopamine receptor	GPCR	P14416	DRD2	DRD2_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15686911
 388	CHEMBL178803	blonanserin	5-hydroxytryptamine receptor 2A	GPCR	P28223	HTR2A	5HT2A_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/15686911
@@ -1815,8 +1832,8 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1802	CHEMBL655	midazolam	GABA-A receptor alpha-5/beta-3/gamma-2	Ion channel	P18507|P28472|P31644	GABRA5|GABRB3|GABRG2	GBRA5_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN	POSITIVE ALLOSTERIC MODULATOR	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL655
 2873	CHEMBL135400	zopiclone	GABA-A receptor alpha-5/beta-3/gamma-2	Ion channel	P18507|P28472|P31644	GABRA5|GABRB3|GABRG2	GBRA5_HUMAN|GBRB3_HUMAN|GBRG2_HUMAN	POSITIVE MODULATOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021476s030lbl.pdf
 2346	CHEMBL1201486	quinidine	Cytochrome P450 2D6	Enzyme	P10635	CYP2D6	CP2D6_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021879s005lbl.pdf
-137	CHEMBL266195	alprenolol	Beta-1 adrenergic receptor	GPCR	P08588	ADRB1	ADRB1_HUMAN	ANTAGONIST	EXPERT CURATOR	
-137	CHEMBL266195	alprenolol	Beta-2 adrenergic receptor	GPCR	P07550	ADRB2	ADRB2_HUMAN	ANTAGONIST	EXPERT CURATOR	
+137	CHEMBL266195	alprenolol	Beta-1 adrenergic receptor	GPCR	P08588	ADRB1	ADRB1_HUMAN	ANTAGONIST	KEGG DRUG	http://www.kegg.jp/entry/D01182
+137	CHEMBL266195	alprenolol	Beta-2 adrenergic receptor	GPCR	P07550	ADRB2	ADRB2_HUMAN	ANTAGONIST	IUPHAR	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=563
 4863		phenibut	GABA-B receptor	GPCR	O75899|Q9UBS5	GABBR1|GABBR2	GABR1_HUMAN|GABR2_HUMAN	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/11830761
 4917	CHEMBL1743062	ramucirumab	Vascular endothelial growth factor receptor 2	Kinase	P35968	KDR	VGFR2_HUMAN	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125477s007lbl.pdf
 2236	CHEMBL1201669	pramlintide	Amylin receptor AMY1, CALCR/RAMP1	GPCR	O60894|P30988	CALCR|RAMP1	CALCR_HUMAN|RAMP1_HUMAN	AGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/24169554
@@ -2268,7 +2285,6 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 1909	CHEMBL1484	nicardipine	Voltage-gated L-type calcium channel	Ion channel	Q01668|Q13936	CACNA1C|CACNA1D	CAC1C_HUMAN|CAC1D_HUMAN	BLOCKER	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1484
 4980	CHEMBL1201506	gemtuzumab ozogamicin	Myeloid cell surface antigen CD33	Surface antigen	P20138	CD33	CD33_HUMAN	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2006/021174s020lbl.pdf
 4981	CHEMBL1201496	insulin aspart	Insulin receptor	Kinase	P06213	INSR	INSR_HUMAN	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/020986s059s081lbl.pdf
-4982	CHEMBL1743087	vedolizumab	Integrin alpha-4/beta-7	Adhesion	P13612|P26010	ITGA4|ITGB7	ITA4_HUMAN|ITB7_HUMAN	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125476s000lbl.pdf
 4983	CHEMBL1743048	obinutuzumab	B-lymphocyte antigen CD20	Surface antigen	P11836	MS4A1	CD20_HUMAN	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125486_s008lbl.pdf
 4984	CHEMBL1201606	ibritumomab tiuxetan	B-lymphocyte antigen CD20	Surface antigen	P11836	MS4A1	CD20_HUMAN	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/125019s210s213lbl.pdf
 4985	CHEMBL2104391	insulin detemir	Insulin receptor	Kinase	P06213	INSR	INSR_HUMAN	AGONIST	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/021536s031s051lbl.pdf
@@ -2325,3 +2341,17 @@ DRUG_ID	CHEMBL_ID	DRUG_NAME	TARGET_NAME	TARGET_FAMILY	UNIPROT	GENE	SWISSPROT	ACT
 478	CHEMBL1463345	canrenone	Mineralocorticoid receptor	Nuclear hormone receptor	P08235	NR3C2	MCR_HUMAN	ANTAGONIST	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/21771637
 78	CHEMBL1131	acitretin	Retinoic acid receptor gamma	Nuclear hormone receptor	P13631	RARG	RARG_HUMAN	AGONIST	CHEMBL	https://www.ebi.ac.uk/chembl/compound/inspect/CHEMBL1131
 495	CHEMBL3301668	carbetocin	Oxytocin receptor	GPCR	P30559	OXTR	OXYR_HUMAN	AGONIST	DRUG LABEL	https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2015-PI-01665-1
+4157	CHEMBL250270	lercanidipine	Voltage-gated L-type calcium channel	Ion channel	Q01668|Q13936	CACNA1C|CACNA1D	CAC1C_HUMAN|CAC1D_HUMAN	BLOCKER	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/8821512
+1141	CHEMBL413965	felbinac	Prostaglandin G/H synthase 2	Enzyme	P35354	PTGS2	PGH2_HUMAN	INHIBITOR	KEGG DRUG	http://www.kegg.jp/entry/D01675
+3341	CHEMBL261514	mestanolone	Androgen receptor	Nuclear hormone receptor	P10275	AR	ANDR_HUMAN	AGONIST	KEGG DRUG	http://www.kegg.jp/entry/D01533
+1178	CHEMBL2105075	floctafenine	Prostaglandin G/H synthase 2	Enzyme	P35354	PTGS2	PGH2_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23755755
+1178	CHEMBL2105075	floctafenine	Prostaglandin G/H synthase 1	Enzyme	P23219	PTGS1	PGH1_HUMAN	INHIBITOR	SCIENTIFIC LITERATURE	http://www.ncbi.nlm.nih.gov/pubmed/23755755
+5087		denileukin diftitox	Interleukin-2 receptor	Membrane receptor	P01589|P14784|P31785	IL2RA|IL2RB|IL2RG	IL2RA_HUMAN|IL2RB_HUMAN|IL2RG_HUMAN	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/103767s5119lbl.pdf
+5088		alefacept	T-cell surface antigen CD2	Surface antigen	P06729	CD2	CD2_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/125036s0144lbl.pdf
+5089		abatacept	T-lymphocyte activation antigen CD80	Surface antigen	P33681	CD80	CD80_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125118s179lbl.pdf
+5089		abatacept	T-lymphocyte activation antigen CD86	Surface antigen	P42081	CD86	CD86_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125118s179lbl.pdf
+5091		belatacept	T-lymphocyte activation antigen CD80	Surface antigen	P33681	CD80	CD80_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125288s062lbl.pdf
+5091		belatacept	T-lymphocyte activation antigen CD86	Surface antigen	P42081	CD86	CD86_HUMAN	INHIBITOR	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125288s062lbl.pdf
+4974	CHEMBL1201581	infliximab	Tumor necrosis factor	Cytokine	P01375	TNF	TNFA_HUMAN	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/103772s5370lbl.pdf
+4982	CHEMBL1743087	vedolizumab	Integrin alpha-4/beta-7	Adhesion	P13612|P26010	ITGA4|ITGB7	ITA4_HUMAN|ITB7_HUMAN	ANTIBODY BINDING	DRUG LABEL	http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/125476s000lbl.pdf
+736	CHEMBL2105842	cortivazol	Glucocorticoid receptor	Nuclear hormone receptor	P04150	NR3C1	GCR_HUMAN	AGONIST	KEGG DRUG	http://www.kegg.jp/entry/D03594
