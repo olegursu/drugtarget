@@ -16,7 +16,7 @@ UNIPROT         |Uniprot (http://www.uniprot.org/) accessions for protein target
 GENE            |gene symbol according to HUGO (http://www.genenames.org/)
 ACTION_TYPE     |type of modulatory action exerted by drug on protein target
 SOURCE          |source of mechanism of action annotation
-REFERENCE       |reference for source, *EXPERT CURATOR* do not have any reference assigned
+REFERENCE       |reference for source URL or publication reference
 
 ###Drug indication table
 
