@@ -40,6 +40,16 @@ CLASS_SOURCE_ID |class identifier provided by source
 CLASS           |pharmacologic class
 SOURCE          |source of classification: MeSH http://www.nlm.nih.gov/mesh/pa_abt.html, FDA http://www.fda.gov/ForIndustry/DataStandards/StructuredProductLabeling/ucm162549.htm, and CHEBI https://www.ebi.ac.uk/chebi/
 
+###Drug identifiers table
+
+**Field**       |**Description**
+----------------|----------------------------------------------------
+DRUG_ID         |unique identifier assigned to each active ingredient
+DRUG_NAME       |WHO INN name assigned to active ingredient, where available http://www.who.int/medicines/services/inn/en/
+ID_TYPE  		|external resource
+IDENTIFIER      |identifier in external resource
+
+
 ###LINCS Mappings
 
 **Field**       |**Description**
