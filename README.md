@@ -49,6 +49,14 @@ DRUG_NAME       |WHO INN name assigned to active ingredient, where available htt
 ID_TYPE  		|external resource
 IDENTIFIER      |identifier in external resource
 
+###Identifier type table
+
+**Field**       |**Description**
+----------------|----------------------------------------------------
+ID_TYPE         |unique identifier type name in identifier table
+DESCRIPTION     |description of external resource
+URL  			|external resource URL
+
 
 ###LINCS Mappings
 
