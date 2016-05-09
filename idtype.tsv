@@ -1,28 +1,24 @@
 ID_TYPE	DESCRIPTION	URL
-DRUGBANK_ID	DrugBank ID	http://www.drugbank.ca/
-MESH_DESCRIPTOR_UI	Medical Subject Headings (MeSH) Descriptor Unique ID	https://www.nlm.nih.gov/mesh/meshhome.html
-MESH_SUPPLEMENTAL_RECORD_UI	Medical Subject Headings (MeSH) Supplemental Record Unique ID	https://www.nlm.nih.gov/mesh/meshhome.html
-SECONDARY_CAS_RN	Secondary assigned CAS Registry Number	http://fdasis.nlm.nih.gov/srs/srs.jsp
-KEGG_DRUG	KEGG DRUG Database ID	http://www.kegg.jp/kegg/drug
-INN_ID	Sequential number assigned by World Health Organization's International Nonproprietary Name (INN) Programme	https://mednet-communities.net/inn
-UNII	FDA Unique Ingredient Identifier Code	http://fdasis.nlm.nih.gov/srs/srs.jsp
-PDB_CHEM_ID	PDB Chemical Components Dictionary id	http://www.rcsb.org
-CHEBI	Chemical Entities of Biological Interest	https://www.ebi.ac.uk/chebi/
-PUBCHEM_CID	PubChem Compound Id	https://pubchem.ncbi.nlm.nih.gov/
-IUPHAR_LIGAND_ID	IUPHAR/BPS Guide to PHARMACOLOGY Ligand Id	http://www.guidetopharmacology.org/
-ChEMBL_ID	ChEMBL DB Compound ID	https://www.ebi.ac.uk/chembl/
-AMPID	Gold Standard Drug Database	
-GCN_SEQNO	FDB MedKnowledge (formerly NDDF Plus)	
-GFC	Micromedex RED BOOK	
-GPPC	Medi-Span Master Drug Data Base	
-HIC_SEQN	FDB MedKnowledge (formerly NDDF Plus)	
-LISTING_SEQ_NO	FDA National Drug Code Directory	
-MMSL_CODE	Multum MediSource Lexicon	
-NDC	National Drug Code Directory	https://www.accessdata.fda.gov/scripts/cder/drugsatfda/
+VANDF	Veterans Health Administration National Drug File	
+NDFRT	National Drug File	
+NDDF	FDB MedKnowledge (formerly NDDF Plus)	
+RXNORM	RxNorm Vocabulary	
+MMSL	Multum MediSource Lexicon	
+SNOMEDCT_US	US Edition of SNOMED CT	
+MDDB	Master Drug Data Base	
+MMX	Micromedex RED BOOK	
+DRUGBANK_ID	DrugBank ID	http://www.drugbank.ca/drugs/
+MESH_DESCRIPTOR_UI	Medical Subject Headings (MeSH) Descriptor Unique ID	http://www.ncbi.nlm.nih.gov/mesh/?term=
+MESH_SUPPLEMENTAL_RECORD_UI	Medical Subject Headings (MeSH) Supplemental Record Unique ID	http://www.ncbi.nlm.nih.gov/mesh/?term=
+SECONDARY_CAS_RN	Secondary assigned CAS Registry Number	http://chem.sis.nlm.nih.gov/chemidplus/rn/
+KEGG_DRUG	KEGG DRUG Database ID	http://www.kegg.jp/entry/
+INN_ID	Sequential number assigned by World Health Organization's International Nonproprietary Name (INN) Programme	https://mednet-communities.net/inn/db/ViewINN.aspx?i=
+UNII	FDA Unique Ingredient Identifier Code	http://chem.sis.nlm.nih.gov/chemidplus/unii/
+PDB_CHEM_ID	PDB Chemical Components Dictionary id	http://www.rcsb.org/pdb/ligand/ligandsummary.do?hetId=
+CHEBI	Chemical Entities of Biological Interest	https://www.ebi.ac.uk/chebi/searchId.do?chebiId=
+PUBCHEM_CID	PubChem Compound Id	https://pubchem.ncbi.nlm.nih.gov/compound/
+IUPHAR_LIGAND_ID	IUPHAR/BPS Guide to PHARMACOLOGY Ligand Id	http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=
+ChEMBL_ID	ChEMBL DB Compound ID	https://www.ebi.ac.uk/chembl/compound/inspect/
 NUI	Veterans Health Administration National Drug File - Reference Terminology	
-SNOMEDCT	SNOMED Clinical Terms (drug information)	https://www.nlm.nih.gov/healthit/snomedct/index.html
-UMLSCUI	Unified Medical Language System (UMLS) Concept Unique Identifier	https://uts.nlm.nih.gov/
+UMLSCUI	Unified Medical Language System (UMLS) Concept Unique Identifier	
 VUID	Veterans Health Administration National Drug File	
-ANDA	FDA Abbreviated New Drug Application identifier	https://www.accessdata.fda.gov/scripts/cder/drugsatfda/
-NDA	FDA New Drug Application identifier	https://www.accessdata.fda.gov/scripts/cder/drugsatfda/
-RxCUI	RxNorm	https://www.nlm.nih.gov/research/umls/rxnorm/
