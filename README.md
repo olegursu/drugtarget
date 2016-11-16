@@ -67,3 +67,5 @@ DRUG_ID         |unique identifier assigned to each active ingredient
 SM_LINCS_ID     |LINCS compound id
 DRUG_NAME       |WHO INN name assigned to active ingredient, where available http://www.who.int/medicines/services/inn/en/
 
+###Updates (11/15/2016)
+Data in this repository can be also downloaded from [DrugCentral](http://drugcentral.org). Data in this repository will not be updated, please refer to [DrugCentral](http://drugcentral.org) for updates and changes.
